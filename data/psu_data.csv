@@ -1,0 +1,2200 @@
+brand,model,form_factor,efficiency_rating,wattage,modular,color,price
+abs,majesty,atx,80+ gold,0.5054945054945055,full,,0.0
+adata,xpg core reactor,atx,80+ gold,0.3131868131868132,full,black,0.0
+aerocool,aer-p7-p650w,atx,80+ platinum,0.2582417582417582,full,black,0.0
+aerocool,gt-1050sg,atx,80+ gold,0.478021978021978,semi,black,0.0
+aerocool,integrator,atx,80+ bronze,0.1758241758241758,no,black,0.0
+aerocool,lux rgb m,atx,80+ bronze,0.3131868131868132,semi,black,0.0
+aerocool,p7 platinum,atx,80+ platinum,0.3681318681318681,full,black,0.0
+aerocool,xpredator gm,atx,80+ gold,0.4505494505494506,semi,black,0.0
+anima,apii500,atx,80+ gold,0.1758241758241758,no,black / green,0.0
+antec,basiq,atx,80+,0.1373626373626373,no,black / green,0.0
+antec,edge,atx,80+ gold,0.2582417582417582,full,black / green,0.0
+antec,earthwatts platinum,atx,80+ platinum,0.2582417582417582,no,black / green,0.0
+antec,earthwatts,atx,80+ platinum,0.1483516483516483,no,black / green,0.0
+antec,earthwatts gold pro,atx,80+ gold,0.2582417582417582,semi,black,0.0
+antec,earthwatts green,atx,80+ bronze,0.3131868131868132,no,black,0.0
+antec,high current gamer,atx,80+ bronze,0.3131868131868132,no,black,0.0
+antec,high current gamer extreme,atx,80+ gold,0.3681318681318681,full,black,0.0
+antec,high current gamer gold,atx,80+ gold,0.2582417582417582,full,black,0.0
+antec,high current pro,atx,80+ gold,0.5604395604395604,no,black,0.0
+antec,ne450m,atx,80+ bronze,0.1483516483516483,semi,black,0.0
+antec,neoeco,atx,80+,0.1208791208791208,no,black,0.0
+antec,neoeco classic,atx,80+ bronze,0.2032967032967033,no,black,0.0
+antec,neoeco gold,atx,80+ gold,0.3131868131868132,semi,black,0.0
+antec,neoeco gold zen,atx,80+ gold,0.2307692307692307,no,black / gold,0.0
+antec,true power,atx,80+ bronze,0.3131868131868132,full,black / gold,0.0
+antec,vp,atx,80+,0.1483516483516483,no,black / gold,0.0
+antec,vp plus,atx,80+,0.2582417582417582,no,black / gold,0.0
+antec,vp-p,atx,80+,0.1483516483516483,no,black / gold,0.0
+apevia,ad,atx,80+,0.1758241758241758,no,black,0.0
+apevia,apevia atx-wr680w 680w atx12v v2.3 sli crossfire active pfc power supply,atx,80+,0.2747252747252747,semi,black,0.0
+apevia,ar,atx,80+,0.1758241758241758,no,black,0.0
+apevia,atx-aq700w-bk,atx,80+,0.2857142857142857,no,black,0.0
+apevia,atx-as500w-bk,atx,80+,0.1758241758241758,no,black,0.0
+apevia,atx-as500w-bl,atx,80+,0.1758241758241758,no,black,0.0
+apevia,atx-as500w-gn,atx,80+,0.1758241758241758,no,black,0.0
+apevia,atx-as520w-bk,atx,80+,0.1868131868131868,no,black,0.0
+apevia,atx-as600w-bl,atx,80+,0.2307692307692307,no,black,0.0
+apevia,atx-as680w-bk,atx,80+,0.2747252747252747,no,black,0.0
+apevia,atx-as680w-bl,atx,80+,0.2747252747252747,no,black,0.0
+apevia,atx-cb600w,atx,80+,0.2307692307692307,no,black,0.0
+apevia,atx-cb700w,atx,80+,0.2857142857142857,no,black,0.0
+apevia,atx-cw500wp4,atx,80+,0.1758241758241758,no,black,0.0
+apevia,atx-ib680w-bl,atx,80+,0.2747252747252747,no,black,0.0
+apevia,atx-ib680w-gn,atx,80+,0.2747252747252747,no,black,0.0
+apevia,atx-jp1000w,atx,80+ bronze,0.4505494505494506,no,black,0.0
+apevia,atx-jv650w,atx,80+ bronze,0.2582417582417582,no,black,0.0
+apevia,atx-rp500w,atx,80+ bronze,0.1758241758241758,no,black,0.0
+apevia,atx-tl450w,atx,80+ bronze,0.1483516483516483,no,black,0.0
+apevia,atx-tl450w-bk,atx,80+ bronze,0.1483516483516483,no,black,0.0
+apevia,atx-vn500w,atx,80+ bronze,0.1758241758241758,no,black,0.0
+apevia,atx-vs450w,atx,80+ bronze,0.1483516483516483,no,black,0.0
+apevia,atx-wa750w,atx,80+ bronze,0.3131868131868132,no,black,0.0
+apevia,atx-wa900w,atx,80+ bronze,0.3956043956043956,no,black,0.0
+apevia,astro,atx,80+ bronze,0.1483516483516483,no,black,0.0
+apevia,beast,atx,80+ bronze,0.2032967032967033,no,black,0.0
+apevia,itx-ap250w,mini itx,80+ bronze,0.0384615384615384,no,black,0.0
+apevia,prestige,atx,80+ gold,0.4505494505494506,no,black,0.0
+apevia,raptor,atx,80+ gold,0.1483516483516483,no,black / red,0.0
+apevia,signature,atx,80+ bronze,0.478021978021978,semi,black,0.0
+apevia,spirit,atx,80+ bronze,0.2307692307692307,no,black,0.0
+apevia,xg,atx,80+ bronze,0.1483516483516483,no,black,0.0
+apex,ag,atx,80+ gold,0.3131868131868132,full,black,0.0
+apex,al-8250sfx,sfx,80+ gold,0.0384615384615384,no,black,0.0
+apex,al-a350atx,atx,80+ gold,0.0934065934065934,no,black,0.0
+apex,al-a400atx,atx,80+ gold,0.1208791208791208,no,black,0.0
+apex,al-d500exp,atx,80+ gold,0.1758241758241758,no,black,0.0
+apex,sl-275tfx,tfx,80+ gold,0.0521978021978021,no,black,0.0
+asus,rog strix g,atx,80+ gold,0.3681318681318681,full,black,0.0
+asus,rog strix,atx,80+ gold,0.2582417582417582,full,black / red,0.0
+asus,rog thor 1200p,atx,80+ platinum,0.5604395604395604,full,black,0.0
+asus,rog thor 850,atx,80+ platinum,0.3681318681318681,full,black / red,0.0
+athena power,ap-mfatx22,mini itx,80+ platinum,0.0219780219780219,no,black / red,0.0
+athena power,ap-mfatx25,mini itx,80+,0.0384615384615384,no,black / red,0.0
+athena power,ap-mfatx30,mini itx,80+ bronze,0.0659340659340659,no,black / red,0.0
+athena power,ap-mfatx35,mini itx,80+ bronze,0.0934065934065934,no,black / red,0.0
+athena power,ap-mfatx40,mini itx,80+ bronze,0.1208791208791208,no,black / red,0.0
+athena power,ap-mfatx40p8,flex atx,80+ bronze,0.1208791208791208,no,black / red,0.0
+athena power,ap-mfatx50p8,flex atx,80+ silver,0.1758241758241758,no,black / red,0.0
+athena power,ap-mps3atx30h,atx,80+ silver,0.0659340659340659,no,black / red,0.0
+athena power,ap-mtfx30,tfx,80+ silver,0.0659340659340659,no,black / red,0.0
+athena power,ap-p4atx35,atx,80+ silver,0.0934065934065934,no,black / red,0.0
+athena power,ap-p4atx55fec,atx,80+ silver,0.2032967032967033,no,black / red,0.0
+athena power,ap-p4atx80fep8,atx,80+ bronze,0.3406593406593406,no,black / red,0.0
+athena power,ap-p4atx85fep,atx,80+ bronze,0.3681318681318681,no,black / red,0.0
+athena power,ap-p4atx95fepc,atx,80+,0.4230769230769231,no,black / red,0.0
+athena power,ap-tfx30,tfx,80+,0.0659340659340659,no,black / red,0.0
+athena power,ap-tfx40,tfx,80+ bronze,0.1208791208791208,no,black / red,0.0
+athena power,apollo 600 plus,sfx,80+ bronze,0.2307692307692307,no,black / red,0.0
+athena power,apollo,sfx,80+ bronze,0.0659340659340659,no,black / red,0.0
+azza,psaz-1000a14,atx,80+ bronze,0.4505494505494506,no,black / red,0.0
+azza,psaz-1000pt14,atx,80+ platinum,0.4505494505494506,semi,black / red,0.0
+azza,psaz-500b12,atx,80+ platinum,0.1758241758241758,no,black / red,0.0
+azza,psaz-650b14,atx,80+ platinum,0.2582417582417582,no,black / red,0.0
+azza,psaz-700a14,atx,80+ bronze,0.2857142857142857,no,black / red,0.0
+azza,psaz-750pt14,atx,80+ platinum,0.3131868131868132,semi,black / red,0.0
+azza,psaz-850b14,atx,80+ platinum,0.3681318681318681,no,black / red,0.0
+azza,psaz-850pt14,atx,80+ platinum,0.3681318681318681,semi,black / red,0.0
+azza,titan,atx,80+ bronze,0.4505494505494506,no,black / red,0.0
+bfg,bfgr650wgspsu,atx,80+ bronze,0.2582417582417582,no,black / red,0.0
+bfg,ex-1000,atx,80+ bronze,0.4505494505494506,full,black / red,0.0
+bitfenix,formula gold,atx,80+ gold,0.2582417582417582,no,black / red,0.0
+bitfenix,fury,atx,80+ gold,0.2032967032967033,semi,black / red,0.0
+bitfenix,whisper m,atx,80+ gold,0.3131868131868132,full,black / red,0.0
+broadway com corp,okia-black-550,atx,80+ gold,0.2032967032967033,no,black / red,0.0
+broadway com corp,okia-black-600,atx,80+ gold,0.2307692307692307,no,black / red,0.0
+broadway com corp,okia-black-680,atx,80+ gold,0.2747252747252747,no,black / red,0.0
+broadway com corp,p4-okia-550-rb,atx,80+ gold,0.2032967032967033,no,black / red,0.0
+chieftec,gps-600a8,atx,80+,0.2307692307692307,no,black / red,0.0
+chieftec,gps-700a8,atx,80+ bronze,0.2857142857142857,no,black / white,0.0
+coolmax,ca-300,atx,80+ bronze,0.0659340659340659,no,black / white,0.0
+coolmax,ca-350,atx,80+ bronze,0.0934065934065934,no,black / white,0.0
+coolmax,ca-400,atx,80+ bronze,0.1208791208791208,no,black / white,0.0
+coolmax,ca-450,atx,80+ bronze,0.1483516483516483,no,black / white,0.0
+coolmax,cl-500b,atx,80+ bronze,0.1758241758241758,no,black / white,0.0
+coolmax,cl-700b,atx,80+ bronze,0.2857142857142857,no,black / white,0.0
+coolmax,cm-300,micro atx,80+ bronze,0.0659340659340659,no,black / white,0.0
+coolmax,ct-450 (silver),atx,80+ bronze,0.1483516483516483,no,black / white,0.0
+coolmax,cu-600b,atx,80+ bronze,0.2307692307692307,semi,black / white,0.0
+coolmax,cu-700b,atx,80+ bronze,0.2857142857142857,semi,black / white,0.0
+coolmax,cug-700b,atx,80+ bronze,0.2857142857142857,full,black / white,0.0
+coolmax,cug-950b,atx,80+ bronze,0.4230769230769231,full,black / white,0.0
+coolmax,cul-650b,atx,80+ bronze,0.2582417582417582,semi,black / white,0.0
+coolmax,cul-750b,atx,80+ bronze,0.3131868131868132,semi,black / white,0.0
+coolmax,cul-850b,atx,80+ bronze,0.3681318681318681,semi,black / white,0.0
+coolmax,cul-950b,atx,80+ bronze,0.4230769230769231,semi,black / white,0.0
+coolmax,cuq-1200b,atx,80+,0.5604395604395604,no,black / white,0.0
+coolmax,cuq-1350b,atx,80+,0.6428571428571429,no,black / white,0.0
+coolmax,cx-400b,atx,80+,0.1208791208791208,no,black / white,0.0
+coolmax,cx-550b,atx,80+,0.2032967032967033,no,black / white,0.0
+coolmax,cxi-600b,atx,80+,0.2307692307692307,no,black / white,0.0
+coolmax,i-500,atx,80+,0.1758241758241758,no,black / white,0.0
+coolmax,mp-550b,atx,80+,0.2032967032967033,no,black / white,0.0
+coolmax,nw-650b,atx,80+,0.2582417582417582,no,black / white,0.0
+coolmax,rm-1000b,atx,80+,0.4505494505494506,no,black / white,0.0
+coolmax,rm-750b,atx,80+,0.3131868131868132,no,black / white,0.0
+coolmax,v-400,atx,80+,0.1208791208791208,no,black / white,0.0
+coolmax,v-500,atx,80+,0.1758241758241758,no,black / white,0.0
+coolmax,v-600,atx,80+,0.2307692307692307,no,black / white,0.0
+coolmax,vl-600b,atx,80+,0.2307692307692307,no,black / white,0.0
+coolmax,zp-1000b,atx,80+ bronze,0.4505494505494506,semi,black / white,0.0
+coolmax,zp-750b,atx,80+ bronze,0.3131868131868132,semi,black / white,0.0
+coolmax,zp-850b,atx,80+ bronze,0.3681318681318681,semi,black / white,0.0
+coolmax,zpg-1000b,atx,80+ gold,0.4505494505494506,semi,black / white,0.0
+coolmax,zpg-1200b,atx,80+ gold,0.5604395604395604,semi,black / white,0.0
+coolmax,zpg-500b,atx,80+ gold,0.1758241758241758,no,black / white,0.0
+coolmax,zu-1000b,atx,80+ bronze,0.4505494505494506,semi,black / white,0.0
+coolmax,zu-500b,atx,80+ bronze,0.1758241758241758,semi,black / white,0.0
+coolmax,zu-600b,atx,80+ bronze,0.2307692307692307,semi,black / white,0.0
+coolmax,zu-700b,atx,80+ bronze,0.2857142857142857,semi,black / white,0.0
+coolmax,zu-800b,atx,80+ bronze,0.3406593406593406,semi,black / white,0.0
+coolmax,zu-900b,atx,80+ bronze,0.3956043956043956,semi,black / white,0.0
+coolmax,zx-500,atx,80+,0.1758241758241758,no,black / white,0.0
+coolmax,zx-600,atx,80+,0.2307692307692307,no,black / white,0.0
+coolmax,zx-700,atx,80+,0.2857142857142857,no,black / white,0.0
+cooler master,b,atx,80+,0.2307692307692307,no,black,0.0
+cooler master,b500 ver.2,atx,80+,0.1758241758241758,no,black,0.0
+cooler master,elite,atx,80+,0.1538461538461538,no,black,0.0
+cooler master,elite v2,atx,80+,0.2032967032967033,no,black,0.0
+cooler master,elite v3,atx,80+,0.1758241758241758,no,black,0.0
+cooler master,extreme 2,atx,80+,0.1620879120879121,no,black,0.0
+cooler master,gxii,atx,80+ bronze,0.2032967032967033,no,black,0.0
+cooler master,masterwatt maker mij,atx,80+ titanium,0.5604395604395604,full,black,0.0
+cooler master,mwe,atx,80+,0.2032967032967033,no,black,0.0
+cooler master,mwe bronze,atx,80+ bronze,0.1758241758241758,no,black,0.0
+cooler master,mwe bronze v2,atx,80+ bronze,0.3131868131868132,no,black,0.0
+cooler master,mwe gold,atx,80+ gold,0.2582417582417582,no,black,0.0
+cooler master,mwe white v2 230v,atx,80+,0.2032967032967033,no,black,0.0
+cooler master,masterwatt,atx,80+ bronze,0.2032967032967033,semi,black,0.0
+cooler master,masterwatt lite 230v,atx,80+,0.2857142857142857,no,black,0.0
+cooler master,masterwatt lite full range,atx,80+,0.2307692307692307,no,black,0.0
+cooler master,masterwatt maker,atx,80+ titanium,0.5604395604395604,full,black,0.0
+cooler master,masterwatt tuf,atx,80+ bronze,0.3131868131868132,semi,black / gray,0.0
+cooler master,masterwatt tuf gaming alliance,atx,80+ bronze,0.2032967032967033,semi,black / gray,0.0
+cooler master,new gx,atx,80+,0.2032967032967033,no,black / gray,0.0
+cooler master,rs,atx,80+ bronze,0.2582417582417582,no,black / gray,0.0
+cooler master,real power,atx,80+,0.2417582417582418,semi,black / gray,0.0
+cooler master,silent pro gold,atx,80+ gold,0.2032967032967033,no,black / gray,0.0
+cooler master,silent pro hybrid,atx,80+ gold,0.478021978021978,full,black / gray,0.0
+cooler master,silent pro m,atx,80+,0.2307692307692307,full,black / gray,0.0
+cooler master,silent pro m2,atx,80+ silver,0.3681318681318681,semi,black / gray,0.0
+cooler master,silent pro platinum,atx,80+ platinum,0.2032967032967033,semi,black / gray,0.0
+cooler master,thunder,atx,80+ platinum,0.2307692307692307,no,black / gray,0.0
+cooler master,v gold,atx,80+ gold,0.3131868131868132,full,black,0.0
+cooler master,v gold v2,atx,80+ gold,0.2032967032967033,full,black,0.0
+cooler master,v platinum,atx,80+ platinum,0.4505494505494506,full,black,0.0
+cooler master,v sfx gold,sfx,80+ gold,0.3681318681318681,full,black,0.0
+cooler master,v semi-modular,atx,80+ gold,0.2582417582417582,semi,black,0.0
+cooler master,v1000,atx,80+ gold,0.4505494505494506,full,black,0.0
+cooler master,v1200,atx,80+ platinum,0.5604395604395604,full,black,0.0
+cooler master,v450,atx,80+ gold,0.1483516483516483,semi,black,0.0
+cooler master,v550,atx,80+ gold,0.2032967032967033,full,black,0.0
+cooler master,v650,atx,80+ gold,0.2582417582417582,full,black,0.0
+cooler master,v700,atx,80+ gold,0.2857142857142857,full,black,0.0
+cooler master,v750,atx,80+ gold,0.3131868131868132,full,black,0.0
+cooler master,v850,atx,80+ gold,0.3681318681318681,full,black,0.0
+cooler master,vsm,atx,80+ gold,0.2582417582417582,semi,black,0.0
+cooler master,extreme power,atx,80+ gold,0.2032967032967033,no,black,0.0
+cooler master,extreme power plus,atx,80+ gold,0.2857142857142857,no,black,0.0
+corsair,240v,atx,80+ titanium,0.7252747252747253,full,black,0.0
+corsair,ax,atx,80+ platinum,0.3186813186813187,full,black / silver,0.0
+corsair,axi,atx,80+ platinum,0.5604395604395604,full,black / silver,0.0
+corsair,csm,atx,80+ gold,0.3681318681318681,semi,black / silver,0.0
+corsair,cv,atx,80+ bronze,0.2582417582417582,no,black,0.0
+corsair,cx,atx,80+,0.1208791208791208,no,black,0.0
+corsair,cx (2017),atx,80+ bronze,0.2582417582417582,no,black,0.0
+corsair,cxf,atx,80+ bronze,0.2582417582417582,full,black,0.0
+corsair,cxm,atx,80+ bronze,0.1373626373626373,semi,black,0.0
+corsair,cxm (2015),atx,80+ bronze,0.1483516483516483,semi,black,0.0
+corsair,cxm v2 (2017),atx,80+ bronze,0.3131868131868132,semi,black / white,0.0
+corsair,hx,atx,80+ gold,0.3681318681318681,semi,black / white,0.0
+corsair,hx platinum,atx,80+ platinum,0.5604395604395604,full,black / white,0.0
+corsair,hxi,atx,80+ platinum,0.3681318681318681,full,black / white,0.0
+corsair,rm,atx,80+ gold,0.3681318681318681,full,black / white,0.0
+corsair,rm (2019),atx,80+ gold,0.3131868131868132,full,black,0.0
+corsair,rmi,atx,80+ gold,0.3681318681318681,full,black,0.0
+corsair,rmx,atx,80+ gold,0.2032967032967033,full,black,0.0
+corsair,rmx (2018),atx,80+ gold,0.3131868131868132,full,black,0.0
+corsair,rmx white,atx,80+ gold,0.3131868131868132,full,black,0.0
+corsair,rmx white (2018),atx,80+ gold,0.3131868131868132,full,white / black,0.0
+corsair,sf,sfx,80+ gold,0.1483516483516483,full,black,0.0
+corsair,txm,atx,80+ bronze,0.2032967032967033,semi,black,0.0
+corsair,txm gold,atx,80+ gold,0.2032967032967033,semi,black,0.0
+corsair,vs,atx,80+,0.1758241758241758,no,black,0.0
+corsair,vx,atx,80+,0.1483516483516483,no,black,0.0
+corsair,vengeance,atx,80+ silver,0.2582417582417582,semi,black,0.0
+cougar,a,atx,80+ bronze,0.2637362637362637,no,black,0.0
+cougar,cmd,atx,80+ bronze,0.1758241758241758,semi,black / blue,0.0
+cougar,cmx1200v3,atx,80+ bronze,0.5604395604395604,semi,black / blue,0.0
+cougar,cmx550v3,atx,80+ bronze,0.2032967032967033,semi,black / blue,0.0
+cougar,cmx700v3,atx,80+ bronze,0.2857142857142857,semi,black / blue,0.0
+cougar,cmx850v3,atx,80+ bronze,0.3681318681318681,semi,black / blue,0.0
+cougar,cougar-1000cmx,atx,80+ bronze,0.4505494505494506,no,black / blue,0.0
+cougar,cougar-700cmx,atx,80+ bronze,0.2857142857142857,no,black / blue,0.0
+cougar,cougar-a560,atx,80+ bronze,0.2087912087912088,no,black / blue,0.0
+cougar,cougar-a760,atx,80+ bronze,0.3186813186813187,no,black / blue,0.0
+cougar,cougar-gx1050,atx,80+ gold,0.478021978021978,semi,black / blue,0.0
+cougar,cougar-gx700,atx,80+ gold,0.2857142857142857,full,black / blue,0.0
+cougar,cougar-px700,atx,80+ bronze,0.2857142857142857,no,black / blue,0.0
+cougar,cougar-rs450,atx,80+,0.1483516483516483,no,black / blue,0.0
+cougar,cougar-rs650,atx,80+,0.2582417582417582,no,black / blue,0.0
+cougar,cougar-sx700,atx,80+ silver,0.2857142857142857,no,black / blue,0.0
+cougar,cougar-sx850,atx,80+ silver,0.3681318681318681,full,black / blue,0.0
+cougar,cougara500,atx,80+ bronze,0.1758241758241758,no,black / blue,0.0
+cougar,dx500,atx,80+,0.1758241758241758,no,black / blue,0.0
+cougar,dx600,atx,80+,0.2307692307692307,no,black / blue,0.0
+cougar,gx,atx,80+ gold,0.3406593406593406,full,black / gold,0.0
+cougar,gx v3,atx,80+ gold,0.3406593406593406,semi,black / gold,0.0
+cougar,gx-f,atx,80+ gold,0.2582417582417582,full,black / orange,0.0
+cougar,gx-s,atx,80+ gold,0.2582417582417582,no,black / orange,0.0
+cougar,lx,atx,80+ bronze,0.1758241758241758,full,black,0.0
+cougar,powerx,atx,80+ bronze,0.2857142857142857,no,black,0.0
+cougar,rsb400,atx,80+,0.1208791208791208,no,black,0.0
+cougar,rx500,atx,80+,0.1758241758241758,no,black,0.0
+cougar,rx600,atx,80+,0.2307692307692307,no,black,0.0
+cougar,sl400,atx,80+,0.1208791208791208,no,black,0.0
+cougar,sl500,atx,80+,0.1758241758241758,no,black,0.0
+cougar,sl600,atx,80+,0.2307692307692307,no,black,0.0
+cougar,stx,atx,80+,0.2582417582417582,no,black,0.0
+cougar,vte,atx,80+ bronze,0.2307692307692307,no,black,0.0
+cougar,vtx,atx,80+ bronze,0.1758241758241758,no,black,0.0
+cyonic,au-450x,atx,80+ gold,0.1483516483516483,full,black,0.0
+cyonic,au-550x,atx,80+ gold,0.2032967032967033,full,black,0.0
+cyonic,au-650x,atx,80+ gold,0.2582417582417582,full,black,0.0
+deepcool,da-n,atx,80+ bronze,0.2307692307692307,no,black,0.0
+deepcool,dn400,atx,80+ bronze,0.1208791208791208,no,black,0.0
+deepcool,dq550st,atx,80+ gold,0.2032967032967033,no,black,0.0
+deepcool,dq650st,atx,80+ gold,0.2582417582417582,no,black,0.0
+deepcool,dq750st,atx,80+ gold,0.3131868131868132,no,black,0.0
+deepcool,gamerstorm dq-m,atx,80+ gold,0.3131868131868132,full,black / silver,0.0
+diablotek,phd350,atx,80+ gold,0.0934065934065934,no,black / silver,0.0
+diablotek,phd380m,micro atx,80+ gold,0.1098901098901099,no,black / silver,0.0
+diablotek,phd450,atx,80+ gold,0.1483516483516483,no,black / silver,0.0
+diablotek,phd550,atx,80+ gold,0.2032967032967033,no,black / silver,0.0
+diablotek,phd650,atx,80+ gold,0.2582417582417582,no,black / silver,0.0
+diablotek,phd750,atx,80+ gold,0.3131868131868132,no,black / silver,0.0
+diablotek,phd850,atx,80+ gold,0.3681318681318681,no,black / silver,0.0
+diablotek,psda300,atx,80+ gold,0.0659340659340659,no,black / silver,0.0
+diablotek,psda320m,micro atx,80+ gold,0.0769230769230769,no,black / silver,0.0
+diablotek,psda350,atx,80+ gold,0.0934065934065934,no,black / silver,0.0
+diablotek,psda400,atx,80+ gold,0.1208791208791208,no,black / silver,0.0
+diablotek,psda500,atx,80+ gold,0.1758241758241758,no,black / silver,0.0
+diablotek,psda600,atx,80+ gold,0.2307692307692307,no,black / silver,0.0
+diablotek,psul575,atx,80+ gold,0.217032967032967,no,black / silver,0.0
+diablotek,psul675,atx,80+ gold,0.271978021978022,no,black / silver,0.0
+diablotek,psul775,atx,80+ gold,0.3269230769230769,no,black / silver,0.0
+dynapower,dp-300a,micro atx,80+ gold,0.0659340659340659,no,black / silver,0.0
+dynapower,ej-750a80,atx,80+ bronze,0.3131868131868132,full,black / silver,0.0
+dynapower,ep-25x.e152,micro atx,80+ bronze,0.0384615384615384,no,black / silver,0.0
+dynapower,ep-45x.0562b,atx,80+ bronze,0.1483516483516483,no,black / silver,0.0
+e-power,ep-1200p10-t2,atx,80+,0.5604395604395604,semi,black / silver,0.0
+e-power,ep-500ls-1,atx,80+,0.1758241758241758,no,black / silver,0.0
+e-power,ep-500ne-xv,atx,80+,0.1758241758241758,no,black / silver,0.0
+e-power,ep-550p5-t1,atx,80+,0.2032967032967033,full,black / silver,0.0
+e-power,ep-600ne-xv,atx,80+,0.2307692307692307,no,black / silver,0.0
+evga,100-b1-0450-k1,atx,80+ bronze,0.1483516483516483,no,black / silver,0.0
+evga,100-b1-0700-k1,atx,80+ bronze,0.2857142857142857,no,black / silver,0.0
+evga,100-n1-0400-l1,atx,80+ bronze,0.1208791208791208,no,black / silver,0.0
+evga,100-n1-0550-l1,atx,80+ bronze,0.2032967032967033,no,black / silver,0.0
+evga,100-n1-0650-l1,atx,80+ bronze,0.2582417582417582,no,black / silver,0.0
+evga,100-n1-0750-l1,atx,80+ bronze,0.3131868131868132,no,black / silver,0.0
+evga,100-w1-0430-kr,atx,80+,0.1373626373626373,no,black / silver,0.0
+evga,100-w1-0500-kr,atx,80+,0.1758241758241758,no,black / silver,0.0
+evga,100-w1-0600-k1,atx,80+,0.2307692307692307,no,black / silver,0.0
+evga,210-gq-0650-v1,atx,80+ gold,0.2582417582417582,semi,black / silver,0.0
+evga,210-gq-0750-v1,atx,80+ gold,0.3131868131868132,semi,black / silver,0.0
+evga,210-gq-0850-v1,atx,80+ gold,0.3681318681318681,semi,black / silver,0.0
+evga,210-gq-1000-v1,atx,80+ gold,0.4505494505494506,semi,black / silver,0.0
+evga,500b,atx,80+ bronze,0.1758241758241758,no,black / silver,0.0
+evga,600b,atx,80+ bronze,0.2307692307692307,no,black / silver,0.0
+evga,b2,atx,80+ bronze,0.3131868131868132,semi,black / silver,0.0
+evga,b3,atx,80+ bronze,0.2582417582417582,full,black / silver,0.0
+evga,b5,atx,80+ bronze,0.2032967032967033,full,black,0.0
+evga,ba,atx,80+ bronze,0.2307692307692307,no,black,0.0
+evga,bq,atx,80+ bronze,0.3681318681318681,semi,black,0.0
+evga,br,atx,80+ bronze,0.1483516483516483,no,black,0.0
+evga,bt,atx,80+ bronze,0.1758241758241758,no,black,0.0
+evga,bv,atx,80+ bronze,0.1483516483516483,no,black,0.0
+evga,classified sr-2,atx,80+ silver,0.5604395604395604,full,black,0.0
+evga,g1,atx,80+ gold,0.4505494505494506,full,black,0.0
+evga,g1+,atx,80+ gold,0.2582417582417582,full,black,0.0
+evga,g2,atx,80+ gold,0.6153846153846154,full,black,0.0
+evga,g2l,atx,80+ gold,0.3131868131868132,full,black,0.0
+evga,g3,atx,80+ gold,0.2582417582417582,full,black,0.0
+evga,g5,atx,80+ gold,0.4505494505494506,full,black / green,0.0
+evga,gd,atx,80+ gold,0.1483516483516483,no,black,0.0
+evga,gd (2019),atx,80+ gold,0.2307692307692307,no,black,0.0
+evga,p2,atx,80+ platinum,0.5604395604395604,full,black,0.0
+evga,pq,atx,80+ platinum,0.3131868131868132,semi,black,0.0
+evga,ps,atx,80+ platinum,0.4505494505494506,full,black,0.0
+evga,supernova,atx,80+ gold,0.2582417582417582,full,black,0.0
+evga,supernova classified,atx,80+ gold,0.7252747252747253,full,black,0.0
+evga,supernova ga,atx,80+ gold,0.2032967032967033,full,black,0.0
+evga,supernova gm,sfx,80+ gold,0.2582417582417582,full,black,0.0
+evga,supernova gt,atx,80+ gold,0.3131868131868132,full,black,0.0
+evga,supernova nex,atx,80+ bronze,0.3131868131868132,semi,black,0.0
+evga,supernova nex1500 classified,atx,80+ gold,0.7252747252747253,full,black,0.0
+evga,supernova nex750b bronze,atx,80+ bronze,0.3131868131868132,semi,black,0.0
+evga,supernova t2,atx,80+ titanium,0.3681318681318681,full,black,0.0
+evga,t2,atx,80+ titanium,0.7802197802197802,full,black,0.0
+evga,w3,atx,80+,0.1483516483516483,no,black,0.0
+enermax,digifanless,atx,80+ platinum,0.2032967032967033,full,black,0.0
+enermax,ees400awt_ii,atx,80+,0.1208791208791208,no,black,0.0
+enermax,egx1250ewt,atx,80+ bronze,0.5879120879120879,semi,black,0.0
+enermax,egx850ewl,atx,80+,0.3681318681318681,full,black,0.0
+enermax,elt720awt-eco_ii,atx,80+,0.2967032967032967,full,black,0.0
+enermax,emd625awt,atx,80+ bronze,0.2445054945054945,full,black,0.0
+enermax,emd625awt_ii,atx,80+ bronze,0.2445054945054945,full,black,0.0
+enermax,emg700awt,atx,80+ gold,0.2857142857142857,full,black,0.0
+enermax,emg800ewt,atx,80+ gold,0.3406593406593406,full,black,0.0
+enermax,emg900ewt,atx,80+ gold,0.3956043956043956,full,black,0.0
+enermax,enm750awt,atx,80+ bronze,0.3131868131868132,semi,black,0.0
+enermax,enp350ast,atx,80+ bronze,0.0934065934065934,no,black,0.0
+enermax,enp450ast,atx,80+ bronze,0.1483516483516483,no,black,0.0
+enermax,enp500awt,atx,80+,0.1758241758241758,no,black,0.0
+enermax,enp550awt,atx,80+,0.2032967032967033,no,black,0.0
+enermax,enp550awt b,atx,80+ bronze,0.2032967032967033,no,black,0.0
+enermax,enp600awt,atx,80+,0.2307692307692307,no,black,0.0
+enermax,enp650awt b,atx,80+ bronze,0.2582417582417582,no,black,0.0
+enermax,epg500awt,atx,80+ gold,0.1758241758241758,no,black,0.0
+enermax,epg600awt,atx,80+ gold,0.2307692307692307,no,black,0.0
+enermax,epm1200ewt,atx,80+ platinum,0.5604395604395604,full,black,0.0
+enermax,epm600awt,atx,80+ platinum,0.2307692307692307,semi,black,0.0
+enermax,epm750awt,atx,80+ platinum,0.3131868131868132,semi,black,0.0
+enermax,epm850ewt,atx,80+ platinum,0.3681318681318681,semi,black,0.0
+enermax,epr525awt_ii,atx,80+ bronze,0.1895604395604395,no,black,0.0
+enermax,erv1000ewt-g,atx,80+ gold,0.4505494505494506,semi,black,0.0
+enermax,erv1020ewt,atx,80+ silver,0.4615384615384615,full,black,0.0
+enermax,erv920ewt,atx,80+ silver,0.4065934065934066,full,black,0.0
+enermax,etk500awt,atx,80+ silver,0.1758241758241758,no,black,0.0
+enermax,etl450awt-m,atx,80+ bronze,0.1483516483516483,semi,black,0.0
+enermax,etl550awt-m,atx,80+ bronze,0.2032967032967033,semi,black,0.0
+enermax,etl650awt-m,atx,80+ bronze,0.2582417582417582,semi,black,0.0
+enermax,maxpro,atx,80+,0.1758241758241758,no,black,0.0
+enermax,maxrevo,atx,80+ gold,0.8901098901098902,full,black,0.0
+enermax,maxrevo sli,atx,80+ gold,0.6428571428571429,full,black / gold,0.0
+enermax,maxtytan,atx,80+ titanium,0.3406593406593406,full,black,0.0
+enermax,naxn adv.,atx,80+ bronze,0.2582417582417582,semi,black,0.0
+enermax,platimax,atx,80+ platinum,0.4505494505494506,semi,black,0.0
+enermax,platimax d.f.,atx,80+ platinum,0.478021978021978,full,black,0.0
+enermax,revolution duo,atx,80+ gold,0.1758241758241758,no,black,0.0
+enermax,revolution sfx,sfx,80+ gold,0.2032967032967033,full,black,0.0
+enermax,revolution x't,atx,80+ gold,0.1923076923076923,semi,black,0.0
+enermax,revolution x't ii,atx,80+ gold,0.3131868131868132,semi,black,0.0
+enermax,revolution87+,atx,80+ gold,0.2032967032967033,semi,black,0.0
+enermax,revobron,atx,80+ bronze,0.2307692307692307,semi,black,0.0
+enermax,revobron tga,atx,80+ bronze,0.1758241758241758,semi,black,0.0
+enermax,revolution d.f.,atx,80+ gold,0.2582417582417582,full,black,0.0
+enermax,triathlor,atx,80+ bronze,0.2582417582417582,semi,black,0.0
+enermax,triathlor eco,atx,80+ bronze,0.4505494505494506,semi,black,0.0
+enhance,enp-7660,flex atx,80+ platinum,0.2307692307692307,no,silver,0.0
+fsp group,atx300-pa,atx,80+ platinum,0.0659340659340659,no,silver,0.0
+fsp group,atx350-pnt,atx,80+ platinum,0.0934065934065934,no,silver,0.0
+fsp group,atx400-pnt,atx,80+ platinum,0.1208791208791208,no,silver,0.0
+fsp group,au-1000pro,atx,80+ gold,0.4505494505494506,no,silver,0.0
+fsp group,au-1200pro,atx,80+ gold,0.5604395604395604,no,silver,0.0
+fsp group,au-400fl,atx,80+ gold,0.1208791208791208,semi,silver,0.0
+fsp group,au-500fl,atx,80+ gold,0.1758241758241758,semi,silver,0.0
+fsp group,au-750m,atx,80+ gold,0.3131868131868132,semi,silver,0.0
+fsp group,au-850pro,atx,80+ gold,0.3681318681318681,no,silver,0.0
+fsp group,aurum 92+,atx,80+ platinum,0.1483516483516483,semi,silver,0.0
+fsp group,aurum cm gold 650,atx,80+ gold,0.2582417582417582,semi,silver,0.0
+fsp group,aurum gold 400,atx,80+ gold,0.1208791208791208,no,silver,0.0
+fsp group,aurum gold 500,atx,80+ gold,0.1758241758241758,no,silver,0.0
+fsp group,aurum gold 600,atx,80+ gold,0.2307692307692307,no,silver,0.0
+fsp group,aurum gold 700,atx,80+ gold,0.2857142857142857,no,silver,0.0
+fsp group,aurum s 400w,atx,80+ gold,0.1208791208791208,no,silver,0.0
+fsp group,aurum s 500w,atx,80+ gold,0.1758241758241758,no,silver,0.0
+fsp group,aurum s 600w,atx,80+ gold,0.2307692307692307,no,silver,0.0
+fsp group,berserker 500,atx,80+ bronze,0.1758241758241758,no,silver,0.0
+fsp group,berzerker,atx,80+ bronze,0.1758241758241758,no,silver,0.0
+fsp group,dagger,sfx,80+ gold,0.2307692307692307,full,black,0.0
+fsp group,dagger pro,sfx,80+ gold,0.2582417582417582,full,black,0.0
+fsp group,everest 85plus 800,atx,80+ bronze,0.3406593406593406,full,black,0.0
+fsp group,fsp180-50niv,micro atx,80+ bronze,0.0,no,black,0.0
+fsp group,fsp220-60le(80),mini itx,80+,0.0219780219780219,no,black,0.0
+fsp group,fsp270-60le,mini itx,80+,0.0494505494505494,no,black,0.0
+fsp group,fsp300-57fcb,flex atx,80+ gold,0.0659340659340659,full,black,0.0
+fsp group,fsp300-60ghs(85),sfx,80+ bronze,0.0659340659340659,no,black,0.0
+fsp group,fsp300-60ghs-r,sfx,80+,0.0659340659340659,no,black,0.0
+fsp group,fsp300-60ght,tfx,80+,0.0659340659340659,no,black,0.0
+fsp group,fsp300-60ght(85),tfx,80+ bronze,0.0659340659340659,no,black,0.0
+fsp group,fsp300-60lg,mini itx,80+ bronze,0.0659340659340659,no,black,0.0
+fsp group,fsp300-60lg-5k,flex atx,80+ bronze,0.0659340659340659,no,black,0.0
+fsp group,fsp300-60sgv,tfx,80+ gold,0.0659340659340659,no,black,0.0
+fsp group,fsp400-60fggba,flex atx,80+ gold,0.1208791208791208,no,black,0.0
+fsp group,fsp400-60ghs(85)-r,sfx,80+ bronze,0.1208791208791208,no,black,0.0
+fsp group,fsp450-60ghs(85)-r,sfx,80+ bronze,0.1483516483516483,no,black,0.0
+fsp group,fsp500-50fggbn,flex atx,80+ gold,0.1758241758241758,no,black,0.0
+fsp group,fsp500-50fspt,flex atx,80+ platinum,0.1758241758241758,no,black,0.0
+fsp group,fsp650-80egn,atx,80+ gold,0.2582417582417582,no,black,0.0
+fsp group,hexa 85+,atx,80+ bronze,0.3681318681318681,no,black,0.0
+fsp group,hexa+,atx,80+ bronze,0.1758241758241758,no,black,0.0
+fsp group,hydro g,atx,80+ gold,0.2582417582417582,full,black,0.0
+fsp group,hydro g pro,atx,80+ gold,0.3131868131868132,full,black,0.0
+fsp group,hydro ge,atx,80+ gold,0.2032967032967033,full,black,0.0
+fsp group,hydro ptm,atx,80+ platinum,0.2032967032967033,full,black,0.0
+fsp group,hydro x,atx,80+ gold,0.2582417582417582,no,black,0.0
+fsp group,hyper m,atx,80+,0.2857142857142857,semi,black,0.0
+fsp group,hyper m85+,atx,80+ bronze,0.2032967032967033,semi,black,0.0
+fsp group,pt1000fm,atx,80+ platinum,0.4505494505494506,full,black,0.0
+fsp group,pt1200fm,atx,80+ platinum,0.5604395604395604,full,black,0.0
+fsp group,pt850fm,atx,80+ platinum,0.3681318681318681,full,black,0.0
+fsp group,raider 450,atx,80+ bronze,0.1483516483516483,no,black,0.0
+fsp group,raider 550,atx,80+ bronze,0.2032967032967033,no,black,0.0
+fsp group,raider 650,atx,80+ bronze,0.2582417582417582,no,black,0.0
+fsp group,raider 750,atx,80+ bronze,0.3131868131868132,no,black,0.0
+fsp group,raider s 450,atx,80+ silver,0.1483516483516483,no,black,0.0
+fsp group,raider s 550,atx,80+ silver,0.2032967032967033,no,black,0.0
+fsp group,raider s 650,atx,80+ silver,0.2582417582417582,no,black,0.0
+fsp group,raider s 750,atx,80+ silver,0.3131868131868132,no,black,0.0
+fsp group,saga+ 400r,atx,80+ silver,0.1208791208791208,no,black,0.0
+fsp group,saga+ 450r,atx,80+ silver,0.1483516483516483,no,black,0.0
+fsp group,saga+ 500r,atx,80+ silver,0.1758241758241758,no,black,0.0
+fsp group,sfx pro,sfx,80+ bronze,0.1483516483516483,no,black,0.0
+fsp group,twins,atx,80+ gold,0.1758241758241758,no,black,0.0
+fsp group,vital 400,atx,80+,0.1208791208791208,no,black,0.0
+fsp group,zen 400,atx,80+ bronze,0.1208791208791208,no,black,0.0
+fractal design,edison m,atx,80+ gold,0.3131868131868132,semi,black,0.0
+fractal design,integra m,atx,80+ bronze,0.2032967032967033,semi,black,0.0
+fractal design,integra r2,atx,80+ bronze,0.2582417582417582,no,black,0.0
+fractal design,ion sfx-l,sfx,80+ gold,0.1758241758241758,full,black,0.0
+fractal design,ion+,atx,80+ platinum,0.2637362637362637,full,black,0.0
+fractal design,newton r3,atx,80+ platinum,0.4505494505494506,semi,black,0.0
+fractal design,tesla r2,atx,80+ gold,0.1758241758241758,no,black,0.0
+g.skill,ripjaws gold,atx,80+ gold,0.3131868131868132,full,black,0.0
+g.skill,ripjaws platinum,atx,80+ platinum,0.3681318681318681,full,black,0.0
+gamdias,astrape e1,atx,80+,0.2032967032967033,no,black / multicolor,0.0
+gamdias,astrape m1,atx,80+,0.2032967032967033,no,black / multicolor,0.0
+gamdias,astrape m1 b,atx,80+ bronze,0.2582417582417582,no,black / multicolor,0.0
+gamdias,astrape p1 g,atx,80+ gold,0.3131868131868132,full,black / multicolor,0.0
+gamdias,cyclops x1 p,atx,80+ platinum,0.5604395604395604,full,black / multicolor,0.0
+gamdias,kratos e1,atx,80+,0.1758241758241758,no,black,0.0
+gamdias,kratos m1 b,atx,80+ gold,0.3131868131868132,semi,black,0.0
+gamdias,kratos p1 g,atx,80+ gold,0.2582417582417582,no,black,0.0
+gamemax,gm,atx,80+ gold,0.8076923076923077,no,black,0.0
+gamemax,gm-1050,atx,80+ silver,0.478021978021978,semi,black,0.0
+gamemax,gp,atx,80+ bronze,0.1208791208791208,no,black,0.0
+gamemax,gs,sfx,80+ bronze,0.0659340659340659,no,silver,0.0
+gamemax,gt,tfx,80+ bronze,0.0659340659340659,no,silver,0.0
+gamemax,rgb rainbow,atx,80+ gold,0.3131868131868132,full,black,0.0
+gigabyte,aorus p gm,atx,80+ gold,0.3131868131868132,full,black / silver,0.0
+gigabyte,b-h,atx,80+ bronze,0.2857142857142857,semi,black,0.0
+gigabyte,ge-p450p-c2,atx,80+,0.2032967032967033,no,black,0.0
+gigabyte,gp-g750h,atx,80+ gold,0.3131868131868132,semi,black,0.0
+gigabyte,greenmax plus,atx,80+ bronze,0.2582417582417582,no,black,0.0
+gigabyte,p gm,atx,80+ gold,0.3681318681318681,full,black,0.0
+gigabyte,p-b,atx,80+ bronze,0.2582417582417582,no,black,0.0
+gigabyte,pb500,atx,80+ bronze,0.1758241758241758,no,black,0.0
+gigabyte,pw400,atx,80+,0.1208791208791208,no,black,0.0
+hec,cougar,atx,80+,0.2857142857142857,semi,black,0.0
+hec,hec200sa-2fx,mini itx,80+,0.0109890109890109,no,black,0.0
+hec,hec200sa2fx,mini itx,80+,0.0109890109890109,no,black,0.0
+hec,hec200safx,mini itx,80+,0.0109890109890109,no,black,0.0
+hec,hec250srt,sfx,80+,0.0384615384615384,no,black,0.0
+hec,hec350tewx,atx,80+,0.0934065934065934,no,black,0.0
+hec,hp485d,atx,80+,0.1675824175824176,no,black,0.0
+hec,hp485d retail,atx,80+,0.1675824175824176,no,black,0.0
+hec,hp585d,atx,80+,0.2225274725274725,no,black,0.0
+hec,hp585d retail,atx,80+,0.2225274725274725,no,black,0.0
+hec,orion,atx,80+,0.2225274725274725,no,black,0.0
+hec,raptor500,atx,80+,0.1758241758241758,no,black,0.0
+hec,x-power pro 600,atx,80+,0.2307692307692307,no,black,0.0
+hec,x-power pro 650,atx,80+,0.2582417582417582,no,black,0.0
+hec,xp1080,atx,80+,0.4945054945054945,full,black,0.0
+hec,xpower585 oem,atx,80+,0.2225274725274725,no,black,0.0
+hec,xpower585 retail,atx,80+,0.2225274725274725,no,black,0.0
+hec,xpower780,atx,80+,0.2307692307692307,no,black,0.0
+hec,zephy580mx,atx,80+,0.2197802197802197,no,black,0.0
+hec,zephyr650,atx,80+,0.2582417582417582,no,black,0.0
+hec,zephyr mx-750,atx,80+ bronze,0.3131868131868132,no,black,0.0
+in win,classic,atx,80+ platinum,0.3956043956043956,full,black,0.0
+in win,commander,atx,80+,0.5604395604395604,full,black,0.0
+in win,commander ii,atx,80+ bronze,0.3131868131868132,full,black,0.0
+in win,commander iii,atx,80+ gold,0.3406593406593406,semi,black,0.0
+in win,commander iii 600,atx,80+ gold,0.2307692307692307,semi,black,0.0
+in win,compact,sfx,80+ gold,0.2857142857142857,full,black,0.0
+in win,glacier,atx,80+ gold,0.3956043956043956,semi,black,0.0
+in win,greenme 550,atx,80+ bronze,0.2032967032967033,no,black,0.0
+in win,greenme 650,atx,80+ bronze,0.2582417582417582,no,black,0.0
+in win,ip-p300bn7-2,atx,80+,0.0659340659340659,no,black,0.0
+in win,ip-s200df1-0,tfx,80+,0.0109890109890109,no,black,0.0
+in win,ip-s300ff1-0,tfx,80+,0.0659340659340659,no,black,0.0
+in win,ip-s350cq2-0t,atx,80+,0.0934065934065934,no,black,0.0
+in win,p,atx,80+ gold,0.2582417582417582,full,black,0.0
+in win,pb,atx,80+ gold,0.3131868131868132,full,black,0.0
+insignia,ns-pcw5508,atx,80+ bronze,0.2032967032967033,no,black,0.0
+kolink,classic power,atx,80+ bronze,0.1208791208791208,no,black / red,0.0
+kolink,enclave,atx,80+ gold,0.2307692307692307,full,black / yellow,0.0
+kolink,kl-sfx250,sfx,80+ bronze,0.0384615384615384,no,black / green,0.0
+kolink,kl-sfx350,sfx,80+ bronze,0.0934065934065934,no,black / green,0.0
+kolink,kl-sfx450,sfx,80+ bronze,0.1483516483516483,no,black / green,0.0
+kingwin,abt-1050mm,atx,80+ bronze,0.478021978021978,no,black / green,0.0
+kingwin,abt-450mm,atx,80+ bronze,0.1483516483516483,no,black / green,0.0
+kingwin,abt-610mm,atx,80+ bronze,0.2362637362637362,no,black / green,0.0
+kingwin,abt-650mm,btx,80+ bronze,0.2582417582417582,no,black / green,0.0
+kingwin,abt-730mm,atx,80+ bronze,0.3021978021978022,no,black / green,0.0
+kingwin,abt-750mm,btx,80+ bronze,0.3131868131868132,no,black / green,0.0
+kingwin,abt-850mm,atx,80+ bronze,0.3681318681318681,no,black / green,0.0
+kingwin,ap-550,atx,80+ platinum,0.2032967032967033,no,black / green,0.0
+kingwin,kx-1000,atx,80+ bronze,0.4505494505494506,semi,black / green,0.0
+kingwin,lazer,atx,80+,0.3131868131868132,full,black / green,0.0
+kingwin,lazer gold,atx,80+ gold,0.2857142857142857,full,black / green,0.0
+kingwin,lazer platinum,atx,80+ platinum,0.3681318681318681,semi,black / green,0.0
+kingwin,mk,atx,80+ platinum,0.3681318681318681,no,black / green,0.0
+kingwin,mkx,atx,80+ platinum,0.3681318681318681,semi,black / green,0.0
+kingwin,mach 1,btx,80+ bronze,0.5714285714285714,full,black / green,0.0
+kingwin,str-500,atx,80+ platinum,0.1758241758241758,semi,black / green,0.0
+kuroutoshikou,krpw-l5-500w/80+,atx,80+,0.1758241758241758,no,black / green,0.0
+lepa,b550-mb,atx,80+ bronze,0.2032967032967033,semi,black / green,0.0
+lepa,b550-sa,atx,80+ bronze,0.2032967032967033,no,black / green,0.0
+lepa,b650-sa,atx,80+ bronze,0.2582417582417582,no,black / green,0.0
+lepa,b850-ma,atx,80+ bronze,0.3681318681318681,semi,black / green,0.0
+lepa,g series,atx,80+ gold,0.7802197802197802,full,black / green,0.0
+lepa,g1000-ma,atx,80+ gold,0.4505494505494506,semi,black / green,0.0
+lepa,g1000-mb,atx,80+ gold,0.4505494505494506,full,black / green,0.0
+lepa,g1200-ma,atx,80+ gold,0.5604395604395604,semi,black / green,0.0
+lepa,g800-mb,atx,80+ gold,0.3406593406593406,semi,black / green,0.0
+lepa,mx-f1,atx,80+ gold,0.1208791208791208,no,black / green,0.0
+lepa,maxbron,atx,80+ bronze,0.3406593406593406,semi,black / green,0.0
+lepa,maxgold,atx,80+ gold,0.1758241758241758,no,black / green,0.0
+lepa,n,atx,80+ gold,0.1758241758241758,no,black / green,0.0
+lepa,p1375-ma,atx,80+ platinum,0.6565934065934066,full,black / green,0.0
+lian li,pe,sfx,80+ gold,0.2032967032967033,full,black / green,0.0
+linkworld,lpg12-35-p4,atx,80+ gold,0.2032967032967033,no,black / green,0.0
+linkworld,lpg8 630w,atx,80+ gold,0.2472527472527472,no,black / green,0.0
+linkworld,lpk2-30-p4,atx,80+ gold,0.1758241758241758,no,black / green,0.0
+logisys,at750bk,atx,80+ bronze,0.3131868131868132,no,black / green,0.0
+logisys,ps350ma,micro atx,80+ bronze,0.0934065934065934,no,black / green,0.0
+logisys,ps480d,atx,80+ bronze,0.1648351648351648,no,black / green,0.0
+logisys,ps480d-bk,atx,80+ bronze,0.1648351648351648,no,black / green,0.0
+logisys,ps480d2,atx,80+ bronze,0.1648351648351648,no,black / green,0.0
+logisys,ps480e12,atx,80+ bronze,0.1648351648351648,no,black / green,0.0
+logisys,ps480x2,atx,80+ bronze,0.1648351648351648,no,black / green,0.0
+logisys,ps550ac,atx,80+ bronze,0.2032967032967033,no,black / green,0.0
+logisys,ps550e12,atx,80+ bronze,0.2032967032967033,no,black / green,0.0
+logisys,ps550e12bk,atx,80+ bronze,0.2032967032967033,no,black / green,0.0
+logisys,ps575xbk,atx,80+ bronze,0.217032967032967,no,black / green,0.0
+logisys,ps600xbk,atx,80+ bronze,0.2307692307692307,no,black / green,0.0
+mars gaming,mp700,atx,80+ bronze,0.2857142857142857,no,black / green,0.0
+mars gaming,mpii650,atx,80+ bronze,0.2582417582417582,no,black / red,0.0
+mistel,mx550 fanless,atx,80+ gold,0.2032967032967033,full,black,0.0
+mistel,mx650 fanless,atx,80+ platinum,0.2582417582417582,full,black,0.0
+montech,century,atx,80+ gold,0.3681318681318681,full,black,0.0
+mushkin,mknpsjl1000,atx,80+ gold,0.4505494505494506,no,black,0.0
+mushkin,mknpsjl800,atx,80+ silver,0.3406593406593406,no,black,0.0
+nox,hummer,atx,80+ bronze,0.2582417582417582,semi,black,0.0
+nox,hummer gd,atx,80+ gold,0.3131868131868132,no,black,0.0
+nox,hummer x,atx,80+ gold,0.2582417582417582,full,black,0.0
+nox,urano tx,atx,80+ gold,0.3681318681318681,no,black,0.0
+nzxt,c,atx,80+ gold,0.2582417582417582,full,black,0.0
+nzxt,e,atx,80+ gold,0.2582417582417582,full,black,0.0
+nzxt,hale 90,atx,80+ gold,0.3131868131868132,full,black,0.0
+nzxt,hale82,atx,80+ bronze,0.3131868131868132,semi,black,0.0
+nzxt,hale82 v2,atx,80+ bronze,0.2857142857142857,full,black,0.0
+nzxt,hale82n,atx,80+ bronze,0.2582417582417582,no,black,0.0
+nzxt,hale90 v2,atx,80+ gold,0.3681318681318681,full,black,0.0
+nexus,nx-5000 r3,atx,80+ bronze,0.1923076923076923,no,black,0.0
+ocz,elitexstream,atx,80+,0.4505494505494506,no,black,0.0
+ocz,fatal1ty,atx,80+ gold,0.4505494505494506,semi,black,0.0
+ocz,modxstream pro,atx,80+,0.2857142857142857,semi,black,0.0
+ocz,stealthxstream,atx,80+,0.2857142857142857,no,black,0.0
+ocz,stealthxstream ii,atx,80+,0.2307692307692307,no,black,0.0
+ocz,z series gold,atx,80+ gold,0.3681318681318681,semi,black,0.0
+ocz,zs,atx,80+ bronze,0.2582417582417582,no,black,0.0
+ocz,zt,atx,80+ bronze,0.3131868131868132,full,black,0.0
+ocz,zx,atx,80+ gold,0.5879120879120879,full,black,0.0
+pc power & cooling,fatal1ty gaming,atx,80+ gold,0.3131868131868132,full,black / red,0.0
+pc power & cooling,ppct1200esa,atx,80+ gold,0.5604395604395604,no,black / red,0.0
+pc power & cooling,ppct860,atx,80+,0.3736263736263736,no,black / red,0.0
+pc power & cooling,power master,atx,80+ bronze,0.2307692307692307,semi,black / red,0.0
+pc power & cooling,s47atx-b,atx,80+ bronze,0.1593406593406593,no,black / red,0.0
+pc power & cooling,s61eps-b,atx,80+,0.2362637362637362,no,black / red,0.0
+pc power & cooling,s75cf,atx,80+,0.3131868131868132,no,black / red,0.0
+pc power & cooling,s75cf-b,atx,80+,0.3131868131868132,no,black / red,0.0
+pc power & cooling,silencer,atx,80+ silver,0.3186813186813187,no,black / red,0.0
+pc power & cooling,silencer mk iii,atx,80+ bronze,0.1758241758241758,semi,black / red,0.0
+pc power & cooling,silencer mk ii,atx,80+ silver,0.4230769230769231,no,black / red,0.0
+pc power & cooling,t12w,atx,80+ silver,0.5604395604395604,no,black / red,0.0
+phanteks,amp,atx,80+ gold,0.2582417582417582,full,black,0.0
+phanteks,ph-p550gf,atx,80+ gold,0.2032967032967033,no,black,0.0
+phanteks,ph-p650gs,atx,80+ gold,0.2582417582417582,no,black,0.0
+phanteks,ph-p750gs,atx,80+ gold,0.3131868131868132,no,black,0.0
+phanteks,revolt pro,atx,80+ gold,0.3681318681318681,full,silver / black,0.0
+phanteks,revolt x,atx,80+ platinum,0.5604395604395604,full,black / silver,0.0
+powerspec,ps 550bf,atx,80+ bronze,0.2032967032967033,no,black,0.0
+powerspec,ps 650bf,atx,80+ bronze,0.2582417582417582,no,black,0.0
+powerspec,ps 650bsm,atx,80+ bronze,0.2582417582417582,semi,black,0.0
+powerspec,ps 650gsm,atx,80+ gold,0.2582417582417582,semi,black,0.0
+powerspec,ps 750bsm,atx,80+ bronze,0.3131868131868132,semi,black,0.0
+powerspec,psx 850gfm,atx,80+ gold,0.3681318681318681,full,black,0.0
+riotoro,builder,atx,80+,0.1758241758241758,no,black / red,0.0
+riotoro,enigma,atx,80+ gold,0.3681318681318681,semi,black / red,0.0
+riotoro,enigma g2,atx,80+ gold,0.2582417582417582,full,black / yellow,0.0
+riotoro,onyx,atx,80+ bronze,0.3131868131868132,semi,black / yellow,0.0
+raidmax,cobra,atx,80+ gold,0.1758241758241758,no,black / gold,0.0
+raidmax,rx-1000ae,atx,80+ gold,0.4505494505494506,semi,black / gold,0.0
+raidmax,rx-1200ae,atx,80+ bronze,0.5604395604395604,semi,black / gold,0.0
+raidmax,rx-380k,atx,80+ bronze,0.1098901098901099,no,black / gold,0.0
+raidmax,rx-450k,atx,80+ bronze,0.1483516483516483,no,black / gold,0.0
+raidmax,rx-500af,atx,80+ bronze,0.1758241758241758,no,black / gold,0.0
+raidmax,rx-530ss,atx,80+ bronze,0.1923076923076923,semi,black / gold,0.0
+raidmax,rx-535ap,atx,80+ bronze,0.195054945054945,semi,black / gold,0.0
+raidmax,rx-600af,atx,80+ bronze,0.2307692307692307,no,black / gold,0.0
+raidmax,rx-630ss,atx,80+ bronze,0.2472527472527472,semi,black / gold,0.0
+raidmax,rx-635ap,atx,80+ bronze,0.25,semi,black / gold,0.0
+raidmax,rx-700ac,atx,80+ bronze,0.2857142857142857,semi,black / gold,0.0
+raidmax,rx-700at,atx,80+ titanium,0.2857142857142857,semi,black,0.0
+raidmax,rx-730ss,atx,80+ titanium,0.3021978021978022,semi,black,0.0
+raidmax,rx-735ap,atx,80+ bronze,0.3049450549450549,semi,black,0.0
+raidmax,rx-835ap,atx,80+ bronze,0.3598901098901099,semi,black,0.0
+raidmax,rx-850ae,atx,80+ gold,0.3681318681318681,semi,black,0.0
+raidmax,scorpio,atx,80+ bronze,0.195054945054945,semi,black / blue,0.0
+raidmax,thunder rgb,atx,80+ bronze,0.195054945054945,semi,black,0.0
+raidmax,vampire,atx,80+ gold,0.2857142857142857,semi,black,0.0
+replace power,rp-tfx-420w,tfx,80+ gold,0.1318681318681319,no,black,0.0
+rocketfish,rf-900wps,atx,80+ gold,0.3956043956043956,full,black,0.0
+rosewill,arc 450,atx,80+ bronze,0.1483516483516483,no,black,0.0
+rosewill,arc 550,atx,80+ bronze,0.2032967032967033,no,black,0.0
+rosewill,arc 650,atx,80+ bronze,0.2582417582417582,no,black,0.0
+rosewill,arc 750,atx,80+ bronze,0.3131868131868132,no,black,0.0
+rosewill,arc m450,atx,80+ bronze,0.1483516483516483,semi,black,0.0
+rosewill,arc m550,atx,80+ bronze,0.2032967032967033,semi,black,0.0
+rosewill,arc m650,atx,80+ bronze,0.2582417582417582,semi,black,0.0
+rosewill,capstone-1000-m,atx,80+ gold,0.4505494505494506,semi,black,0.0
+rosewill,capstone,atx,80+ gold,0.2582417582417582,no,black,0.0
+rosewill,capstone g1000,atx,80+ gold,0.4505494505494506,semi,black,0.0
+rosewill,capstone g1200,atx,80+ gold,0.5604395604395604,semi,black,0.0
+rosewill,capstone g750,atx,80+ gold,0.3131868131868132,semi,black,0.0
+rosewill,capstone g850,atx,80+ gold,0.3681318681318681,semi,black,0.0
+rosewill,fortress,atx,80+ platinum,0.1483516483516483,no,black,0.0
+rosewill,glacier 1000m,atx,80+ bronze,0.4505494505494506,semi,black,0.0
+rosewill,glacier 1200m,atx,80+ bronze,0.5604395604395604,semi,black,0.0
+rosewill,glacier 500m,atx,80+ bronze,0.1758241758241758,semi,black,0.0
+rosewill,glacier 600m,atx,80+ bronze,0.2307692307692307,semi,black,0.0
+rosewill,glacier 700m,atx,80+ bronze,0.2857142857142857,semi,black,0.0
+rosewill,glacier 850m,atx,80+ bronze,0.3681318681318681,semi,black,0.0
+rosewill,green,atx,80+,0.2472527472527472,no,black,0.0
+rosewill,hercules-1600,atx,80+ silver,0.7802197802197802,semi,black,0.0
+rosewill,hercules-1600s,atx,80+ gold,0.7802197802197802,semi,black,0.0
+rosewill,hive,atx,80+ bronze,0.3131868131868132,semi,black,0.0
+rosewill,lepton,atx,80+ gold,0.1758241758241758,semi,black,0.0
+rosewill,lepton 600,atx,80+ gold,0.2307692307692307,semi,black,0.0
+rosewill,lepton 700,atx,80+ gold,0.2857142857142857,semi,black,0.0
+rosewill,lp-6100c,atx,80+ gold,0.0659340659340659,no,black,0.0
+rosewill,libertas,atx,80+ bronze,0.3406593406593406,full,black,0.0
+rosewill,lightning,atx,80+ gold,0.3406593406593406,semi,black,0.0
+rosewill,photon 1350,atx,80+ gold,0.6428571428571429,full,black,0.0
+rosewill,photon-1050,atx,80+ gold,0.478021978021978,full,black,0.0
+rosewill,photon-1200,atx,80+ gold,0.5604395604395604,full,black,0.0
+rosewill,photon-550,atx,80+ gold,0.2032967032967033,full,black,0.0
+rosewill,photon-650,atx,80+ gold,0.2582417582417582,full,black,0.0
+rosewill,photon-750,atx,80+ gold,0.3131868131868132,full,black,0.0
+rosewill,photon-850,atx,80+ gold,0.3681318681318681,full,black,0.0
+rosewill,quark 1000,atx,80+ platinum,0.4505494505494506,full,black,0.0
+rosewill,quark 1200,atx,80+ platinum,0.5604395604395604,full,black,0.0
+rosewill,quark 550,atx,80+ platinum,0.2032967032967033,full,black,0.0
+rosewill,quark 650,atx,80+ platinum,0.2582417582417582,full,black,0.0
+rosewill,quark 750,atx,80+ platinum,0.3131868131868132,full,black,0.0
+rosewill,quark 850,atx,80+ platinum,0.3681318681318681,full,black,0.0
+rosewill,rbr1000-m,atx,80+ bronze,0.4505494505494506,semi,black,0.0
+rosewill,rd-z,atx,80+,0.1483516483516483,no,black,0.0
+rosewill,rd600-m,atx,80+,0.2307692307692307,semi,black,0.0
+rosewill,rp600v2-s-sl,atx,80+,0.2307692307692307,no,black,0.0
+rosewill,rv2-500,atx,80+,0.1758241758241758,no,black,0.0
+rosewill,rv2-600,atx,80+,0.2307692307692307,no,black,0.0
+rosewill,rv2-700,atx,80+,0.2857142857142857,no,black,0.0
+rosewill,rv350,atx,80+,0.0934065934065934,no,black,0.0
+rosewill,rv350-2,atx,80+,0.0934065934065934,no,black,0.0
+rosewill,rx750-s-b,atx,80+,0.3131868131868132,no,black,0.0
+rosewill,rx850-s-b,atx,80+,0.3681318681318681,no,black,0.0
+rosewill,sl-300tfx,tfx,80+,0.0659340659340659,no,black,0.0
+rosewill,silentnight-500,atx,80+ platinum,0.1758241758241758,semi,black,0.0
+rosewill,stallion,atx,80+ platinum,0.1758241758241758,no,black,0.0
+rosewill,tokamak 1200,atx,80+ titanium,0.5604395604395604,full,black,0.0
+rosewill,tachyon,atx,80+ platinum,0.2582417582417582,semi,black,0.0
+rosewill,valens-500,atx,80+ gold,0.1758241758241758,no,black,0.0
+rosewill,valens-500m,atx,80+ gold,0.1758241758241758,semi,black,0.0
+rosewill,valens-600,atx,80+ gold,0.2307692307692307,no,black,0.0
+rosewill,valens-600m,atx,80+ gold,0.2307692307692307,semi,black,0.0
+rosewill,valens-700,atx,80+ gold,0.2857142857142857,no,black,0.0
+rosewill,valens-700m,atx,80+ gold,0.2857142857142857,semi,black,0.0
+sharkoon,silentstorm,sfx,80+ bronze,0.1483516483516483,no,black,0.0
+sharkoon,silentstorm cool zero,atx,80+ gold,0.2582417582417582,full,black,0.0
+sharkoon,silentstorm icewind,atx,80+ bronze,0.2032967032967033,semi,white / black,0.0
+sharkoon,silentstorm icewind black,atx,80+ bronze,0.2032967032967033,semi,black,0.0
+sharkoon,wpc bronze,atx,80+ bronze,0.2032967032967033,no,black,0.0
+sharkoon,wpm bronze,atx,80+ bronze,0.2307692307692307,semi,black,0.0
+sharkoon,wpm gold zero,atx,80+ gold,0.2032967032967033,semi,black,0.0
+seasonic,core gm,atx,80+ gold,0.2582417582417582,semi,black,0.0
+seasonic,core gc,atx,80+ gold,0.2582417582417582,no,black,0.0
+seasonic,eco,atx,80+ bronze,0.1373626373626373,no,black,0.0
+seasonic,focus,atx,80+ gold,0.3681318681318681,full,black,0.0
+seasonic,focus gold,atx,80+ gold,0.2032967032967033,semi,black,0.0
+seasonic,focus px,atx,80+ platinum,0.3681318681318681,full,black,0.0
+seasonic,focus plus gold,atx,80+ gold,0.2582417582417582,full,black,0.0
+seasonic,focus plus platinum,atx,80+ platinum,0.2032967032967033,full,black,0.0
+seasonic,focus sgx,sfx,80+ gold,0.1758241758241758,full,black,0.0
+seasonic,g,atx,80+ gold,0.2582417582417582,semi,black,0.0
+seasonic,m12ii,atx,80+ bronze,0.3131868131868132,semi,black,0.0
+seasonic,m12ii evo,atx,80+ bronze,0.1868131868131868,full,black,0.0
+seasonic,prime,atx,80+ gold,0.2582417582417582,full,black,0.0
+seasonic,prime airtouch,atx,80+ gold,0.3681318681318681,full,black / red,0.0
+seasonic,prime fanless,atx,80+ titanium,0.2857142857142857,full,black,0.0
+seasonic,prime gold,atx,80+ gold,0.5604395604395604,full,black,0.0
+seasonic,prime px,atx,80+ platinum,0.4505494505494506,full,black / silver,0.0
+seasonic,prime platinum,atx,80+ platinum,0.5604395604395604,full,black,0.0
+seasonic,prime snowsilent,atx,80+ platinum,0.2582417582417582,full,white,0.0
+seasonic,prime tx,atx,80+ titanium,0.3681318681318681,full,black,0.0
+seasonic,prime titanium,atx,80+ titanium,0.2582417582417582,full,black,0.0
+seasonic,prime ultra gold,atx,80+ gold,0.2032967032967033,full,black,0.0
+seasonic,prime ultra platinum,atx,80+ platinum,0.3131868131868132,full,black,0.0
+seasonic,prime ultra titanium,atx,80+ titanium,0.3681318681318681,full,black,0.0
+seasonic,platinum,atx,80+ platinum,0.2637362637362637,full,black,0.0
+seasonic,s12g,atx,80+ gold,0.2032967032967033,no,black,0.0
+seasonic,s12ii,atx,80+ bronze,0.0934065934065934,no,black,0.0
+seasonic,s12iii,atx,80+ bronze,0.2582417582417582,no,black,0.0
+seasonic,ss-300es bronze,atx,80+ bronze,0.0659340659340659,no,black,0.0
+seasonic,ss-300et bronze,atx,80+ bronze,0.0659340659340659,no,black,0.0
+seasonic,ss-300sfd,sfx,80+,0.0659340659340659,no,black,0.0
+seasonic,ss-300tfx bronze,tfx,80+ bronze,0.0659340659340659,no,black,0.0
+seasonic,ss-300tgw,tfx,80+ gold,0.0659340659340659,no,black,0.0
+seasonic,ss-350et bronze,atx,80+ bronze,0.0934065934065934,no,black,0.0
+seasonic,ss-350sfe,sfx,80+,0.0934065934065934,no,black,0.0
+seasonic,ss-350tgm retail,tfx,80+ gold,0.0934065934065934,full,black,0.0
+seasonic,ss-400et bronze,atx,80+ bronze,0.1208791208791208,no,black,0.0
+seasonic,ss-500es bronze,atx,80+ bronze,0.1758241758241758,no,black,0.0
+seasonic,ss-500et bronze,atx,80+ bronze,0.1758241758241758,no,black,0.0
+seasonic,ss-600es,atx,80+ bronze,0.2307692307692307,no,gray,0.0
+seasonic,ss-750ht silver,atx,80+ silver,0.3131868131868132,no,gray,0.0
+seasonic,ss-850ht silver,atx,80+ silver,0.3681318681318681,no,gray,0.0
+seasonic,ssp-300sfg,sfx,80+ gold,0.0659340659340659,no,gray,0.0
+seasonic,ssp-300st,atx,80+ bronze,0.0659340659340659,no,gray,0.0
+seasonic,ssp-300sug,flex atx,80+ gold,0.0659340659340659,no,gray,0.0
+seasonic,ssp-300tbs,tfx,80+ bronze,0.0659340659340659,no,silver,0.0
+seasonic,ssp-350se,atx,80+ bronze,0.0934065934065934,no,silver,0.0
+seasonic,ssp-350st,atx,80+ bronze,0.0934065934065934,no,silver,0.0
+seasonic,ssp-450rt,atx,80+ gold,0.1483516483516483,no,silver,0.0
+seasonic,ssp-550rt,atx,80+ gold,0.2032967032967033,no,silver,0.0
+seasonic,ssp-650rt,atx,80+ gold,0.2582417582417582,no,silver,0.0
+seasonic,snow silent,atx,80+ platinum,0.478021978021978,full,silver,0.0
+seasonic,tfx 350,tfx,80+ gold,0.0934065934065934,full,silver,0.0
+seasonic,x,atx,80+ gold,0.3186813186813187,full,silver,0.0
+seasonic,x series,atx,80+ gold,0.5879120879120879,full,silver,0.0
+segotep,gp700g,atx,80+ gold,0.2857142857142857,no,black,0.0
+sentey,erp-400-ss,atx,80+ gold,0.1208791208791208,no,black,0.0
+sentey,erp-500-sm,atx,80+ gold,0.1758241758241758,full,black,0.0
+sentey,erp-500-smr,atx,80+ gold,0.1758241758241758,full,black,0.0
+sentey,erp-500-ss,atx,80+ gold,0.1758241758241758,no,black,0.0
+sentey,erp-600-sm,atx,80+ gold,0.2307692307692307,full,black,0.0
+sentey,erp-600-ss,atx,80+ gold,0.2307692307692307,no,black,0.0
+sentey,erp-700-ss,atx,80+ gold,0.2857142857142857,no,black,0.0
+sentey,gsp1000-sm,atx,80+ gold,0.4505494505494506,full,black,0.0
+sentey,gsp650-sm,atx,80+ gold,0.2582417582417582,full,black,0.0
+sentey,gsp750-sm,atx,80+ gold,0.3131868131868132,full,black,0.0
+sentey,gsp850-sm,atx,80+ gold,0.3681318681318681,full,black,0.0
+sentey,mbp hm,atx,80+ bronze,0.3131868131868132,semi,black,0.0
+sentey,sdp550-ss,atx,80+,0.2032967032967033,no,black,0.0
+sentey,sdp650-ss,atx,80+,0.2582417582417582,no,black,0.0
+sentey,sdp750-ss,atx,80+,0.3131868131868132,no,black,0.0
+sentey,sdp850-ss,atx,80+,0.3681318681318681,no,black,0.0
+sentey,xpp725-ps,atx,80+,0.2994505494505494,semi,black,0.0
+silentiumpc,supremo fm2,atx,80+ gold,0.3131868131868132,full,black,0.0
+silentiumpc,supremo l2,atx,80+ gold,0.2582417582417582,no,black,0.0
+silentiumpc,supremo l2 v2,atx,80+ gold,0.2032967032967033,no,black,0.0
+silentiumpc,vero l2,atx,80+ bronze,0.1758241758241758,no,black,0.0
+silentiumpc,vero m2,atx,80+ bronze,0.2307692307692307,no,black,0.0
+silverstone,da700,atx,80+ bronze,0.2857142857142857,full,black,0.0
+silverstone,da750,atx,80+ bronze,0.3131868131868132,full,black,0.0
+silverstone,essential,atx,80+ gold,0.2582417582417582,no,black,0.0
+silverstone,nightjar,atx,80+ bronze,0.1208791208791208,no,black / blue,0.0
+silverstone,op1000-e,atx,80+ bronze,0.4505494505494506,no,black / blue,0.0
+silverstone,op1000-p,atx,80+,0.4505494505494506,no,black / blue,0.0
+silverstone,op750,atx,80+,0.3131868131868132,no,black / blue,0.0
+silverstone,op800,atx,80+,0.3406593406593406,no,black / blue,0.0
+silverstone,op850,atx,80+,0.3681318681318681,no,black / blue,0.0
+silverstone,sfx,sfx,80+ bronze,0.0659340659340659,no,black,0.0
+silverstone,sst-fx350-g,flex atx,80+ gold,0.0934065934065934,no,black,0.0
+silverstone,sst-tx300,tfx,80+ bronze,0.0659340659340659,no,black,0.0
+silverstone,sx-b,sfx,80+ bronze,0.0659340659340659,no,black,0.0
+silverstone,sx-g,sfx,80+ gold,0.2857142857142857,full,black,0.0
+silverstone,sx500-g,sfx,80+ gold,0.1758241758241758,full,black,0.0
+silverstone,sx650-g,sfx,80+ gold,0.2582417582417582,full,black,0.0
+silverstone,sx700-pt,sfx,80+ platinum,0.2857142857142857,full,black,0.0
+silverstone,strider,atx,80+,0.5604395604395604,full,black,0.0
+silverstone,strider gold s v2,atx,80+ gold,0.3681318681318681,full,black,0.0
+silverstone,strider platinum,atx,80+ platinum,0.2032967032967033,full,black,0.0
+silverstone,strider platinum s,atx,80+ platinum,0.4505494505494506,full,black,0.0
+silverstone,strider plus,atx,80+ bronze,0.1758241758241758,full,black,0.0
+silverstone,strider titanium,atx,80+ titanium,0.7252747252747253,full,black / blue,0.0
+silverstone,tx300,tfx,80+ bronze,0.0659340659340659,no,black,0.0
+silverstone,zeus,atx,80+ silver,0.6428571428571429,full,black,0.0
+solid gear,sdgr-650e,atx,80+ silver,0.2582417582417582,no,black,0.0
+solid gear,sdgr-750e,atx,80+ silver,0.3131868131868132,semi,black,0.0
+solid gear,sdgr-900e,atx,80+ silver,0.3956043956043956,no,black,0.0
+solid gear,sdgr-flex220,flex atx,80+ silver,0.0219780219780219,no,black,0.0
+sparkle,atx-300pa,atx,80+ silver,0.0659340659340659,no,black,0.0
+sparkle,atx-300pn-b204,atx,80+ silver,0.0659340659340659,no,black,0.0
+sparkle,atx-350pn-b204,atx,80+ silver,0.0934065934065934,no,black,0.0
+sparkle,atx-400pa,atx,80+ silver,0.1208791208791208,no,black,0.0
+sparkle,atx-400pn-b204,atx,80+ silver,0.1208791208791208,no,black,0.0
+sparkle,atx-450pn,atx,80+ silver,0.1483516483516483,no,black,0.0
+sparkle,fsp300-60atv,atx,80+ silver,0.0659340659340659,no,black,0.0
+sparkle,fsp300-60tha,atx,80+ silver,0.0659340659340659,no,black,0.0
+sparkle,fsp300thar-mc,atx,80+ silver,0.0659340659340659,no,black,0.0
+sparkle,fsp350-60gnv,sfx,80+ silver,0.0934065934065934,no,black,0.0
+sparkle,fsp400-60ghs,sfx,80+ bronze,0.1208791208791208,no,black,0.0
+sparkle,gw-eps1000da,atx,80+ gold,0.4505494505494506,semi,black,0.0
+sparkle,gw-eps1250da,atx,80+ gold,0.5879120879120879,full,black,0.0
+sparkle,magna,atx,80+ bronze,0.5604395604395604,semi,black,0.0
+sparkle,magna gold pro,atx,80+ gold,0.3681318681318681,semi,black,0.0
+sparkle,r-fsp400-60etn,atx,80+ platinum,0.1208791208791208,no,black,0.0
+sparkle,r-spi1000gcm,atx,80+,0.4505494505494506,semi,black,0.0
+sparkle,r-spi600ach5b,atx,80+ silver,0.2307692307692307,no,black,0.0
+sparkle,r-spi600ghn,atx,80+,0.2307692307692307,no,black,0.0
+sparkle,r-spi650acag,atx,80+ gold,0.2582417582417582,no,black,0.0
+sparkle,r-spi700ach5b,atx,80+ silver,0.2857142857142857,no,black,0.0
+sparkle,r-spi700ghn,atx,80+,0.2857142857142857,no,black,0.0
+sparkle,r-spi750acag,atx,80+ gold,0.3131868131868132,no,black,0.0
+sparkle,r-spi900gcm,atx,80+,0.3956043956043956,semi,black,0.0
+sparkle,scc-750af,atx,80+ gold,0.3131868131868132,full,black,0.0
+sparkle,scc-850af,atx,80+ gold,0.3681318681318681,semi,black,0.0
+sparkle,spi300gls-b204,sfx,80+ gold,0.0659340659340659,no,black,0.0
+sparkle,spi300t8ab-b204,tfx,80+ bronze,0.0659340659340659,no,black,0.0
+sparkle,spi460pfb2-mc2,atx,80+,0.1538461538461538,no,black,0.0
+startech,atx2pow400hs,atx,80+,0.1208791208791208,no,black,0.0
+startech,atx2pow450hs,atx,80+,0.1483516483516483,no,black,0.0
+startech,atx2pow500hs,atx,80+,0.1758241758241758,no,black,0.0
+startech,atx2power350,atx,80+,0.0934065934065934,no,black,0.0
+startech,atx2power400,atx,80+,0.1208791208791208,no,black,0.0
+startech,atx2power430,atx,80+,0.1373626373626373,no,black,0.0
+startech,atx2power450,atx,80+,0.1483516483516483,no,black,0.0
+startech,atx2power530,atx,80+ bronze,0.1923076923076923,no,black,0.0
+startech,atx2pw400pro,atx,80+ bronze,0.1208791208791208,no,black,0.0
+startech,atx2pw430pro,atx,80+ bronze,0.1373626373626373,no,black,0.0
+startech,atx2pw450pro,atx,80+ bronze,0.1483516483516483,no,black,0.0
+startech,atx2pw500pro,atx,80+ bronze,0.1758241758241758,no,black,0.0
+startech,atx2pw530pro,atx,80+ bronze,0.1923076923076923,no,black,0.0
+startech,atx2pw550pro,atx,80+ bronze,0.2032967032967033,no,black,0.0
+startech,atx2pw550wh,atx,80+,0.2032967032967033,no,black,0.0
+startech,atxpow350pro,atx,80+,0.0934065934065934,no,black,0.0
+startech,atxpw350dell,atx,80+,0.0934065934065934,no,black,0.0
+startech,atxpw500pro2,atx,80+,0.1758241758241758,no,black,0.0
+startech,atxpw550pro2,atx,80+,0.2032967032967033,no,black,0.0
+startech,micatxpow255,micro atx,80+,0.0412087912087912,no,black,0.0
+sunbeam,ic-psu-us-2545-dw,atx,80+,0.1483516483516483,no,black,0.0
+sunbeam,psu-bks580-us,atx,80+,0.2197802197802197,no,black,0.0
+sunbeam,psu-com680-bk-us,atx,80+,0.2747252747252747,full,black,0.0
+sunbeam,psu-com780-bk-us,atx,80+,0.3296703296703296,full,black,0.0
+sunbeam,psu-eco750-us-bl,atx,80+,0.3131868131868132,no,black,0.0
+sunbeam,psu-h680-rev-us,atx,80+,0.2747252747252747,no,black,0.0
+sunbeam,psu-h680-rev-us-bl,atx,80+,0.2747252747252747,no,black,0.0
+sunbeam,psu-hush580-us,atx,80+,0.2197802197802197,no,black,0.0
+sunbeam,psu-hush580-us-bl,atx,80+,0.2197802197802197,no,black,0.0
+super flower,amazon,atx,80+ bronze,0.2032967032967033,no,black,0.0
+super flower,golden green hx,atx,80+ gold,0.0934065934065934,no,black,0.0
+super flower,golden silent,atx,80+ gold,0.1373626373626373,semi,black,0.0
+super flower,leadex special edition,atx,80+ platinum,0.4505494505494506,full,black,0.0
+super flower,leadex,atx,80+ platinum,1.0,full,black,0.0
+super flower,leadex gold,atx,80+ gold,0.6153846153846154,full,black,0.0
+super flower,leadex iii argb,atx,80+ gold,0.2582417582417582,full,white,0.0
+super flower,leadex iii argb pro,atx,80+ gold,0.3681318681318681,full,black,0.0
+super flower,leadex iii gold,atx,80+ gold,0.3131868131868132,full,black,0.0
+super flower,leadex platinum,atx,80+ platinum,0.5604395604395604,full,black,0.0
+super flower,leadex silver,atx,80+ silver,0.2032967032967033,full,black,0.0
+super flower,leadex titanium,btx,80+ titanium,0.4505494505494506,full,black,0.0
+tuniq,psu-pot750-bk,atx,80+ bronze,0.3131868131868132,no,black,0.0
+tacens,ap ii,atx,80+ bronze,0.1758241758241758,no,black / green,0.0
+tacens,radix vii ag,atx,80+ silver,0.2307692307692307,no,black,0.0
+thermaltake,black widow,atx,80+ bronze,0.3681318681318681,semi,black,0.0
+thermaltake,evo_blue,atx,80+ gold,0.3131868131868132,semi,black,0.0
+thermaltake,german,atx,80+,0.2472527472527472,no,black,0.0
+thermaltake,litepower,atx,80+,0.1483516483516483,no,black,0.0
+thermaltake,smart,atx,80+ bronze,0.3681318681318681,semi,black,0.0
+thermaltake,smart bx1,atx,80+ bronze,0.3131868131868132,no,black,0.0
+thermaltake,smart bx1 rgb,atx,80+ bronze,0.2032967032967033,no,black,0.0
+thermaltake,smart dps g,atx,80+ gold,0.2582417582417582,semi,black,0.0
+thermaltake,smart pro rgb,atx,80+ bronze,0.2582417582417582,full,black,0.0
+thermaltake,smart rgb,atx,80+,0.2307692307692307,no,black,0.0
+thermaltake,smart rgb 230v,atx,80+,0.1758241758241758,no,black,0.0
+thermaltake,smart se,atx,80+ bronze,0.2472527472527472,semi,black,0.0
+thermaltake,smart series,atx,80+,0.1373626373626373,no,black / white,0.0
+thermaltake,toughpower pf1 argb,atx,80+ platinum,0.5604395604395604,full,black / white,0.0
+thermaltake,tr2,atx,80+ gold,0.1373626373626373,no,black / white,0.0
+thermaltake,tr2 rx,atx,80+ bronze,0.3681318681318681,semi,black / white,0.0
+thermaltake,tr2 s,atx,80+,0.2582417582417582,no,black / white,0.0
+thermaltake,toughpower,atx,80+ gold,0.2032967032967033,semi,black / white,0.0
+thermaltake,toughpower dps g,atx,80+ gold,0.2032967032967033,full,black / white,0.0
+thermaltake,toughpower dps g rgb,atx,80+ titanium,0.5879120879120879,full,black / white,0.0
+thermaltake,toughpower dps g rgb gold,atx,80+ gold,0.3131868131868132,full,black / white,0.0
+thermaltake,toughpower dps g rgb titanium,atx,80+ titanium,0.3681318681318681,full,black / white,0.0
+thermaltake,toughpower gf1,atx,80+ gold,0.2582417582417582,full,black,0.0
+thermaltake,toughpower gf1 argb,atx,80+ gold,0.3681318681318681,full,black,0.0
+thermaltake,toughpower gf1 pe,atx,80+ gold,0.2582417582417582,full,black,0.0
+thermaltake,toughpower gold,atx,80+ gold,0.3131868131868132,semi,black,0.0
+thermaltake,toughpower gx1,atx,80+ gold,0.2307692307692307,no,black,0.0
+thermaltake,toughpower gx1 rgb,atx,80+ gold,0.2857142857142857,no,black,0.0
+thermaltake,toughpower gx2,atx,80+ gold,0.2307692307692307,no,black,0.0
+thermaltake,toughpower grand,atx,80+ platinum,0.5604395604395604,full,black,0.0
+thermaltake,toughpower grand rgb,atx,80+ gold,0.3131868131868132,full,black,0.0
+thermaltake,toughpower grand rgb platinum,atx,80+ platinum,0.478021978021978,full,black,0.0
+thermaltake,toughpower grand rgb sync edition,atx,80+ gold,0.3681318681318681,full,black,0.0
+thermaltake,toughpower pf1,atx,80+ platinum,0.3681318681318681,full,black,0.0
+thermaltake,toughpower sfx,sfx,80+ gold,0.1483516483516483,full,black,0.0
+thermaltake,toughpower xt,atx,80+ bronze,0.2582417582417582,full,black,0.0
+thermaltake,toughpower irgb plus,atx,80+ gold,0.4505494505494506,full,black,0.0
+thermaltake,toughpower irgb plus platinum,atx,80+ platinum,0.4505494505494506,full,black,0.0
+thermaltake,w0328ru,atx,80+ platinum,0.0934065934065934,no,black,0.0
+thortech,thunderbolt,atx,80+ gold,0.2582417582417582,full,black,0.0
+thortech,thunderbolt plus,atx,80+ gold,0.3406593406593406,full,black,0.0
+topower,gaps-500lx,atx,80+ gold,0.1758241758241758,no,black,0.0
+topower,gaps-500mx,atx,80+ gold,0.1758241758241758,full,black,0.0
+topower,top-1000p12-adj,atx,80+ gold,0.4505494505494506,semi,black,0.0
+topower,top-1000wg,atx,80+ gold,0.4505494505494506,no,black,0.0
+topower,top-1200w,atx,80+,0.5604395604395604,full,black,0.0
+topower,top-400w80,atx,80+,0.1208791208791208,no,black,0.0
+topower,top-400w801,atx,80+,0.1208791208791208,no,black,0.0
+topower,top-500pm,atx,80+,0.1758241758241758,no,black,0.0
+topower,top-500wb,atx,80+ bronze,0.1758241758241758,no,black,0.0
+topower,top-600wb,atx,80+ bronze,0.2307692307692307,no,black,0.0
+topower,top-650pm,atx,80+ bronze,0.2582417582417582,no,black,0.0
+topower,top-800wb,atx,80+ bronze,0.3406593406593406,no,black,0.0
+topower,top-900w,atx,80+,0.3956043956043956,full,black,0.0
+topower,zu-1050w,atx,80+,0.478021978021978,no,black,0.0
+topower,zu-400w12,atx,80+,0.1208791208791208,no,black,0.0
+topower,zu-450w,atx,80+,0.1483516483516483,no,black,0.0
+topower,zu-500w,atx,80+,0.1758241758241758,no,black,0.0
+topower,zu-550w,atx,80+,0.2032967032967033,no,black,0.0
+topower,zu-650w,atx,80+,0.2582417582417582,no,black,0.0
+topower,zu-750w,atx,80+,0.3131868131868132,no,black,0.0
+topower,zu-950,atx,80+,0.4230769230769231,no,black,0.0
+ultra,lsp,atx,80+,0.1483516483516483,no,black,0.0
+ultra,lsp650,atx,80+,0.2582417582417582,no,black,0.0
+ultra,lsp750,atx,80+,0.3131868131868132,no,black,0.0
+ultra,u12-42466,atx,80+ bronze,0.2582417582417582,semi,black,0.0
+ultra,u12-42467,atx,80+ bronze,0.3131868131868132,semi,black,0.0
+ultra,ult-ls500,atx,80+ bronze,0.1758241758241758,no,silver,0.0
+ultra,ult-lsp550,atx,80+ bronze,0.2032967032967033,no,silver,0.0
+ultra,x4,atx,80+ bronze,0.3131868131868132,full,silver,0.0
+ultra,x4 special edition,atx,80+ bronze,0.3681318681318681,full,silver,0.0
+vivo,24k,atx,80+ gold,0.2582417582417582,full,silver,0.0
+xclio,diamondpower 1080w,atx,80+ bronze,0.4945054945054945,no,silver,0.0
+xclio,diamondpower 880w,atx,80+ bronze,0.3846153846153846,no,silver,0.0
+xclio,goodpower 500w,atx,80+ bronze,0.1758241758241758,no,silver,0.0
+xclio,goodpower 550w,atx,80+ bronze,0.2032967032967033,full,silver,0.0
+xclio,goodpower 650w,atx,80+ bronze,0.2582417582417582,full,silver,0.0
+xclio,goodpower 750w,atx,80+ bronze,0.3131868131868132,full,silver,0.0
+xclio,greatpower,atx,80+,0.2307692307692307,full,silver,0.0
+xclio,stablepower 1000w,atx,80+,0.4505494505494506,no,silver,0.0
+xclio,stablepower 460w,atx,80+,0.1538461538461538,no,silver,0.0
+xclio,stablepower 500w,atx,80+,0.1758241758241758,no,silver,0.0
+xclio,stablepower 850w,atx,80+,0.3681318681318681,no,silver,0.0
+xclio,stablepower gold 1000w,atx,80+ gold,0.4505494505494506,full,silver,0.0
+xclio,stablepower gold 750w,atx,80+ gold,0.3131868131868132,full,silver,0.0
+xfx,black edition,atx,80+ silver,0.3131868131868132,full,silver,0.0
+xfx,core edition,atx,80+ bronze,0.3681318681318681,no,silver,0.0
+xfx,p1-450s-xxb9,atx,80+ bronze,0.1483516483516483,no,silver,0.0
+xfx,p1-550s-xxb9,atx,80+ bronze,0.2032967032967033,no,silver,0.0
+xfx,p1-550s-xxba,atx,80+ bronze,0.2032967032967033,no,silver,0.0
+xfx,p1-650s-cab9,atx,80+ bronze,0.2582417582417582,no,silver,0.0
+xfx,p1-650s-nlb9,atx,80+ bronze,0.2582417582417582,no,silver,0.0
+xfx,p1-650x-cag9,atx,80+ bronze,0.2582417582417582,full,silver,0.0
+xfx,p1-650x-cah9,atx,80+ bronze,0.2582417582417582,full,silver,0.0
+xfx,p1-650x-xxb9,atx,80+ bronze,0.2582417582417582,semi,silver,0.0
+xfx,p1-750s-cab9,atx,80+ bronze,0.3131868131868132,no,silver,0.0
+xfx,p1-750s-nlb9,atx,80+ bronze,0.3131868131868132,no,silver,0.0
+xfx,p1-750x-xxb9,atx,80+ bronze,0.3131868131868132,semi,silver,0.0
+xfx,p1-850s-cab9,atx,80+ bronze,0.3681318681318681,no,silver,0.0
+xfx,p1-850x-xxb9,atx,80+ bronze,0.3681318681318681,semi,silver,0.0
+xfx,p1850snlb9,atx,80+ bronze,0.3681318681318681,no,silver,0.0
+xfx,pro black edition,atx,80+ gold,0.3681318681318681,full,silver,0.0
+xfx,proseries,atx,80+ silver,0.3131868131868132,semi,silver,0.0
+xfx,ts,atx,80+ gold,0.3131868131868132,no,silver,0.0
+xfx,xt,atx,80+ bronze,0.1208791208791208,no,silver,0.0
+xfx,xtr,atx,80+ gold,0.2032967032967033,full,silver,0.0
+xigmatek,acxtnrp-pc402,atx,80+ bronze,0.1208791208791208,no,silver,0.0
+xigmatek,acxtnrp-pc502,atx,80+ bronze,0.1758241758241758,no,silver,0.0
+xigmatek,nrp-mc1002,atx,80+ bronze,0.4505494505494506,full,silver,0.0
+xigmatek,nrp-mc702,atx,80+ bronze,0.2857142857142857,full,silver,0.0
+xigmatek,nrp-mc802,atx,80+ bronze,0.3406593406593406,full,silver,0.0
+xigmatek,nrp-pc602,atx,80+ bronze,0.2307692307692307,no,silver,0.0
+xigmatek,nrp-pc702,atx,80+ bronze,0.2857142857142857,no,silver,0.0
+xigmatek,vector,atx,80+ gold,0.2582417582417582,semi,silver,0.0
+xilence,performance a+,atx,80+ bronze,0.2472527472527472,no,black / red,0.0
+xilence,performance a+ iii,atx,80+ bronze,0.2032967032967033,no,black / red,0.0
+xilence,performance c,atx,80+ bronze,0.2857142857142857,no,black / red,0.0
+xilence,performance x,atx,80+ gold,0.2032967032967033,no,black / red,0.0
+xion,axp-1000k14xe,atx,80+ bronze,0.4505494505494506,semi,black / red,0.0
+xion,axp-1000r14he,atx,80+ bronze,0.4505494505494506,full,black / red,0.0
+xion,axp-700k14xe,atx,80+ bronze,0.2857142857142857,semi,black / red,0.0
+xion,axp-700w14fg,atx,80+ gold,0.2857142857142857,full,black / red,0.0
+xion,axp-850k14xe,atx,80+ bronze,0.3681318681318681,semi,black / red,0.0
+xion,axp-850r14n,atx,80+ bronze,0.3681318681318681,no,black / red,0.0
+xion,en-450f12bk,atx,80+ bronze,0.1483516483516483,no,black / red,0.0
+xion,en-600f12,atx,80+ bronze,0.2307692307692307,no,black / red,0.0
+xion,xon-1000p14f,atx,80+ bronze,0.4505494505494506,no,black / red,0.0
+xion,xon-1100p14he,atx,80+ bronze,0.5054945054945055,no,black / red,0.0
+xion,xon-1250p14he,atx,80+ bronze,0.5879120879120879,no,black / red,0.0
+xion,xon-700p12f,atx,80+ bronze,0.2857142857142857,no,black / red,0.0
+xion,xon-800r14n,atx,80+ bronze,0.3406593406593406,full,black / red,0.0
+xion,xon-850p14f,atx,80+ bronze,0.3681318681318681,no,black / red,0.0
+zalman,1000-hp plus,atx,80+ silver,0.4505494505494506,full,black / red,0.0
+zalman,1250 platinum,atx,80+ platinum,0.5879120879120879,semi,black / red,0.0
+zalman,850-hp plus,atx,80+ silver,0.3681318681318681,semi,black / red,0.0
+zalman,le,atx,80+ silver,0.1208791208791208,no,black / red,0.0
+zalman,tx,atx,80+ silver,0.2857142857142857,no,black / red,0.0
+zalman,zm-600-gt,atx,80+ bronze,0.2307692307692307,semi,black / red,0.0
+zalman,zm1000-hp,atx,80+,0.4505494505494506,full,black / red,0.0
+zalman,zm460b-aps,atx,80+,0.1538461538461538,no,black / red,0.0
+zalman,zm500-hp,atx,80+,0.1758241758241758,semi,black / red,0.0
+zalman,zm500-rs,atx,80+,0.1758241758241758,no,black / red,0.0
+zalman,zm600-hp,atx,80+,0.2307692307692307,full,black / red,0.0
+zalman,zm600-st,atx,80+,0.2307692307692307,no,black / red,0.0
+zalman,zm660-xt,atx,80+ bronze,0.2637362637362637,full,black / red,0.0
+zalman,zm770-xt,atx,80+ bronze,0.3241758241758242,full,black / red,0.0
+zalman,zm-400-le,atx,80+ bronze,0.1208791208791208,no,black / red,0.0
+zalman,zm-500-le,atx,80+ bronze,0.1758241758241758,no,black / red,0.0
+zalman,zm-550-xg,atx,80+ gold,0.2032967032967033,semi,black / red,0.0
+zalman,zm-650-xg,atx,80+ gold,0.2582417582417582,semi,black / red,0.0
+zalman,zm-750-xg,atx,80+ gold,0.3131868131868132,semi,black / red,0.0
+be quiet!,bn623,atx,80+ bronze,0.1758241758241758,no,black / red,0.0
+be quiet!,dark power pro 10,atx,80+ platinum,0.3681318681318681,semi,black / red,0.0
+be quiet!,dark power pro 11,atx,80+ platinum,0.2582417582417582,semi,black / red,0.0
+be quiet!,dark power pro 12,atx,80+ titanium,0.5604395604395604,full,black,0.0
+be quiet!,power 2,sfx,80+ bronze,0.1208791208791208,no,black,0.0
+be quiet!,pure power l7 | 300w,atx,80+,0.0659340659340659,no,black,0.0
+be quiet!,pure power l7 | 350w,atx,80+,0.0934065934065934,no,black,0.0
+be quiet!,pure power l7 | 530w,atx,80+,0.1923076923076923,no,black,0.0
+be quiet!,pure power l8,atx,80+ bronze,0.2307692307692307,no,black / orange,0.0
+be quiet!,pure power l8 300w,atx,80+ bronze,0.0659340659340659,no,black / orange,0.0
+be quiet!,pure power l8 350w,atx,80+ bronze,0.0934065934065934,no,black / orange,0.0
+be quiet!,pure power l8 400w,atx,80+ bronze,0.1208791208791208,no,black / orange,0.0
+be quiet!,pure power l8 500w,atx,80+ bronze,0.1758241758241758,no,black / orange,0.0
+be quiet!,power zone,atx,80+ bronze,0.3131868131868132,full,black / orange,0.0
+be quiet!,pure power 10,atx,80+ bronze,0.0659340659340659,no,black / orange,0.0
+be quiet!,pure power 10 cm,atx,80+ silver,0.2307692307692307,semi,black / orange,0.0
+be quiet!,pure power 11,atx,80+ gold,0.2857142857142857,no,black,0.0
+be quiet!,pure power 11 cm,atx,80+ gold,0.1208791208791208,semi,black,0.0
+be quiet!,pure power 9,atx,80+ silver,0.1208791208791208,no,black,0.0
+be quiet!,pure power 9 cm,atx,80+ silver,0.2307692307692307,semi,black,0.0
+be quiet!,sfx l power,sfx,80+ gold,0.1758241758241758,full,black,0.0
+be quiet!,straight power 10,atx,80+ gold,0.1208791208791208,no,black,0.0
+be quiet!,straight power 10 cm,atx,80+ gold,0.2307692307692307,semi,black,0.0
+be quiet!,straight power e9 680w / cm,atx,80+ gold,0.2747252747252747,semi,black,0.0
+be quiet!,straight power e9 | 400w,atx,80+ gold,0.1208791208791208,no,black,0.0
+be quiet!,straight power e9 | 450w,atx,80+ gold,0.1483516483516483,no,black,0.0
+be quiet!,straight power e9 | 480w cm,atx,80+ gold,0.1648351648351648,full,black,0.0
+be quiet!,straight power e9 | 500w,atx,80+ gold,0.1758241758241758,no,black,0.0
+be quiet!,straight power e9 | 580w cm,atx,80+ gold,0.2197802197802197,semi,black,0.0
+be quiet!,straight power 11,atx,80+ platinum,0.4505494505494506,full,black,0.0
+be quiet!,straight power e9,atx,80+ gold,0.2307692307692307,no,black,0.0
+be quiet!,system power 8,atx,80+,0.1758241758241758,no,black,0.0
+be quiet!,system power 9,atx,80+ bronze,0.1208791208791208,no,black,0.0
+be quiet!,system power 9 cm,atx,80+ bronze,0.2857142857142857,semi,black,0.0
+be quiet!,system power u9,atx,80+ bronze,0.2857142857142857,no,black,0.0
+be quiet!,tfx power 2,tfx,80+ bronze,0.0659340659340659,no,black,0.0
+ABS,Majesty,ATX,80+ Gold,1100.0,Full,,"['USD', '0.00']"
+ADATA,XPG CORE Reactor,ATX,80+ Gold,750.0,Full,Black,"['USD', '139.99']"
+Aerocool,AER-P7-P650W,ATX,80+ Platinum,650.0,Full,,"['USD', '0.00']"
+Aerocool,GT-1050SG,ATX,80+ Gold,1050.0,Semi,,"['USD', '0.00']"
+Aerocool,Integrator,ATX,80+ Bronze,500.0,No,Black,"['USD', '0.00']"
+Aerocool,LUX RGB M,ATX,80+ Bronze,750.0,Semi,Black,"['USD', '0.00']"
+Aerocool,P7 Platinum,ATX,80+ Platinum,850.0,Full,Black,"['USD', '0.00']"
+Aerocool,XPredator GM,ATX,80+ Gold,1000.0,Semi,Black,"['USD', '1919.61']"
+Anima,APII500,ATX,,500.0,No,Black / Green,"['USD', '0.00']"
+Antec,Basiq,ATX,80+,430.0,No,,"['USD', '93.75']"
+Antec,EDGE,ATX,80+ Gold,650.0,Full,,"['USD', '0.00']"
+Antec,EarthWatts Platinum,ATX,80+ Platinum,650.0,No,,"['USD', '0.00']"
+Antec,Earthwatts,ATX,80+ Platinum,450.0,No,,"['USD', '0.00']"
+Antec,Earthwatts Gold Pro,ATX,80+ Gold,650.0,Semi,Black,"['USD', '95.87']"
+Antec,Earthwatts Green,ATX,80+ Bronze,750.0,No,,"['USD', '0.00']"
+Antec,High Current Gamer,ATX,80+ Bronze,750.0,No,,"['USD', '325.58']"
+Antec,High Current Gamer Extreme,ATX,80+ Gold,850.0,Full,,"['USD', '202.84']"
+Antec,High Current Gamer Gold,ATX,80+ Gold,650.0,Full,Black,"['USD', '109.98']"
+Antec,High Current Pro,ATX,80+ Gold,1200.0,No,,"['USD', '0.00']"
+Antec,NE450M,ATX,80+ Bronze,450.0,Semi,,"['USD', '0.00']"
+Antec,NeoECO,ATX,80+,400.0,No,,"['USD', '0.00']"
+Antec,NeoECO Classic,ATX,80+ Bronze,550.0,No,Black,"['USD', '59.99']"
+Antec,NeoECO Gold,ATX,80+ Gold,750.0,Semi,Black,"['USD', '0.00']"
+Antec,NeoECO Gold ZEN,ATX,80+ Gold,600.0,No,Black / Gold,"['USD', '84.99']"
+Antec,True Power,ATX,80+ Bronze,750.0,Full,,"['USD', '0.00']"
+Antec,VP,ATX,,450.0,No,,"['USD', '0.00']"
+Antec,VP PLUS,ATX,80+,650.0,No,,"['USD', '84.61']"
+Antec,VP-P,ATX,,450.0,No,,"['USD', '0.00']"
+Apevia,AD,ATX,,500.0,No,Black,"['USD', '0.00']"
+Apevia,APEVIA ATX-WR680W 680W ATX12V v2.3 SLI CrossFire Active PFC Power Supply,ATX,,680.0,Semi,,"['USD', '0.00']"
+Apevia,AR,ATX,,500.0,No,Black,"['USD', '0.00']"
+Apevia,ATX-AQ700W-BK,ATX,,700.0,No,,"['USD', '0.00']"
+Apevia,ATX-AS500W-BK,ATX,,500.0,No,,"['USD', '0.00']"
+Apevia,ATX-AS500W-BL,ATX,,500.0,No,,"['USD', '0.00']"
+Apevia,ATX-AS500W-GN,ATX,,500.0,No,,"['USD', '0.00']"
+Apevia,ATX-AS520W-BK,ATX,,520.0,No,,"['USD', '0.00']"
+Apevia,ATX-AS600W-BL,ATX,,600.0,No,,"['USD', '0.00']"
+Apevia,ATX-AS680W-BK,ATX,,680.0,No,,"['USD', '0.00']"
+Apevia,ATX-AS680W-BL,ATX,,680.0,No,,"['USD', '0.00']"
+Apevia,ATX-CB600W,ATX,,600.0,No,,"['USD', '0.00']"
+Apevia,ATX-CB700W,ATX,,700.0,No,,"['USD', '0.00']"
+Apevia,ATX-CW500WP4,ATX,,500.0,No,,"['USD', '0.00']"
+Apevia,ATX-IB680W-BL,ATX,,680.0,No,,"['USD', '0.00']"
+Apevia,ATX-IB680W-GN,ATX,,680.0,No,,"['USD', '0.00']"
+Apevia,ATX-JP1000W,ATX,80+ Bronze,1000.0,No,,"['USD', '0.00']"
+Apevia,ATX-JV650W,ATX,,650.0,No,,"['USD', '0.00']"
+Apevia,ATX-RP500W,ATX,,500.0,No,,"['USD', '0.00']"
+Apevia,ATX-TL450W,ATX,,450.0,No,,"['USD', '0.00']"
+Apevia,ATX-TL450W-BK,ATX,,450.0,No,,"['USD', '0.00']"
+Apevia,ATX-VN500W,ATX,,500.0,No,,"['USD', '0.00']"
+Apevia,ATX-VS450W,ATX,,450.0,No,,"['USD', '0.00']"
+Apevia,ATX-WA750W,ATX,,750.0,No,,"['USD', '0.00']"
+Apevia,ATX-WA900W,ATX,,900.0,No,,"['USD', '0.00']"
+Apevia,Astro,ATX,,450.0,No,Black,"['USD', '0.00']"
+Apevia,Beast,ATX,,550.0,No,,"['USD', '0.00']"
+Apevia,ITX-AP250W,Mini ITX,,250.0,No,,"['USD', '0.00']"
+Apevia,Prestige,ATX,80+ Gold,1000.0,No,Black,"['USD', '0.00']"
+Apevia,Raptor,ATX,,450.0,No,Black / Red,"['USD', '0.00']"
+Apevia,Signature,ATX,80+ Bronze,1050.0,Semi,Black,"['USD', '127.05']"
+Apevia,Spirit,ATX,,600.0,No,,"['USD', '0.00']"
+Apevia,XG,ATX,,450.0,No,,"['USD', '0.00']"
+Apex,AG,ATX,80+ Gold,750.0,Full,Black,"['USD', '0.00']"
+Apex,AL-8250SFX,SFX,,250.0,No,,"['USD', '30.98']"
+Apex,AL-A350ATX,ATX,,350.0,No,,"['USD', '0.00']"
+Apex,AL-A400ATX,ATX,,400.0,No,,"['USD', '0.00']"
+Apex,AL-D500EXP,ATX,,500.0,No,,"['USD', '0.00']"
+Apex,SL-275TFX,TFX,,275.0,No,,"['USD', '34.98']"
+Asus,ROG STRIX G,ATX,80+ Gold,850.0,Full,Black,"['USD', '0.00']"
+Asus,ROG Strix,ATX,80+ Gold,650.0,Full,Black / Red,"['USD', '135.99']"
+Asus,ROG Thor 1200P,ATX,80+ Platinum,1200.0,Full,Black,"['USD', '677.99']"
+Asus,ROG Thor 850,ATX,80+ Platinum,850.0,Full,Black / Red,"['USD', '374.98']"
+Athena Power,AP-MFATX22,Mini ITX,,220.0,No,,"['USD', '0.00']"
+Athena Power,AP-MFATX25,Mini ITX,80+,250.0,No,,"['USD', '0.00']"
+Athena Power,AP-MFATX30,Mini ITX,80+ Bronze,300.0,No,,"['USD', '0.00']"
+Athena Power,AP-MFATX35,Mini ITX,80+ Bronze,350.0,No,,"['USD', '0.00']"
+Athena Power,AP-MFATX40,Mini ITX,80+ Bronze,400.0,No,,"['USD', '0.00']"
+Athena Power,AP-MFATX40P8,Flex ATX,80+ Bronze,400.0,No,,"['USD', '83.98']"
+Athena Power,AP-MFATX50P8,Flex ATX,80+ Silver,500.0,No,,"['USD', '94.99']"
+Athena Power,AP-MPS3ATX30H,ATX,,300.0,No,,"['USD', '0.00']"
+Athena Power,AP-MTFX30,TFX,,300.0,No,,"['USD', '39.99']"
+Athena Power,AP-P4ATX35,ATX,,350.0,No,,"['USD', '0.00']"
+Athena Power,AP-P4ATX55FEC,ATX,,550.0,No,,"['USD', '0.00']"
+Athena Power,AP-P4ATX80FEP8,ATX,80+ Bronze,800.0,No,,"['USD', '0.00']"
+Athena Power,AP-P4ATX85FEP,ATX,,850.0,No,,"['USD', '0.00']"
+Athena Power,AP-P4ATX95FEPC,ATX,80+,950.0,No,,"['USD', '0.00']"
+Athena Power,AP-TFX30,TFX,,300.0,No,,"['USD', '0.00']"
+Athena Power,AP-TFX40,TFX,80+ Bronze,400.0,No,,"['USD', '0.00']"
+Athena Power,APOLLO 600 PLUS,SFX,80+ Bronze,600.0,No,,"['USD', '149.41']"
+Athena Power,Apollo,SFX,,300.0,No,,"['USD', '49.99']"
+Azza,PSAZ-1000A14,ATX,80+ Bronze,1000.0,No,,"['USD', '0.00']"
+Azza,PSAZ-1000PT14,ATX,80+ Platinum,1000.0,Semi,,"['USD', '0.00']"
+Azza,PSAZ-500B12,ATX,,500.0,No,,"['USD', '0.00']"
+Azza,PSAZ-650B14,ATX,,650.0,No,,"['USD', '0.00']"
+Azza,PSAZ-700A14,ATX,80+ Bronze,700.0,No,,"['USD', '0.00']"
+Azza,PSAZ-750PT14,ATX,80+ Platinum,750.0,Semi,,"['USD', '0.00']"
+Azza,PSAZ-850B14,ATX,,850.0,No,,"['USD', '0.00']"
+Azza,PSAZ-850PT14,ATX,80+ Platinum,850.0,Semi,,"['USD', '0.00']"
+Azza,Titan,ATX,80+ Bronze,1000.0,No,,"['USD', '0.00']"
+BFG,BFGR650WGSPSU,ATX,,650.0,No,,"['USD', '0.00']"
+BFG,EX-1000,ATX,80+ Bronze,1000.0,Full,,"['USD', '0.00']"
+BitFenix,Formula Gold,ATX,80+ Gold,650.0,No,,"['USD', '0.00']"
+BitFenix,Fury,ATX,80+ Gold,550.0,Semi,,"['USD', '0.00']"
+BitFenix,Whisper M,ATX,80+ Gold,750.0,Full,,"['USD', '0.00']"
+Broadway Com Corp,OKIA-BLACK-550,ATX,,550.0,No,,"['USD', '0.00']"
+Broadway Com Corp,OKIA-BLACK-600,ATX,,600.0,No,,"['USD', '0.00']"
+Broadway Com Corp,OKIA-BLACK-680,ATX,,680.0,No,,"['USD', '0.00']"
+Broadway Com Corp,P4-OKIA-550-RB,ATX,,550.0,No,,"['USD', '0.00']"
+Chieftec,GPS-600A8,ATX,80+,600.0,No,,"['USD', '129.00']"
+Chieftec,GPS-700A8,ATX,80+ Bronze,700.0,No,Black / White,"['USD', '140.00']"
+CoolMax,CA-300,ATX,,300.0,No,,"['USD', '0.00']"
+CoolMax,CA-350,ATX,,350.0,No,,"['USD', '172.28']"
+CoolMax,CA-400,ATX,,400.0,No,,"['USD', '0.00']"
+CoolMax,CA-450,ATX,,450.0,No,,"['USD', '104.28']"
+CoolMax,CL-500B,ATX,,500.0,No,,"['USD', '0.00']"
+CoolMax,CL-700B,ATX,,700.0,No,,"['USD', '0.00']"
+CoolMax,CM-300,Micro ATX,,300.0,No,,"['USD', '0.00']"
+CoolMax,CT-450 (silver),ATX,,450.0,No,,"['USD', '0.00']"
+CoolMax,CU-600B,ATX,,600.0,Semi,,"['USD', '0.00']"
+CoolMax,CU-700B,ATX,,700.0,Semi,,"['USD', '189.85']"
+CoolMax,CUG-700B,ATX,,700.0,Full,,"['USD', '0.00']"
+CoolMax,CUG-950B,ATX,,950.0,Full,,"['USD', '0.00']"
+CoolMax,CUL-650B,ATX,,650.0,Semi,,"['USD', '0.00']"
+CoolMax,CUL-750B,ATX,,750.0,Semi,,"['USD', '0.00']"
+CoolMax,CUL-850B,ATX,,850.0,Semi,,"['USD', '0.00']"
+CoolMax,CUL-950B,ATX,,950.0,Semi,,"['USD', '0.00']"
+CoolMax,CUQ-1200B,ATX,80+,1200.0,No,,"['USD', '0.00']"
+CoolMax,CUQ-1350B,ATX,80+,1350.0,No,,"['USD', '0.00']"
+CoolMax,CX-400B,ATX,,400.0,No,,"['USD', '186.28']"
+CoolMax,CX-550B,ATX,,550.0,No,,"['USD', '0.00']"
+CoolMax,CXI-600B,ATX,,600.0,No,,"['USD', '0.00']"
+CoolMax,I-500,ATX,,500.0,No,,"['USD', '22.67']"
+CoolMax,MP-550B,ATX,80+,550.0,No,,"['USD', '0.00']"
+CoolMax,NW-650B,ATX,,650.0,No,,"['USD', '154.28']"
+CoolMax,RM-1000B,ATX,,1000.0,No,,"['USD', '0.00']"
+CoolMax,RM-750B,ATX,,750.0,No,,"['USD', '0.00']"
+CoolMax,V-400,ATX,,400.0,No,,"['USD', '26.34']"
+CoolMax,V-500,ATX,,500.0,No,,"['USD', '29.93']"
+CoolMax,V-600,ATX,,600.0,No,,"['USD', '118.49']"
+CoolMax,VL-600B,ATX,,600.0,No,,"['USD', '114.28']"
+CoolMax,ZP-1000B,ATX,80+ Bronze,1000.0,Semi,,"['USD', '0.00']"
+CoolMax,ZP-750B,ATX,80+ Bronze,750.0,Semi,,"['USD', '0.00']"
+CoolMax,ZP-850B,ATX,80+ Bronze,850.0,Semi,,"['USD', '0.00']"
+CoolMax,ZPG-1000B,ATX,80+ Gold,1000.0,Semi,,"['USD', '0.00']"
+CoolMax,ZPG-1200B,ATX,80+ Gold,1200.0,Semi,,"['USD', '307.27']"
+CoolMax,ZPG-500B,ATX,80+ Gold,500.0,No,,"['USD', '0.00']"
+CoolMax,ZU-1000B,ATX,80+ Bronze,1000.0,Semi,,"['USD', '112.91']"
+CoolMax,ZU-500B,ATX,80+ Bronze,500.0,Semi,,"['USD', '149.15']"
+CoolMax,ZU-600B,ATX,80+ Bronze,600.0,Semi,,"['USD', '164.28']"
+CoolMax,ZU-700B,ATX,80+ Bronze,700.0,Semi,,"['USD', '189.32']"
+CoolMax,ZU-800B,ATX,80+ Bronze,800.0,Semi,,"['USD', '0.00']"
+CoolMax,ZU-900B,ATX,80+ Bronze,900.0,Semi,,"['USD', '219.28']"
+CoolMax,ZX-500,ATX,80+,500.0,No,,"['USD', '45.78']"
+CoolMax,ZX-600,ATX,80+,600.0,No,,"['USD', '51.01']"
+CoolMax,ZX-700,ATX,80+,700.0,No,,"['USD', '58.07']"
+Cooler Master,B,ATX,80+,600.0,No,Black,"['USD', '0.00']"
+Cooler Master,B500 ver.2,ATX,80+,500.0,No,,"['USD', '0.00']"
+Cooler Master,Elite,ATX,,460.0,No,,"['USD', '0.00']"
+Cooler Master,Elite V2,ATX,,550.0,No,,"['USD', '0.00']"
+Cooler Master,Elite V3,ATX,,500.0,No,Black,"['USD', '49.99']"
+Cooler Master,Extreme 2,ATX,,475.0,No,,"['USD', '0.00']"
+Cooler Master,GXII,ATX,80+ Bronze,550.0,No,,"['USD', '0.00']"
+Cooler Master,MASTERWATT MAKER MIJ,ATX,80+ Titanium,1200.0,Full,,"['USD', '0.00']"
+Cooler Master,MWE,ATX,80+,550.0,No,,"['USD', '0.00']"
+Cooler Master,MWE Bronze,ATX,80+ Bronze,500.0,No,Black,"['USD', '0.00']"
+Cooler Master,MWE Bronze V2,ATX,80+ Bronze,750.0,No,Black,"['USD', '127.22']"
+Cooler Master,MWE Gold,ATX,80+ Gold,650.0,No,Black,"['USD', '0.00']"
+Cooler Master,MWE White V2 230V,ATX,80+,550.0,No,Black,"['USD', '0.00']"
+Cooler Master,MasterWatt,ATX,80+ Bronze,550.0,Semi,,"['USD', '64.99']"
+Cooler Master,MasterWatt Lite 230V,ATX,80+,700.0,No,,"['USD', '0.00']"
+Cooler Master,MasterWatt Lite Full Range,ATX,80+,600.0,No,,"['USD', '288.76']"
+Cooler Master,MasterWatt Maker,ATX,80+ Titanium,1200.0,Full,,"['USD', '0.00']"
+Cooler Master,MasterWatt TUF,ATX,80+ Bronze,750.0,Semi,Black / Gray,"['USD', '0.00']"
+Cooler Master,MasterWatt TUF Gaming Alliance,ATX,80+ Bronze,550.0,Semi,Black / Gray,"['USD', '0.00']"
+Cooler Master,New GX,ATX,80+,550.0,No,,"['USD', '0.00']"
+Cooler Master,RS,ATX,80+ Bronze,650.0,No,,"['USD', '0.00']"
+Cooler Master,Real Power,ATX,80+,620.0,Semi,,"['USD', '0.00']"
+Cooler Master,Silent Pro Gold,ATX,80+ Gold,550.0,No,,"['USD', '0.00']"
+Cooler Master,Silent Pro Hybrid,ATX,80+ Gold,1050.0,Full,,"['USD', '0.00']"
+Cooler Master,Silent Pro M,ATX,80+,600.0,Full,,"['USD', '0.00']"
+Cooler Master,Silent Pro M2,ATX,80+ Silver,850.0,Semi,,"['USD', '0.00']"
+Cooler Master,Silent Pro Platinum,ATX,80+ Platinum,550.0,Semi,,"['USD', '0.00']"
+Cooler Master,Thunder,ATX,,600.0,No,,"['USD', '0.00']"
+Cooler Master,V Gold,ATX,80+ Gold,750.0,Full,Black,"['USD', '0.00']"
+Cooler Master,V Gold V2,ATX,80+ Gold,550.0,Full,Black,"['USD', '0.00']"
+Cooler Master,V Platinum,ATX,80+ Platinum,1000.0,Full,Black,"['USD', '0.00']"
+Cooler Master,V SFX Gold,SFX,80+ Gold,850.0,Full,Black,"['USD', '0.00']"
+Cooler Master,V Semi-Modular,ATX,80+ Gold,650.0,Semi,,"['USD', '0.00']"
+Cooler Master,V1000,ATX,80+ Gold,1000.0,Full,,"['USD', '0.00']"
+Cooler Master,V1200,ATX,80+ Platinum,1200.0,Full,,"['USD', '0.00']"
+Cooler Master,V450,ATX,80+ Gold,450.0,Semi,,"['USD', '0.00']"
+Cooler Master,V550,ATX,80+ Gold,550.0,Full,,"['USD', '0.00']"
+Cooler Master,V650,ATX,80+ Gold,650.0,Full,,"['USD', '0.00']"
+Cooler Master,V700,ATX,80+ Gold,700.0,Full,,"['USD', '0.00']"
+Cooler Master,V750,ATX,80+ Gold,750.0,Full,,"['USD', '0.00']"
+Cooler Master,V850,ATX,80+ Gold,850.0,Full,Black,"['USD', '0.00']"
+Cooler Master,VSM,ATX,80+ Gold,650.0,Semi,,"['USD', '0.00']"
+Cooler Master,eXtreme Power,ATX,,550.0,No,,"['USD', '0.00']"
+Cooler Master,eXtreme Power Plus,ATX,,700.0,No,,"['USD', '0.00']"
+Cooler Master,i500,ATX,80+ Bronze,500.0,No,,"['USD', '0.00']"
+Cooler Master,i600,ATX,80+ Bronze,600.0,No,,"['USD', '0.00']"
+Cooler Master,i700,ATX,80+ Bronze,700.0,No,,"['USD', '0.00']"
+Corsair,240V,ATX,80+ Titanium,1500.0,Full,,"['USD', '0.00']"
+Corsair,AX,ATX,80+ Platinum,760.0,Full,,"['USD', '0.00']"
+Corsair,AXi,ATX,80+ Platinum,1200.0,Full,,"['USD', '927.43']"
+Corsair,CSM,ATX,80+ Gold,850.0,Semi,,"['USD', '0.00']"
+Corsair,CV,ATX,80+ Bronze,650.0,No,Black,"['USD', '69.99']"
+Corsair,CX,ATX,80+,400.0,No,,"['USD', '0.00']"
+Corsair,CX (2017),ATX,80+ Bronze,650.0,No,,"['USD', '85.99']"
+Corsair,CXF,ATX,80+ Bronze,650.0,Full,Black,"['USD', '84.99']"
+Corsair,CXM,ATX,80+ Bronze,430.0,Semi,,"['USD', '178.28']"
+Corsair,CXM (2015),ATX,80+ Bronze,450.0,Semi,,"['USD', '59.99']"
+Corsair,CXM V2 (2017),ATX,80+ Bronze,750.0,Semi,Black / White,"['USD', '89.98']"
+Corsair,HX,ATX,80+ Gold,850.0,Semi,,"['USD', '0.00']"
+Corsair,HX Platinum,ATX,80+ Platinum,1200.0,Full,,"['USD', '363.99']"
+Corsair,HXi,ATX,80+ Platinum,850.0,Full,,"['USD', '222.94']"
+Corsair,RM,ATX,80+ Gold,850.0,Full,,"['USD', '0.00']"
+Corsair,RM (2019),ATX,80+ Gold,750.0,Full,Black,"['USD', '162.55']"
+Corsair,RMi,ATX,80+ Gold,850.0,Full,,"['USD', '0.00']"
+Corsair,RMx,ATX,80+ Gold,550.0,Full,,"['USD', '0.00']"
+Corsair,RMx (2018),ATX,80+ Gold,750.0,Full,Black,"['USD', '139.99']"
+Corsair,RMx White,ATX,80+ Gold,750.0,Full,,"['USD', '267.99']"
+Corsair,RMx White (2018),ATX,80+ Gold,750.0,Full,White / Black,"['USD', '144.99']"
+Corsair,SF,SFX,80+ Gold,450.0,Full,,"['USD', '112.39']"
+Corsair,TXM,ATX,80+ Bronze,550.0,Semi,,"['USD', '231.59']"
+Corsair,TXM Gold,ATX,80+ Gold,550.0,Semi,,"['USD', '99.99']"
+Corsair,VS,ATX,80+,500.0,No,,"['USD', '0.00']"
+Corsair,VX,ATX,80+,450.0,No,,"['USD', '0.00']"
+Corsair,Vengeance,ATX,80+ Silver,650.0,Semi,Black,"['USD', '0.00']"
+Cougar,A,ATX,80+ Bronze,660.0,No,Black,"['USD', '0.00']"
+Cougar,CMD,ATX,80+ Bronze,500.0,Semi,Black / Blue,"['USD', '0.00']"
+Cougar,CMX1200V3,ATX,80+ Bronze,1200.0,Semi,,"['USD', '0.00']"
+Cougar,CMX550V3,ATX,80+ Bronze,550.0,Semi,,"['USD', '0.00']"
+Cougar,CMX700V3,ATX,80+ Bronze,700.0,Semi,,"['USD', '0.00']"
+Cougar,CMX850V3,ATX,80+ Bronze,850.0,Semi,,"['USD', '0.00']"
+Cougar,COUGAR-1000CMX,ATX,80+ Bronze,1000.0,No,,"['USD', '0.00']"
+Cougar,COUGAR-700CMX,ATX,80+ Bronze,700.0,No,,"['USD', '0.00']"
+Cougar,COUGAR-A560,ATX,80+ Bronze,560.0,No,,"['USD', '0.00']"
+Cougar,COUGAR-A760,ATX,80+ Bronze,760.0,No,,"['USD', '0.00']"
+Cougar,COUGAR-GX1050,ATX,80+ Gold,1050.0,Semi,,"['USD', '0.00']"
+Cougar,COUGAR-GX700,ATX,80+ Gold,700.0,Full,,"['USD', '0.00']"
+Cougar,COUGAR-PX700,ATX,80+ Bronze,700.0,No,,"['USD', '0.00']"
+Cougar,COUGAR-RS450,ATX,80+,450.0,No,,"['USD', '0.00']"
+Cougar,COUGAR-RS650,ATX,80+,650.0,No,,"['USD', '0.00']"
+Cougar,COUGAR-SX700,ATX,80+ Silver,700.0,No,,"['USD', '0.00']"
+Cougar,COUGAR-SX850,ATX,80+ Silver,850.0,Full,,"['USD', '0.00']"
+Cougar,CougarA500,ATX,80+ Bronze,500.0,No,,"['USD', '0.00']"
+Cougar,DX500,ATX,80+,500.0,No,,"['USD', '0.00']"
+Cougar,DX600,ATX,80+,600.0,No,,"['USD', '0.00']"
+Cougar,GX,ATX,80+ Gold,800.0,Full,Black / Gold,"['USD', '0.00']"
+Cougar,GX V3,ATX,80+ Gold,800.0,Semi,Black / Gold,"['USD', '0.00']"
+Cougar,GX-F,ATX,80+ Gold,650.0,Full,Black / Orange,"['USD', '0.00']"
+Cougar,GX-S,ATX,80+ Gold,650.0,No,,"['USD', '0.00']"
+Cougar,LX,ATX,80+ Bronze,500.0,Full,Black,"['USD', '0.00']"
+Cougar,POWERX,ATX,80+ Bronze,700.0,No,,"['USD', '0.00']"
+Cougar,RSB400,ATX,80+,400.0,No,,"['USD', '0.00']"
+Cougar,RX500,ATX,80+,500.0,No,,"['USD', '0.00']"
+Cougar,RX600,ATX,80+,600.0,No,,"['USD', '0.00']"
+Cougar,SL400,ATX,,400.0,No,,"['USD', '0.00']"
+Cougar,SL500,ATX,,500.0,No,,"['USD', '0.00']"
+Cougar,SL600,ATX,,600.0,No,,"['USD', '0.00']"
+Cougar,STX,ATX,80+,650.0,No,,"['USD', '0.00']"
+Cougar,VTE,ATX,80+ Bronze,600.0,No,Black,"['USD', '49.99']"
+Cougar,VTX,ATX,80+ Bronze,500.0,No,Black,"['USD', '0.00']"
+Cyonic,AU-450X,ATX,80+ Gold,450.0,Full,,"['USD', '0.00']"
+Cyonic,AU-550X,ATX,80+ Gold,550.0,Full,,"['USD', '0.00']"
+Cyonic,AU-650X,ATX,80+ Gold,650.0,Full,,"['USD', '0.00']"
+Deepcool,DA-N,ATX,80+ Bronze,600.0,No,Black,"['USD', '0.00']"
+Deepcool,DN400,ATX,,400.0,No,,"['USD', '0.00']"
+Deepcool,DQ550ST,ATX,80+ Gold,550.0,No,,"['USD', '0.00']"
+Deepcool,DQ650ST,ATX,80+ Gold,650.0,No,,"['USD', '0.00']"
+Deepcool,DQ750ST,ATX,80+ Gold,750.0,No,,"['USD', '0.00']"
+Deepcool,GamerStorm DQ-M,ATX,80+ Gold,750.0,Full,Black / Silver,"['USD', '0.00']"
+Diablotek,PHD350,ATX,,350.0,No,,"['USD', '0.00']"
+Diablotek,PHD380M,Micro ATX,,380.0,No,,"['USD', '0.00']"
+Diablotek,PHD450,ATX,,450.0,No,,"['USD', '0.00']"
+Diablotek,PHD550,ATX,,550.0,No,,"['USD', '0.00']"
+Diablotek,PHD650,ATX,,650.0,No,,"['USD', '0.00']"
+Diablotek,PHD750,ATX,,750.0,No,,"['USD', '0.00']"
+Diablotek,PHD850,ATX,,850.0,No,,"['USD', '0.00']"
+Diablotek,PSDA300,ATX,,300.0,No,,"['USD', '0.00']"
+Diablotek,PSDA320M,Micro ATX,,320.0,No,,"['USD', '0.00']"
+Diablotek,PSDA350,ATX,,350.0,No,,"['USD', '39.99']"
+Diablotek,PSDA400,ATX,,400.0,No,,"['USD', '0.00']"
+Diablotek,PSDA500,ATX,,500.0,No,,"['USD', '54.99']"
+Diablotek,PSDA600,ATX,,600.0,No,,"['USD', '75.00']"
+Diablotek,PSUL575,ATX,,575.0,No,,"['USD', '0.00']"
+Diablotek,PSUL675,ATX,,675.0,No,,"['USD', '0.00']"
+Diablotek,PSUL775,ATX,,775.0,No,,"['USD', '0.00']"
+Dynapower,DP-300A,Micro ATX,,300.0,No,,"['USD', '0.00']"
+Dynapower,EJ-750A80,ATX,80+ Bronze,750.0,Full,,"['USD', '0.00']"
+Dynapower,EP-25X.E152,Micro ATX,,250.0,No,,"['USD', '0.00']"
+Dynapower,EP-45X.0562B,ATX,,450.0,No,,"['USD', '0.00']"
+E-Power,EP-1200P10-T2,ATX,80+,1200.0,Semi,,"['USD', '0.00']"
+E-Power,EP-500LS-1,ATX,,500.0,No,,"['USD', '0.00']"
+E-Power,EP-500NE-XV,ATX,,500.0,No,,"['USD', '0.00']"
+E-Power,EP-550P5-T1,ATX,,550.0,Full,,"['USD', '0.00']"
+E-Power,EP-600NE-XV,ATX,,600.0,No,,"['USD', '0.00']"
+EVGA,100-B1-0450-K1,ATX,80+ Bronze,450.0,No,,"['USD', '0.00']"
+EVGA,100-B1-0700-K1,ATX,80+ Bronze,700.0,No,,"['USD', '184.99']"
+EVGA,100-N1-0400-L1,ATX,,400.0,No,,"['USD', '36.49']"
+EVGA,100-N1-0550-L1,ATX,,550.0,No,,"['USD', '49.99']"
+EVGA,100-N1-0650-L1,ATX,,650.0,No,,"['USD', '62.77']"
+EVGA,100-N1-0750-L1,ATX,,750.0,No,,"['USD', '64.99']"
+EVGA,100-W1-0430-KR,ATX,80+,430.0,No,,"['USD', '109.98']"
+EVGA,100-W1-0500-KR,ATX,80+,500.0,No,,"['USD', '39.99']"
+EVGA,100-W1-0600-K1,ATX,80+,600.0,No,,"['USD', '59.99']"
+EVGA,210-GQ-0650-V1,ATX,80+ Gold,650.0,Semi,,"['USD', '102.99']"
+EVGA,210-GQ-0750-V1,ATX,80+ Gold,750.0,Semi,,"['USD', '119.94']"
+EVGA,210-GQ-0850-V1,ATX,80+ Gold,850.0,Semi,,"['USD', '149.94']"
+EVGA,210-GQ-1000-V1,ATX,80+ Gold,1000.0,Semi,,"['USD', '189.94']"
+EVGA,500B,ATX,80+ Bronze,500.0,No,,"['USD', '0.00']"
+EVGA,600B,ATX,80+ Bronze,600.0,No,,"['USD', '179.98']"
+EVGA,B2,ATX,80+ Bronze,750.0,Semi,,"['USD', '0.00']"
+EVGA,B3,ATX,80+ Bronze,650.0,Full,,"['USD', '134.99']"
+EVGA,B5,ATX,80+ Bronze,550.0,Full,Black,"['USD', '78.29']"
+EVGA,BA,ATX,80+ Bronze,600.0,No,Black,"['USD', '54.99']"
+EVGA,BQ,ATX,80+ Bronze,850.0,Semi,,"['USD', '126.99']"
+EVGA,BR,ATX,80+ Bronze,450.0,No,,"['USD', '39.99']"
+EVGA,BT,ATX,80+ Bronze,500.0,No,Black,"['USD', '118.99']"
+EVGA,BV,ATX,80+ Bronze,450.0,No,,"['USD', '0.00']"
+EVGA,Classified SR-2,ATX,80+ Silver,1200.0,Full,,"['USD', '0.00']"
+EVGA,G1,ATX,80+ Gold,1000.0,Full,,"['USD', '0.00']"
+EVGA,G1+,ATX,80+ Gold,650.0,Full,Black,"['USD', '114.99']"
+EVGA,G2,ATX,80+ Gold,1300.0,Full,,"['USD', '0.00']"
+EVGA,G2L,ATX,80+ Gold,750.0,Full,,"['USD', '0.00']"
+EVGA,G3,ATX,80+ Gold,650.0,Full,,"['USD', '117.47']"
+EVGA,G5,ATX,80+ Gold,1000.0,Full,Black / Green,"['USD', '207.98']"
+EVGA,GD,ATX,80+ Gold,450.0,No,Black,"['USD', '0.00']"
+EVGA,GD (2019),ATX,80+ Gold,600.0,No,Black,"['USD', '92.44']"
+EVGA,P2,ATX,80+ Platinum,1200.0,Full,,"['USD', '0.00']"
+EVGA,PQ,ATX,80+ Platinum,750.0,Semi,Black,"['USD', '0.00']"
+EVGA,PS,ATX,80+ Platinum,1000.0,Full,,"['USD', '0.00']"
+EVGA,SuperNOVA,ATX,80+ Gold,650.0,Full,,"['USD', '326.58']"
+EVGA,SuperNOVA Classified,ATX,80+ Gold,1500.0,Full,,"['USD', '0.00']"
+EVGA,SuperNOVA GA,ATX,80+ Gold,550.0,Full,Black,"['USD', '98.10']"
+EVGA,SuperNOVA GM,SFX,80+ Gold,650.0,Full,Black,"['USD', '116.44']"
+EVGA,SuperNOVA GT,ATX,80+ Gold,750.0,Full,Black,"['USD', '0.00']"
+EVGA,SuperNOVA NEX,ATX,80+ Bronze,750.0,Semi,,"['USD', '0.00']"
+EVGA,SuperNOVA NEX1500 Classified,ATX,80+ Gold,1500.0,Full,,"['USD', '0.00']"
+EVGA,SuperNOVA NEX750B BRONZE,ATX,80+ Bronze,750.0,Semi,,"['USD', '0.00']"
+EVGA,SuperNOVA T2,ATX,80+ Titanium,850.0,Full,,"['USD', '279.99']"
+EVGA,T2,ATX,80+ Titanium,1600.0,Full,,"['USD', '499.99']"
+EVGA,W3,ATX,80+,450.0,No,Black,"['USD', '44.99']"
+Enermax,DIGIFANLESS,ATX,80+ Platinum,550.0,Full,,"['USD', '0.00']"
+Enermax,EES400AWT_II,ATX,80+,400.0,No,,"['USD', '0.00']"
+Enermax,EGX1250EWT,ATX,80+ Bronze,1250.0,Semi,,"['USD', '0.00']"
+Enermax,EGX850EWL,ATX,80+,850.0,Full,,"['USD', '0.00']"
+Enermax,ELT720AWT-ECO_II,ATX,80+,720.0,Full,,"['USD', '0.00']"
+Enermax,EMD625AWT,ATX,80+ Bronze,625.0,Full,,"['USD', '0.00']"
+Enermax,EMD625AWT_II,ATX,80+ Bronze,625.0,Full,,"['USD', '0.00']"
+Enermax,EMG700AWT,ATX,80+ Gold,700.0,Full,,"['USD', '0.00']"
+Enermax,EMG800EWT,ATX,80+ Gold,800.0,Full,,"['USD', '0.00']"
+Enermax,EMG900EWT,ATX,80+ Gold,900.0,Full,,"['USD', '0.00']"
+Enermax,ENM750AWT,ATX,80+ Bronze,750.0,Semi,,"['USD', '0.00']"
+Enermax,ENP350AST,ATX,,350.0,No,,"['USD', '0.00']"
+Enermax,ENP450AST,ATX,,450.0,No,,"['USD', '0.00']"
+Enermax,ENP500AWT,ATX,80+,500.0,No,,"['USD', '0.00']"
+Enermax,ENP550AWT,ATX,,550.0,No,,"['USD', '0.00']"
+Enermax,ENP550AWT B,ATX,80+ Bronze,550.0,No,,"['USD', '0.00']"
+Enermax,ENP600AWT,ATX,80+,600.0,No,,"['USD', '0.00']"
+Enermax,ENP650AWT B,ATX,80+ Bronze,650.0,No,,"['USD', '0.00']"
+Enermax,EPG500AWT,ATX,80+ Gold,500.0,No,,"['USD', '0.00']"
+Enermax,EPG600AWT,ATX,80+ Gold,600.0,No,,"['USD', '0.00']"
+Enermax,EPM1200EWT,ATX,80+ Platinum,1200.0,Full,,"['USD', '0.00']"
+Enermax,EPM600AWT,ATX,80+ Platinum,600.0,Semi,,"['USD', '0.00']"
+Enermax,EPM750AWT,ATX,80+ Platinum,750.0,Semi,,"['USD', '0.00']"
+Enermax,EPM850EWT,ATX,80+ Platinum,850.0,Semi,,"['USD', '0.00']"
+Enermax,EPR525AWT_II,ATX,80+ Bronze,525.0,No,,"['USD', '0.00']"
+Enermax,ERV1000EWT-G,ATX,80+ Gold,1000.0,Semi,,"['USD', '0.00']"
+Enermax,ERV1020EWT,ATX,80+ Silver,1020.0,Full,,"['USD', '0.00']"
+Enermax,ERV920EWT,ATX,80+ Silver,920.0,Full,,"['USD', '0.00']"
+Enermax,ETK500AWT,ATX,,500.0,No,,"['USD', '0.00']"
+Enermax,ETL450AWT-M,ATX,80+ Bronze,450.0,Semi,,"['USD', '0.00']"
+Enermax,ETL550AWT-M,ATX,80+ Bronze,550.0,Semi,,"['USD', '0.00']"
+Enermax,ETL650AWT-M,ATX,80+ Bronze,650.0,Semi,,"['USD', '0.00']"
+Enermax,MAXPRO,ATX,80+,500.0,No,,"['USD', '0.00']"
+Enermax,MAXREVO,ATX,80+ Gold,1800.0,Full,Black,"['USD', '0.00']"
+Enermax,MAXREVO SLI,ATX,80+ Gold,1350.0,Full,Black / Gold,"['USD', '0.00']"
+Enermax,MaxTytan,ATX,80+ Titanium,800.0,Full,,"['USD', '0.00']"
+Enermax,NAXN ADV.,ATX,80+ Bronze,650.0,Semi,,"['USD', '0.00']"
+Enermax,Platimax,ATX,80+ Platinum,1000.0,Semi,Black,"['USD', '0.00']"
+Enermax,Platimax D.F.,ATX,80+ Platinum,1050.0,Full,Black,"['USD', '0.00']"
+Enermax,REVOLUTION DUO,ATX,80+ Gold,500.0,No,,"['USD', '0.00']"
+Enermax,REVOLUTION SFX,SFX,80+ Gold,550.0,Full,,"['USD', '147.49']"
+Enermax,REVOLUTION X't,ATX,80+ Gold,530.0,Semi,,"['USD', '0.00']"
+Enermax,REVOLUTION X't II,ATX,80+ Gold,750.0,Semi,,"['USD', '0.00']"
+Enermax,REVOLUTION87+,ATX,80+ Gold,550.0,Semi,,"['USD', '0.00']"
+Enermax,RevoBron,ATX,80+ Bronze,600.0,Semi,,"['USD', '0.00']"
+Enermax,RevoBron TGA,ATX,80+ Bronze,500.0,Semi,Black,"['USD', '0.00']"
+Enermax,Revolution D.F.,ATX,80+ Gold,650.0,Full,Black,"['USD', '117.74']"
+Enermax,TRIATHLOR,ATX,80+ Bronze,650.0,Semi,,"['USD', '0.00']"
+Enermax,TRIATHLOR ECO,ATX,80+ Bronze,1000.0,Semi,,"['USD', '0.00']"
+Enhance,ENP-7660,Flex ATX,80+ Platinum,600.0,No,Silver,"['USD', '0.00']"
+FSP Group,ATX300-PA,ATX,,300.0,No,,"['USD', '0.00']"
+FSP Group,ATX350-PNT,ATX,,350.0,No,,"['USD', '0.00']"
+FSP Group,ATX400-PNT,ATX,,400.0,No,,"['USD', '0.00']"
+FSP Group,AU-1000PRO,ATX,80+ Gold,1000.0,No,,"['USD', '0.00']"
+FSP Group,AU-1200PRO,ATX,80+ Gold,1200.0,No,,"['USD', '0.00']"
+FSP Group,AU-400FL,ATX,80+ Gold,400.0,Semi,,"['USD', '0.00']"
+FSP Group,AU-500FL,ATX,80+ Gold,500.0,Semi,,"['USD', '0.00']"
+FSP Group,AU-750M,ATX,80+ Gold,750.0,Semi,,"['USD', '0.00']"
+FSP Group,AU-850PRO,ATX,80+ Gold,850.0,No,,"['USD', '0.00']"
+FSP Group,AURUM 92+,ATX,80+ Platinum,450.0,Semi,,"['USD', '0.00']"
+FSP Group,AURUM CM GOLD 650,ATX,80+ Gold,650.0,Semi,,"['USD', '0.00']"
+FSP Group,AURUM GOLD 400,ATX,80+ Gold,400.0,No,,"['USD', '0.00']"
+FSP Group,AURUM GOLD 500,ATX,80+ Gold,500.0,No,,"['USD', '0.00']"
+FSP Group,AURUM GOLD 600,ATX,80+ Gold,600.0,No,,"['USD', '0.00']"
+FSP Group,AURUM GOLD 700,ATX,80+ Gold,700.0,No,,"['USD', '0.00']"
+FSP Group,AURUM S 400W,ATX,80+ Gold,400.0,No,,"['USD', '0.00']"
+FSP Group,AURUM S 500W,ATX,80+ Gold,500.0,No,,"['USD', '0.00']"
+FSP Group,AURUM S 600W,ATX,80+ Gold,600.0,No,,"['USD', '0.00']"
+FSP Group,Berserker 500,ATX,80+ Bronze,500.0,No,,"['USD', '0.00']"
+FSP Group,Berzerker,ATX,80+ Bronze,500.0,No,,"['USD', '0.00']"
+FSP Group,Dagger,SFX,80+ Gold,600.0,Full,Black,"['USD', '0.00']"
+FSP Group,Dagger Pro,SFX,80+ Gold,650.0,Full,Black,"['USD', '129.99']"
+FSP Group,Everest 85PLUS 800,ATX,80+ Bronze,800.0,Full,,"['USD', '0.00']"
+FSP Group,FSP180-50NIV,Micro ATX,,180.0,No,,"['USD', '0.00']"
+FSP Group,FSP220-60LE(80),Mini ITX,80+,220.0,No,,"['USD', '79.98']"
+FSP Group,FSP270-60LE,Mini ITX,80+,270.0,No,,"['USD', '0.00']"
+FSP Group,FSP300-57FCB,Flex ATX,80+ Gold,300.0,Full,Black,"['USD', '0.00']"
+FSP Group,FSP300-60GHS(85),SFX,80+ Bronze,300.0,No,,"['USD', '0.00']"
+FSP Group,FSP300-60GHS-R,SFX,80+,300.0,No,,"['USD', '79.89']"
+FSP Group,FSP300-60GHT,TFX,80+,300.0,No,,"['USD', '0.00']"
+FSP Group,FSP300-60GHT(85),TFX,80+ Bronze,300.0,No,,"['USD', '0.00']"
+FSP Group,FSP300-60LG,Mini ITX,80+ Bronze,300.0,No,,"['USD', '0.00']"
+FSP Group,FSP300-60LG-5K,Flex ATX,80+ Bronze,300.0,No,,"['USD', '0.00']"
+FSP Group,FSP300-60SGV,TFX,80+ Gold,300.0,No,,"['USD', '0.00']"
+FSP Group,FSP400-60FGGBA,Flex ATX,80+ Gold,400.0,No,,"['USD', '225.99']"
+FSP Group,FSP400-60GHS(85)-R,SFX,80+ Bronze,400.0,No,,"['USD', '0.00']"
+FSP Group,FSP450-60GHS(85)-R,SFX,80+ Bronze,450.0,No,,"['USD', '0.00']"
+FSP Group,FSP500-50FGGBN,Flex ATX,80+ Gold,500.0,No,,"['USD', '0.00']"
+FSP Group,FSP500-50FSPT,Flex ATX,80+ Platinum,500.0,No,,"['USD', '0.00']"
+FSP Group,FSP650-80EGN,ATX,80+ Gold,650.0,No,,"['USD', '0.00']"
+FSP Group,HEXA 85+,ATX,80+ Bronze,850.0,No,Black,"['USD', '0.00']"
+FSP Group,HEXA+,ATX,,500.0,No,,"['USD', '0.00']"
+FSP Group,Hydro G,ATX,80+ Gold,650.0,Full,,"['USD', '0.00']"
+FSP Group,Hydro G Pro,ATX,80+ Gold,750.0,Full,Black,"['USD', '146.74']"
+FSP Group,Hydro GE,ATX,80+ Gold,550.0,Full,,"['USD', '99.99']"
+FSP Group,Hydro PTM,ATX,80+ Platinum,550.0,Full,Black,"['USD', '0.00']"
+FSP Group,Hydro X,ATX,80+ Gold,650.0,No,,"['USD', '0.00']"
+FSP Group,Hyper M,ATX,80+,700.0,Semi,Black,"['USD', '0.00']"
+FSP Group,Hyper M85+,ATX,80+ Bronze,550.0,Semi,Black,"['USD', '79.98']"
+FSP Group,PT1000FM,ATX,80+ Platinum,1000.0,Full,,"['USD', '0.00']"
+FSP Group,PT1200FM,ATX,80+ Platinum,1200.0,Full,,"['USD', '0.00']"
+FSP Group,PT850FM,ATX,80+ Platinum,850.0,Full,,"['USD', '0.00']"
+FSP Group,Raider 450,ATX,80+ Bronze,450.0,No,,"['USD', '0.00']"
+FSP Group,Raider 550,ATX,80+ Bronze,550.0,No,,"['USD', '0.00']"
+FSP Group,Raider 650,ATX,80+ Bronze,650.0,No,,"['USD', '0.00']"
+FSP Group,Raider 750,ATX,80+ Bronze,750.0,No,,"['USD', '0.00']"
+FSP Group,Raider S 450,ATX,80+ Silver,450.0,No,,"['USD', '0.00']"
+FSP Group,Raider S 550,ATX,80+ Silver,550.0,No,,"['USD', '0.00']"
+FSP Group,Raider S 650,ATX,80+ Silver,650.0,No,,"['USD', '0.00']"
+FSP Group,Raider S 750,ATX,80+ Silver,750.0,No,,"['USD', '0.00']"
+FSP Group,SAGA+ 400R,ATX,,400.0,No,,"['USD', '0.00']"
+FSP Group,SAGA+ 450R,ATX,,450.0,No,,"['USD', '0.00']"
+FSP Group,SAGA+ 500R,ATX,,500.0,No,,"['USD', '0.00']"
+FSP Group,SFX Pro,SFX,80+ Bronze,450.0,No,Black,"['USD', '0.00']"
+FSP Group,Twins,ATX,80+ Gold,500.0,No,,"['USD', '0.00']"
+FSP Group,VITAL 400,ATX,80+,400.0,No,,"['USD', '0.00']"
+FSP Group,ZEN 400,ATX,80+ Bronze,400.0,No,,"['USD', '0.00']"
+Fractal Design,Edison M,ATX,80+ Gold,750.0,Semi,,"['USD', '0.00']"
+Fractal Design,Integra M,ATX,80+ Bronze,550.0,Semi,,"['USD', '0.00']"
+Fractal Design,Integra R2,ATX,80+ Bronze,650.0,No,,"['USD', '0.00']"
+Fractal Design,Ion SFX-L,SFX,80+ Gold,500.0,Full,Black,"['USD', '0.00']"
+Fractal Design,Ion+,ATX,80+ Platinum,660.0,Full,Black,"['USD', '114.99']"
+Fractal Design,Newton R3,ATX,80+ Platinum,1000.0,Semi,,"['USD', '0.00']"
+Fractal Design,Tesla R2,ATX,80+ Gold,500.0,No,,"['USD', '0.00']"
+G.Skill,RIPJAWS Gold,ATX,80+ Gold,750.0,Full,Black,"['USD', '0.00']"
+G.Skill,RIPJAWS Platinum,ATX,80+ Platinum,850.0,Full,Black,"['USD', '0.00']"
+GAMDIAS,ASTRAPE E1,ATX,80+,550.0,No,Black / Multicolor,"['USD', '0.00']"
+GAMDIAS,ASTRAPE M1,ATX,80+,550.0,No,Black / Multicolor,"['USD', '0.00']"
+GAMDIAS,ASTRAPE M1 B,ATX,80+ Bronze,650.0,No,Black / Multicolor,"['USD', '0.00']"
+GAMDIAS,ASTRAPE P1 G,ATX,80+ Gold,750.0,Full,Black / Multicolor,"['USD', '0.00']"
+GAMDIAS,Cyclops X1 P,ATX,80+ Platinum,1200.0,Full,Black / Multicolor,"['USD', '0.00']"
+GAMDIAS,KRATOS E1,ATX,80+,500.0,No,Black,"['USD', '0.00']"
+GAMDIAS,KRATOS M1 B,ATX,80+ Gold,750.0,Semi,Black,"['USD', '99.99']"
+GAMDIAS,KRATOS P1 G,ATX,80+ Gold,650.0,No,Black,"['USD', '89.99']"
+GameMax,GM,ATX,80+ Gold,1650.0,No,Black,"['USD', '0.00']"
+GameMax,GM-1050,ATX,80+ Silver,1050.0,Semi,,"['USD', '0.00']"
+GameMax,GP,ATX,80+ Bronze,400.0,No,Black,"['USD', '0.00']"
+GameMax,GS,SFX,80+ Bronze,300.0,No,Silver,"['USD', '0.00']"
+GameMax,GT,TFX,80+ Bronze,300.0,No,Silver,"['USD', '0.00']"
+GameMax,RGB Rainbow,ATX,80+ Gold,750.0,Full,Black,"['USD', '0.00']"
+Gigabyte,AORUS P GM,ATX,80+ Gold,750.0,Full,Black / Silver,"['USD', '0.00']"
+Gigabyte,B-H,ATX,80+ Bronze,700.0,Semi,Black,"['USD', '0.00']"
+Gigabyte,GE-P450P-C2,ATX,80+,550.0,No,,"['USD', '0.00']"
+Gigabyte,GP-G750H,ATX,80+ Gold,750.0,Semi,Black,"['USD', '0.00']"
+Gigabyte,GreenMax Plus,ATX,80+ Bronze,650.0,No,,"['USD', '0.00']"
+Gigabyte,P GM,ATX,80+ Gold,850.0,Full,Black,"['USD', '119.99']"
+Gigabyte,P-B,ATX,80+ Bronze,650.0,No,Black,"['USD', '69.99']"
+Gigabyte,PB500,ATX,80+ Bronze,500.0,No,,"['USD', '0.00']"
+Gigabyte,PW400,ATX,80+,400.0,No,Black,"['USD', '0.00']"
+HEC,Cougar,ATX,80+,700.0,Semi,,"['USD', '0.00']"
+HEC,HEC200SA-2FX,Mini ITX,,200.0,No,,"['USD', '0.00']"
+HEC,HEC200SA2FX,Mini ITX,,200.0,No,,"['USD', '0.00']"
+HEC,HEC200SAFX,Mini ITX,,200.0,No,,"['USD', '0.00']"
+HEC,HEC250SRT,SFX,,250.0,No,,"['USD', '0.00']"
+HEC,HEC350TEWX,ATX,80+,350.0,No,,"['USD', '0.00']"
+HEC,HP485D,ATX,,485.0,No,,"['USD', '0.00']"
+HEC,HP485D Retail,ATX,,485.0,No,,"['USD', '0.00']"
+HEC,HP585D,ATX,,585.0,No,,"['USD', '0.00']"
+HEC,HP585D RETAIL,ATX,,585.0,No,,"['USD', '0.00']"
+HEC,Orion,ATX,,585.0,No,Black,"['USD', '0.00']"
+HEC,Raptor500,ATX,,500.0,No,,"['USD', '0.00']"
+HEC,X-Power Pro 600,ATX,,600.0,No,,"['USD', '0.00']"
+HEC,X-Power Pro 650,ATX,,650.0,No,,"['USD', '0.00']"
+HEC,XP1080,ATX,,1080.0,Full,,"['USD', '0.00']"
+HEC,XPOWER585 OEM,ATX,,585.0,No,,"['USD', '0.00']"
+HEC,XPOWER585 RETAIL,ATX,,585.0,No,,"['USD', '0.00']"
+HEC,XPOWER780,ATX,,600.0,No,,"['USD', '0.00']"
+HEC,ZEPHY580MX,ATX,,580.0,No,,"['USD', '0.00']"
+HEC,ZEPHYR650,ATX,,650.0,No,,"['USD', '0.00']"
+HEC,Zephyr MX-750,ATX,80+ Bronze,750.0,No,,"['USD', '0.00']"
+In Win,Classic,ATX,80+ Platinum,900.0,Full,,"['USD', '0.00']"
+In Win,Commander,ATX,80+,1200.0,Full,,"['USD', '0.00']"
+In Win,Commander II,ATX,80+ Bronze,750.0,Full,,"['USD', '0.00']"
+In Win,Commander III,ATX,80+ Gold,800.0,Semi,,"['USD', '0.00']"
+In Win,Commander III 600,ATX,80+ Gold,600.0,Semi,,"['USD', '0.00']"
+In Win,Compact,SFX,80+ Gold,700.0,Full,Black,"['USD', '0.00']"
+In Win,Glacier,ATX,80+ Gold,900.0,Semi,,"['USD', '0.00']"
+In Win,GreenMe 550,ATX,80+ Bronze,550.0,No,,"['USD', '176.59']"
+In Win,GreenMe 650,ATX,80+ Bronze,650.0,No,,"['USD', '0.00']"
+In Win,IP-P300BN7-2,ATX,80+,300.0,No,,"['USD', '53.92']"
+In Win,IP-S200DF1-0,TFX,,200.0,No,,"['USD', '63.00']"
+In Win,IP-S300FF1-0,TFX,80+,300.0,No,,"['USD', '57.99']"
+In Win,IP-S350CQ2-0T,ATX,,350.0,No,,"['USD', '0.00']"
+In Win,P,ATX,80+ Gold,650.0,Full,Black,"['USD', '0.00']"
+In Win,PB,ATX,80+ Gold,750.0,Full,,"['USD', '150.00']"
+Insignia,NS-PCW5508,ATX,80+ Bronze,550.0,No,Black,"['USD', '0.00']"
+KOLINK,Classic Power,ATX,80+ Bronze,400.0,No,Black / Red,"['USD', '0.00']"
+KOLINK,ENCLAVE,ATX,80+ Gold,600.0,Full,Black / Yellow,"['USD', '0.00']"
+KOLINK,KL-SFX250,SFX,80+ Bronze,250.0,No,Black / Green,"['USD', '0.00']"
+KOLINK,KL-SFX350,SFX,80+ Bronze,350.0,No,Black / Green,"['USD', '0.00']"
+KOLINK,KL-SFX450,SFX,80+ Bronze,450.0,No,Black / Green,"['USD', '0.00']"
+Kingwin,ABT-1050MM,ATX,,1050.0,No,,"['USD', '0.00']"
+Kingwin,ABT-450MM,ATX,,450.0,No,,"['USD', '0.00']"
+Kingwin,ABT-610MM,ATX,,610.0,No,,"['USD', '0.00']"
+Kingwin,ABT-650MM,BTX,,650.0,No,,"['USD', '0.00']"
+Kingwin,ABT-730MM,ATX,,730.0,No,,"['USD', '0.00']"
+Kingwin,ABT-750MM,BTX,,750.0,No,,"['USD', '0.00']"
+Kingwin,ABT-850MM,ATX,,850.0,No,,"['USD', '0.00']"
+Kingwin,AP-550,ATX,80+ Platinum,550.0,No,,"['USD', '0.00']"
+Kingwin,KX-1000,ATX,80+ Bronze,1000.0,Semi,,"['USD', '0.00']"
+Kingwin,Lazer,ATX,80+,750.0,Full,,"['USD', '0.00']"
+Kingwin,Lazer Gold,ATX,80+ Gold,700.0,Full,,"['USD', '0.00']"
+Kingwin,Lazer Platinum,ATX,80+ Platinum,850.0,Semi,,"['USD', '0.00']"
+Kingwin,MK,ATX,,850.0,No,,"['USD', '0.00']"
+Kingwin,MKX,ATX,,850.0,Semi,,"['USD', '0.00']"
+Kingwin,Mach 1,BTX,80+ Bronze,1220.0,Full,,"['USD', '0.00']"
+Kingwin,STR-500,ATX,80+ Platinum,500.0,Semi,,"['USD', '0.00']"
+Kuroutoshikou,KRPW-L5-500W/80+,ATX,80+,500.0,No,,"['USD', '0.00']"
+LEPA,B550-MB,ATX,80+ Bronze,550.0,Semi,,"['USD', '0.00']"
+LEPA,B550-SA,ATX,80+ Bronze,550.0,No,,"['USD', '0.00']"
+LEPA,B650-SA,ATX,80+ Bronze,650.0,No,,"['USD', '0.00']"
+LEPA,B850-MA,ATX,80+ Bronze,850.0,Semi,,"['USD', '0.00']"
+LEPA,G Series,ATX,80+ Gold,1600.0,Full,,"['USD', '0.00']"
+LEPA,G1000-MA,ATX,80+ Gold,1000.0,Semi,,"['USD', '0.00']"
+LEPA,G1000-MB,ATX,80+ Gold,1000.0,Full,,"['USD', '0.00']"
+LEPA,G1200-MA,ATX,80+ Gold,1200.0,Semi,,"['USD', '0.00']"
+LEPA,G800-MB,ATX,80+ Gold,800.0,Semi,,"['USD', '0.00']"
+LEPA,MX-F1,ATX,,400.0,No,,"['USD', '0.00']"
+LEPA,MaxBron,ATX,80+ Bronze,800.0,Semi,,"['USD', '97.99']"
+LEPA,MaxGold,ATX,80+ Gold,500.0,No,,"['USD', '0.00']"
+LEPA,N,ATX,,500.0,No,,"['USD', '0.00']"
+LEPA,P1375-MA,ATX,80+ Platinum,1375.0,Full,,"['USD', '0.00']"
+Lian Li,PE,SFX,80+ Gold,550.0,Full,,"['USD', '0.00']"
+Linkworld,LPG12-35-p4,ATX,,550.0,No,,"['USD', '0.00']"
+Linkworld,LPG8 630w,ATX,,630.0,No,,"['USD', '0.00']"
+Linkworld,LPK2-30-P4,ATX,,500.0,No,,"['USD', '0.00']"
+Logisys,AT750BK,ATX,80+ Bronze,750.0,No,,"['USD', '0.00']"
+Logisys,PS350MA,Micro ATX,,350.0,No,,"['USD', '16.98']"
+Logisys,PS480D,ATX,,480.0,No,,"['USD', '21.99']"
+Logisys,PS480D-BK,ATX,,480.0,No,,"['USD', '0.00']"
+Logisys,PS480D2,ATX,,480.0,No,,"['USD', '16.98']"
+Logisys,PS480E12,ATX,,480.0,No,,"['USD', '0.00']"
+Logisys,PS480X2,ATX,,480.0,No,,"['USD', '0.00']"
+Logisys,PS550AC,ATX,,550.0,No,,"['USD', '0.00']"
+Logisys,PS550E12,ATX,,550.0,No,,"['USD', '0.00']"
+Logisys,PS550E12BK,ATX,,550.0,No,,"['USD', '0.00']"
+Logisys,PS575XBK,ATX,,575.0,No,,"['USD', '0.00']"
+Logisys,PS600XBK,ATX,,600.0,No,,"['USD', '0.00']"
+Mars Gaming,MP700,ATX,,700.0,No,,"['USD', '0.00']"
+Mars Gaming,MPII650,ATX,,650.0,No,Black / Red,"['USD', '0.00']"
+Mistel,MX550 FANLESS,ATX,80+ Gold,550.0,Full,Black,"['USD', '0.00']"
+Mistel,MX650 FANLESS,ATX,80+ Platinum,650.0,Full,Black,"['USD', '0.00']"
+Montech,CENTURY,ATX,80+ Gold,850.0,Full,Black,"['USD', '0.00']"
+Mushkin,MKNPSJL1000,ATX,80+ Gold,1000.0,No,,"['USD', '0.00']"
+Mushkin,MKNPSJL800,ATX,80+ Silver,800.0,No,,"['USD', '0.00']"
+NOX,Hummer,ATX,80+ Bronze,650.0,Semi,,"['USD', '0.00']"
+NOX,Hummer GD,ATX,80+ Gold,750.0,No,,"['USD', '0.00']"
+NOX,Hummer X,ATX,80+ Gold,650.0,Full,Black,"['USD', '0.00']"
+NOX,URANO TX,ATX,,850.0,No,,"['USD', '0.00']"
+NZXT,C,ATX,80+ Gold,650.0,Full,Black,"['USD', '104.40']"
+NZXT,E,ATX,80+ Gold,650.0,Full,Black,"['USD', '0.00']"
+NZXT,HALE 90,ATX,80+ Gold,750.0,Full,,"['USD', '0.00']"
+NZXT,HALE82,ATX,80+ Bronze,750.0,Semi,,"['USD', '0.00']"
+NZXT,HALE82 V2,ATX,80+ Bronze,700.0,Full,,"['USD', '0.00']"
+NZXT,HALE82N,ATX,80+ Bronze,650.0,No,,"['USD', '0.00']"
+NZXT,HALE90 V2,ATX,80+ Gold,850.0,Full,,"['USD', '0.00']"
+Nexus,NX-5000 R3,ATX,80+ Bronze,530.0,No,,"['USD', '0.00']"
+OCZ,EliteXStream,ATX,80+,1000.0,No,,"['USD', '0.00']"
+OCZ,Fatal1ty,ATX,80+ Gold,1000.0,Semi,,"['USD', '441.59']"
+OCZ,ModXStream Pro,ATX,80+,700.0,Semi,,"['USD', '0.00']"
+OCZ,StealthXStream,ATX,,700.0,No,,"['USD', '0.00']"
+OCZ,StealthXstream II,ATX,80+,600.0,No,,"['USD', '0.00']"
+OCZ,Z Series Gold,ATX,80+ Gold,850.0,Semi,,"['USD', '0.00']"
+OCZ,ZS,ATX,80+ Bronze,650.0,No,,"['USD', '0.00']"
+OCZ,ZT,ATX,80+ Bronze,750.0,Full,,"['USD', '0.00']"
+OCZ,ZX,ATX,80+ Gold,1250.0,Full,,"['USD', '0.00']"
+PC Power & Cooling,Fatal1ty Gaming,ATX,80+ Gold,750.0,Full,Black / Red,"['USD', '0.00']"
+PC Power & Cooling,PPCT1200ESA,ATX,,1200.0,No,,"['USD', '0.00']"
+PC Power & Cooling,PPCT860,ATX,80+,860.0,No,,"['USD', '0.00']"
+PC Power & Cooling,Power Master,ATX,80+ Bronze,600.0,Semi,Black / Red,"['USD', '102.56']"
+PC Power & Cooling,S47ATX-B,ATX,,470.0,No,,"['USD', '0.00']"
+PC Power & Cooling,S61EPS-B,ATX,80+,610.0,No,,"['USD', '0.00']"
+PC Power & Cooling,S75CF,ATX,80+,750.0,No,,"['USD', '0.00']"
+PC Power & Cooling,S75CF-B,ATX,80+,750.0,No,,"['USD', '0.00']"
+PC Power & Cooling,Silencer,ATX,80+ Silver,760.0,No,,"['USD', '0.00']"
+PC Power & Cooling,Silencer MK III,ATX,80+ Bronze,500.0,Semi,,"['USD', '0.00']"
+PC Power & Cooling,Silencer Mk II,ATX,80+ Silver,950.0,No,,"['USD', '0.00']"
+PC Power & Cooling,T12W,ATX,,1200.0,No,,"['USD', '0.00']"
+Phanteks,AMP,ATX,80+ Gold,650.0,Full,Black,"['USD', '0.00']"
+Phanteks,PH-P550GF,ATX,80+ Gold,550.0,No,Black,"['USD', '0.00']"
+Phanteks,PH-P650GS,ATX,80+ Gold,650.0,No,Black,"['USD', '0.00']"
+Phanteks,PH-P750GS,ATX,80+ Gold,750.0,No,Black,"['USD', '0.00']"
+Phanteks,Revolt Pro,ATX,80+ Gold,850.0,Full,Silver / Black,"['USD', '0.00']"
+Phanteks,Revolt X,ATX,80+ Platinum,1200.0,Full,Black / Silver,"['USD', '624.99']"
+PowerSpec,PS 550BF,ATX,80+ Bronze,550.0,No,Black,"['USD', '0.00']"
+PowerSpec,PS 650BF,ATX,80+ Bronze,650.0,No,Black,"['USD', '0.00']"
+PowerSpec,PS 650BSM,ATX,80+ Bronze,650.0,Semi,Black,"['USD', '0.00']"
+PowerSpec,PS 650GSM,ATX,80+ Gold,650.0,Semi,Black,"['USD', '0.00']"
+PowerSpec,PS 750BSM,ATX,80+ Bronze,750.0,Semi,Black,"['USD', '0.00']"
+PowerSpec,PSX 850GFM,ATX,80+ Gold,850.0,Full,Black,"['USD', '0.00']"
+RIOTORO,BUILDER,ATX,80+,500.0,No,Black / Red,"['USD', '0.00']"
+RIOTORO,ENIGMA,ATX,80+ Gold,850.0,Semi,,"['USD', '0.00']"
+RIOTORO,ENIGMA G2,ATX,80+ Gold,650.0,Full,Black / Yellow,"['USD', '0.00']"
+RIOTORO,ONYX,ATX,80+ Bronze,750.0,Semi,,"['USD', '0.00']"
+Raidmax,Cobra,ATX,80+ Gold,500.0,No,,"['USD', '0.00']"
+Raidmax,RX-1000AE,ATX,80+ Gold,1000.0,Semi,,"['USD', '0.00']"
+Raidmax,RX-1200AE,ATX,80+ Bronze,1200.0,Semi,,"['USD', '0.00']"
+Raidmax,RX-380K,ATX,,380.0,No,,"['USD', '0.00']"
+Raidmax,RX-450K,ATX,,450.0,No,,"['USD', '0.00']"
+Raidmax,RX-500AF,ATX,80+ Bronze,500.0,No,,"['USD', '0.00']"
+Raidmax,RX-530SS,ATX,,530.0,Semi,,"['USD', '54.99']"
+Raidmax,RX-535AP,ATX,80+ Bronze,535.0,Semi,,"['USD', '0.00']"
+Raidmax,RX-600AF,ATX,80+ Bronze,600.0,No,,"['USD', '0.00']"
+Raidmax,RX-630SS,ATX,,630.0,Semi,,"['USD', '55.95']"
+Raidmax,RX-635AP,ATX,80+ Bronze,635.0,Semi,,"['USD', '0.00']"
+Raidmax,RX-700AC,ATX,80+ Bronze,700.0,Semi,,"['USD', '0.00']"
+Raidmax,RX-700AT,ATX,80+ Titanium,700.0,Semi,Black,"['USD', '0.00']"
+Raidmax,RX-730SS,ATX,,730.0,Semi,,"['USD', '0.00']"
+Raidmax,RX-735AP,ATX,80+ Bronze,735.0,Semi,,"['USD', '0.00']"
+Raidmax,RX-835AP,ATX,80+ Bronze,835.0,Semi,,"['USD', '0.00']"
+Raidmax,RX-850AE,ATX,80+ Gold,850.0,Semi,,"['USD', '0.00']"
+Raidmax,Scorpio,ATX,80+ Bronze,535.0,Semi,Black / Blue,"['USD', '0.00']"
+Raidmax,Thunder RGB,ATX,80+ Bronze,535.0,Semi,Black,"['USD', '0.00']"
+Raidmax,Vampire,ATX,80+ Gold,700.0,Semi,,"['USD', '0.00']"
+Replace Power,RP-TFX-420W,TFX,,420.0,No,,"['USD', '0.00']"
+Rocketfish,RF-900WPS,ATX,,900.0,Full,,"['USD', '0.00']"
+Rosewill,ARC 450,ATX,80+ Bronze,450.0,No,,"['USD', '59.99']"
+Rosewill,ARC 550,ATX,80+ Bronze,550.0,No,,"['USD', '57.99']"
+Rosewill,ARC 650,ATX,80+ Bronze,650.0,No,,"['USD', '59.99']"
+Rosewill,ARC 750,ATX,80+ Bronze,750.0,No,,"['USD', '59.99']"
+Rosewill,ARC M450,ATX,80+ Bronze,450.0,Semi,,"['USD', '0.00']"
+Rosewill,ARC M550,ATX,80+ Bronze,550.0,Semi,,"['USD', '0.00']"
+Rosewill,ARC M650,ATX,80+ Bronze,650.0,Semi,,"['USD', '0.00']"
+Rosewill,CAPSTONE-1000-M,ATX,80+ Gold,1000.0,Semi,,"['USD', '0.00']"
+Rosewill,Capstone,ATX,80+ Gold,650.0,No,,"['USD', '0.00']"
+Rosewill,Capstone G1000,ATX,80+ Gold,1000.0,Semi,,"['USD', '0.00']"
+Rosewill,Capstone G1200,ATX,80+ Gold,1200.0,Semi,,"['USD', '0.00']"
+Rosewill,Capstone G750,ATX,80+ Gold,750.0,Semi,,"['USD', '0.00']"
+Rosewill,Capstone G850,ATX,80+ Gold,850.0,Semi,,"['USD', '0.00']"
+Rosewill,Fortress,ATX,80+ Platinum,450.0,No,,"['USD', '0.00']"
+Rosewill,Glacier 1000M,ATX,80+ Bronze,1000.0,Semi,,"['USD', '114.99']"
+Rosewill,Glacier 1200M,ATX,80+ Bronze,1200.0,Semi,,"['USD', '0.00']"
+Rosewill,Glacier 500M,ATX,80+ Bronze,500.0,Semi,,"['USD', '59.99']"
+Rosewill,Glacier 600M,ATX,80+ Bronze,600.0,Semi,,"['USD', '69.99']"
+Rosewill,Glacier 700M,ATX,80+ Bronze,700.0,Semi,,"['USD', '79.99']"
+Rosewill,Glacier 850M,ATX,80+ Bronze,850.0,Semi,,"['USD', '87.99']"
+Rosewill,Green,ATX,80+,630.0,No,,"['USD', '0.00']"
+Rosewill,HERCULES-1600,ATX,80+ Silver,1600.0,Semi,,"['USD', '0.00']"
+Rosewill,HERCULES-1600S,ATX,80+ Gold,1600.0,Semi,,"['USD', '0.00']"
+Rosewill,HIVE,ATX,80+ Bronze,750.0,Semi,,"['USD', '109.99']"
+Rosewill,LEPTON,ATX,80+ Gold,500.0,Semi,Black,"['USD', '84.99']"
+Rosewill,LEPTON 600,ATX,80+ Gold,600.0,Semi,Black,"['USD', '94.99']"
+Rosewill,LEPTON 700,ATX,80+ Gold,700.0,Semi,,"['USD', '99.99']"
+Rosewill,LP-6100C,ATX,,300.0,No,,"['USD', '0.00']"
+Rosewill,Libertas,ATX,80+ Bronze,800.0,Full,,"['USD', '0.00']"
+Rosewill,Lightning,ATX,80+ Gold,800.0,Semi,,"['USD', '0.00']"
+Rosewill,PHOTON 1350,ATX,80+ Gold,1350.0,Full,Black,"['USD', '0.00']"
+Rosewill,PHOTON-1050,ATX,80+ Gold,1050.0,Full,,"['USD', '149.99']"
+Rosewill,PHOTON-1200,ATX,80+ Gold,1200.0,Full,,"['USD', '199.99']"
+Rosewill,PHOTON-550,ATX,80+ Gold,550.0,Full,,"['USD', '89.99']"
+Rosewill,PHOTON-650,ATX,80+ Gold,650.0,Full,,"['USD', '89.99']"
+Rosewill,PHOTON-750,ATX,80+ Gold,750.0,Full,,"['USD', '129.99']"
+Rosewill,PHOTON-850,ATX,80+ Gold,850.0,Full,,"['USD', '139.99']"
+Rosewill,Quark 1000,ATX,80+ Platinum,1000.0,Full,,"['USD', '0.00']"
+Rosewill,Quark 1200,ATX,80+ Platinum,1200.0,Full,,"['USD', '0.00']"
+Rosewill,Quark 550,ATX,80+ Platinum,550.0,Full,,"['USD', '0.00']"
+Rosewill,Quark 650,ATX,80+ Platinum,650.0,Full,,"['USD', '0.00']"
+Rosewill,Quark 750,ATX,80+ Platinum,750.0,Full,,"['USD', '0.00']"
+Rosewill,Quark 850,ATX,80+ Platinum,850.0,Full,,"['USD', '0.00']"
+Rosewill,RBR1000-M,ATX,80+ Bronze,1000.0,Semi,,"['USD', '149.99']"
+Rosewill,RD-Z,ATX,80+,450.0,No,Black,"['USD', '0.00']"
+Rosewill,RD600-M,ATX,,600.0,Semi,,"['USD', '0.00']"
+Rosewill,RP600V2-S-SL,ATX,,600.0,No,,"['USD', '0.00']"
+Rosewill,RV2-500,ATX,,500.0,No,,"['USD', '0.00']"
+Rosewill,RV2-600,ATX,,600.0,No,,"['USD', '0.00']"
+Rosewill,RV2-700,ATX,,700.0,No,,"['USD', '0.00']"
+Rosewill,RV350,ATX,,350.0,No,,"['USD', '0.00']"
+Rosewill,RV350-2,ATX,,350.0,No,,"['USD', '0.00']"
+Rosewill,RX750-S-B,ATX,80+,750.0,No,,"['USD', '0.00']"
+Rosewill,RX850-S-B,ATX,80+,850.0,No,,"['USD', '0.00']"
+Rosewill,SL-300TFX,TFX,,300.0,No,,"['USD', '0.00']"
+Rosewill,SilentNight-500,ATX,80+ Platinum,500.0,Semi,,"['USD', '0.00']"
+Rosewill,Stallion,ATX,,500.0,No,,"['USD', '0.00']"
+Rosewill,TOKAMAK 1200,ATX,80+ Titanium,1200.0,Full,,"['USD', '0.00']"
+Rosewill,Tachyon,ATX,80+ Platinum,650.0,Semi,,"['USD', '0.00']"
+Rosewill,VALENS-500,ATX,80+ Gold,500.0,No,,"['USD', '0.00']"
+Rosewill,VALENS-500M,ATX,80+ Gold,500.0,Semi,,"['USD', '0.00']"
+Rosewill,VALENS-600,ATX,80+ Gold,600.0,No,,"['USD', '146.99']"
+Rosewill,VALENS-600M,ATX,80+ Gold,600.0,Semi,,"['USD', '0.00']"
+Rosewill,VALENS-700,ATX,80+ Gold,700.0,No,,"['USD', '0.00']"
+Rosewill,VALENS-700M,ATX,80+ Gold,700.0,Semi,,"['USD', '0.00']"
+SHARKOON,SilentStorm,SFX,80+ Bronze,450.0,No,Black,"['USD', '0.00']"
+SHARKOON,SilentStorm Cool Zero,ATX,80+ Gold,650.0,Full,Black,"['USD', '0.00']"
+SHARKOON,SilentStorm Icewind,ATX,80+ Bronze,550.0,Semi,White / Black,"['USD', '0.00']"
+SHARKOON,SilentStorm Icewind Black,ATX,80+ Bronze,550.0,Semi,Black,"['USD', '0.00']"
+SHARKOON,WPC Bronze,ATX,80+ Bronze,550.0,No,Black,"['USD', '0.00']"
+SHARKOON,WPM Bronze,ATX,80+ Bronze,600.0,Semi,,"['USD', '0.00']"
+SHARKOON,WPM Gold Zero,ATX,80+ Gold,550.0,Semi,Black,"['USD', '0.00']"
+SeaSonic,CORE GM,ATX,80+ Gold,650.0,Semi,Black,"['USD', '0.00']"
+SeaSonic,Core GC,ATX,80+ Gold,650.0,No,Black,"['USD', '0.00']"
+SeaSonic,ECO,ATX,80+ Bronze,430.0,No,,"['USD', '0.00']"
+SeaSonic,FOCUS,ATX,80+ Gold,850.0,Full,Black,"['USD', '0.00']"
+SeaSonic,FOCUS Gold,ATX,80+ Gold,550.0,Semi,,"['USD', '99.49']"
+SeaSonic,FOCUS PX,ATX,80+ Platinum,850.0,Full,Black,"['USD', '235.99']"
+SeaSonic,FOCUS Plus Gold,ATX,80+ Gold,650.0,Full,,"['USD', '124.99']"
+SeaSonic,FOCUS Plus Platinum,ATX,80+ Platinum,550.0,Full,,"['USD', '117.98']"
+SeaSonic,FOCUS SGX,SFX,80+ Gold,500.0,Full,Black,"['USD', '107.98']"
+SeaSonic,G,ATX,80+ Gold,650.0,Semi,,"['USD', '187.94']"
+SeaSonic,M12II,ATX,80+ Bronze,750.0,Semi,,"['USD', '0.00']"
+SeaSonic,M12II EVO,ATX,80+ Bronze,520.0,Full,Black,"['USD', '0.00']"
+SeaSonic,PRIME,ATX,80+ Gold,650.0,Full,Black,"['USD', '0.00']"
+SeaSonic,PRIME AIRTOUCH,ATX,80+ Gold,850.0,Full,Black / Red,"['USD', '0.00']"
+SeaSonic,PRIME Fanless,ATX,80+ Titanium,700.0,Full,Black,"['USD', '269.74']"
+SeaSonic,PRIME Gold,ATX,80+ Gold,1200.0,Full,,"['USD', '0.00']"
+SeaSonic,PRIME PX,ATX,80+ Platinum,1000.0,Full,Black / Silver,"['USD', '625.99']"
+SeaSonic,PRIME Platinum,ATX,80+ Platinum,1200.0,Full,,"['USD', '0.00']"
+SeaSonic,PRIME SNOWSILENT,ATX,80+ Platinum,650.0,Full,White,"['USD', '0.00']"
+SeaSonic,PRIME TX,ATX,80+ Titanium,850.0,Full,Black,"['USD', '602.99']"
+SeaSonic,PRIME Titanium,ATX,80+ Titanium,650.0,Full,,"['USD', '0.00']"
+SeaSonic,PRIME Ultra Gold,ATX,80+ Gold,550.0,Full,Black,"['USD', '0.00']"
+SeaSonic,PRIME Ultra Platinum,ATX,80+ Platinum,750.0,Full,Black,"['USD', '164.99']"
+SeaSonic,PRIME Ultra Titanium,ATX,80+ Titanium,850.0,Full,,"['USD', '649.00']"
+SeaSonic,Platinum,ATX,80+ Platinum,660.0,Full,,"['USD', '0.00']"
+SeaSonic,S12G,ATX,80+ Gold,550.0,No,,"['USD', '0.00']"
+SeaSonic,S12II,ATX,80+ Bronze,350.0,No,,"['USD', '0.00']"
+SeaSonic,S12III,ATX,80+ Bronze,650.0,No,Black,"['USD', '64.99']"
+SeaSonic,SS-300ES Bronze,ATX,80+ Bronze,300.0,No,,"['USD', '71.44']"
+SeaSonic,SS-300ET Bronze,ATX,80+ Bronze,300.0,No,,"['USD', '0.00']"
+SeaSonic,SS-300SFD,SFX,80+,300.0,No,,"['USD', '0.00']"
+SeaSonic,SS-300TFX Bronze,TFX,80+ Bronze,300.0,No,,"['USD', '90.11']"
+SeaSonic,SS-300TGW,TFX,80+ Gold,300.0,No,,"['USD', '0.00']"
+SeaSonic,SS-350ET Bronze,ATX,80+ Bronze,350.0,No,,"['USD', '0.00']"
+SeaSonic,SS-350SFE,SFX,80+,350.0,No,,"['USD', '0.00']"
+SeaSonic,SS-350TGM Retail,TFX,80+ Gold,350.0,Full,,"['USD', '0.00']"
+SeaSonic,SS-400ET Bronze,ATX,80+ Bronze,400.0,No,,"['USD', '0.00']"
+SeaSonic,SS-500ES Bronze,ATX,80+ Bronze,500.0,No,,"['USD', '0.00']"
+SeaSonic,SS-500ET Bronze,ATX,80+ Bronze,500.0,No,,"['USD', '0.00']"
+SeaSonic,SS-600ES,ATX,80+ Bronze,600.0,No,Gray,"['USD', '129.01']"
+SeaSonic,SS-750HT Silver,ATX,80+ Silver,750.0,No,,"['USD', '0.00']"
+SeaSonic,SS-850HT Silver,ATX,80+ Silver,850.0,No,,"['USD', '239.95']"
+SeaSonic,SSP-300SFG,SFX,80+ Gold,300.0,No,,"['USD', '0.00']"
+SeaSonic,SSP-300ST,ATX,80+ Bronze,300.0,No,,"['USD', '0.00']"
+SeaSonic,SSP-300SUG,Flex ATX,80+ Gold,300.0,No,,"['USD', '0.00']"
+SeaSonic,SSP-300TBS,TFX,80+ Bronze,300.0,No,Silver,"['USD', '69.27']"
+SeaSonic,SSP-350SE,ATX,80+ Bronze,350.0,No,,"['USD', '0.00']"
+SeaSonic,SSP-350ST,ATX,80+ Bronze,350.0,No,,"['USD', '0.00']"
+SeaSonic,SSP-450RT,ATX,80+ Gold,450.0,No,,"['USD', '0.00']"
+SeaSonic,SSP-550RT,ATX,80+ Gold,550.0,No,,"['USD', '0.00']"
+SeaSonic,SSP-650RT,ATX,80+ Gold,650.0,No,,"['USD', '0.00']"
+SeaSonic,Snow Silent,ATX,80+ Platinum,1050.0,Full,,"['USD', '0.00']"
+SeaSonic,TFX 350,TFX,80+ Gold,350.0,Full,,"['USD', '0.00']"
+SeaSonic,X,ATX,80+ Gold,760.0,Full,,"['USD', '0.00']"
+SeaSonic,X Series,ATX,80+ Gold,1250.0,Full,,"['USD', '0.00']"
+Segotep,GP700G,ATX,80+ Gold,700.0,No,Black,"['USD', '0.00']"
+Sentey,ERP-400-SS,ATX,,400.0,No,,"['USD', '0.00']"
+Sentey,ERP-500-SM,ATX,,500.0,Full,,"['USD', '0.00']"
+Sentey,ERP-500-SMR,ATX,,500.0,Full,,"['USD', '0.00']"
+Sentey,ERP-500-SS,ATX,,500.0,No,,"['USD', '0.00']"
+Sentey,ERP-600-SM,ATX,,600.0,Full,,"['USD', '0.00']"
+Sentey,ERP-600-SS,ATX,,600.0,No,,"['USD', '0.00']"
+Sentey,ERP-700-SS,ATX,,700.0,No,,"['USD', '0.00']"
+Sentey,GSP1000-SM,ATX,80+ Gold,1000.0,Full,,"['USD', '0.00']"
+Sentey,GSP650-SM,ATX,80+ Gold,650.0,Full,,"['USD', '0.00']"
+Sentey,GSP750-SM,ATX,80+ Gold,750.0,Full,,"['USD', '0.00']"
+Sentey,GSP850-SM,ATX,80+ Gold,850.0,Full,,"['USD', '0.00']"
+Sentey,MBP HM,ATX,80+ Bronze,750.0,Semi,Black,"['USD', '0.00']"
+Sentey,SDP550-SS,ATX,80+,550.0,No,,"['USD', '0.00']"
+Sentey,SDP650-SS,ATX,80+,650.0,No,,"['USD', '0.00']"
+Sentey,SDP750-SS,ATX,80+,750.0,No,,"['USD', '0.00']"
+Sentey,SDP850-SS,ATX,80+,850.0,No,,"['USD', '0.00']"
+Sentey,XPP725-PS,ATX,,725.0,Semi,,"['USD', '0.00']"
+SilentiumPC,Supremo FM2,ATX,80+ Gold,750.0,Full,Black,"['USD', '0.00']"
+SilentiumPC,Supremo L2,ATX,80+ Gold,650.0,No,Black,"['USD', '0.00']"
+SilentiumPC,Supremo L2 V2,ATX,80+ Gold,550.0,No,Black,"['USD', '0.00']"
+SilentiumPC,Vero L2,ATX,80+ Bronze,500.0,No,Black,"['USD', '0.00']"
+SilentiumPC,Vero M2,ATX,80+ Bronze,600.0,No,Black,"['USD', '0.00']"
+Silverstone,DA700,ATX,,700.0,Full,,"['USD', '0.00']"
+Silverstone,DA750,ATX,,750.0,Full,,"['USD', '0.00']"
+Silverstone,Essential,ATX,80+ Gold,650.0,No,Black,"['USD', '84.99']"
+Silverstone,Nightjar,ATX,80+ Bronze,400.0,No,,"['USD', '0.00']"
+Silverstone,OP1000-E,ATX,,1000.0,No,,"['USD', '0.00']"
+Silverstone,OP1000-P,ATX,80+,1000.0,No,,"['USD', '0.00']"
+Silverstone,OP750,ATX,,750.0,No,,"['USD', '0.00']"
+Silverstone,OP800,ATX,,800.0,No,,"['USD', '0.00']"
+Silverstone,OP850,ATX,,850.0,No,,"['USD', '0.00']"
+Silverstone,SFX,SFX,80+ Bronze,300.0,No,,"['USD', '143.79']"
+Silverstone,SST-FX350-G,Flex ATX,80+ Gold,350.0,No,Black,"['USD', '111.12']"
+Silverstone,SST-TX300,TFX,80+ Bronze,300.0,No,Black,"['USD', '79.98']"
+Silverstone,SX-B,SFX,80+ Bronze,300.0,No,Black,"['USD', '67.01']"
+Silverstone,SX-G,SFX,80+ Gold,700.0,Full,Black,"['USD', '160.22']"
+Silverstone,SX500-G,SFX,80+ Gold,500.0,Full,,"['USD', '108.98']"
+Silverstone,SX650-G,SFX,80+ Gold,650.0,Full,,"['USD', '125.99']"
+Silverstone,SX700-PT,SFX,80+ Platinum,700.0,Full,Black,"['USD', '174.99']"
+Silverstone,Strider,ATX,80+,1200.0,Full,,"['USD', '0.00']"
+Silverstone,Strider Gold S V2,ATX,80+ Gold,850.0,Full,,"['USD', '359.95']"
+Silverstone,Strider Platinum,ATX,80+ Platinum,550.0,Full,,"['USD', '145.19']"
+Silverstone,Strider Platinum S,ATX,80+ Platinum,1000.0,Full,Black,"['USD', '238.45']"
+Silverstone,Strider Plus,ATX,80+ Bronze,500.0,Full,,"['USD', '0.00']"
+Silverstone,Strider Titanium,ATX,80+ Titanium,1500.0,Full,Black / Blue,"['USD', '540.51']"
+Silverstone,TX300,TFX,80+ Bronze,300.0,No,Black,"['USD', '81.18']"
+Silverstone,Zeus,ATX,80+ Silver,1350.0,Full,,"['USD', '0.00']"
+Solid Gear,SDGR-650E,ATX,,650.0,No,,"['USD', '0.00']"
+Solid Gear,SDGR-750E,ATX,,750.0,Semi,,"['USD', '68.94']"
+Solid Gear,SDGR-900E,ATX,,900.0,No,,"['USD', '65.98']"
+Solid Gear,SDGR-FLEX220,Flex ATX,,220.0,No,,"['USD', '29.48']"
+Sparkle,ATX-300PA,ATX,,300.0,No,,"['USD', '54.82']"
+Sparkle,ATX-300PN-B204,ATX,,300.0,No,,"['USD', '0.00']"
+Sparkle,ATX-350PN-B204,ATX,,350.0,No,,"['USD', '49.99']"
+Sparkle,ATX-400PA,ATX,,400.0,No,,"['USD', '57.99']"
+Sparkle,ATX-400PN-B204,ATX,,400.0,No,,"['USD', '63.95']"
+Sparkle,ATX-450PN,ATX,,450.0,No,,"['USD', '0.00']"
+Sparkle,FSP300-60ATV,ATX,,300.0,No,,"['USD', '0.00']"
+Sparkle,FSP300-60THA,ATX,,300.0,No,,"['USD', '0.00']"
+Sparkle,FSP300THAR-MC,ATX,,300.0,No,,"['USD', '0.00']"
+Sparkle,FSP350-60GNV,SFX,,350.0,No,,"['USD', '59.99']"
+Sparkle,FSP400-60GHS,SFX,80+ Bronze,400.0,No,,"['USD', '0.00']"
+Sparkle,GW-EPS1000DA,ATX,80+ Gold,1000.0,Semi,,"['USD', '0.00']"
+Sparkle,GW-EPS1250DA,ATX,80+ Gold,1250.0,Full,,"['USD', '0.00']"
+Sparkle,Magna,ATX,80+ Bronze,1200.0,Semi,,"['USD', '0.00']"
+Sparkle,Magna GOLD PRO,ATX,80+ Gold,850.0,Semi,,"['USD', '0.00']"
+Sparkle,R-FSP400-60ETN,ATX,80+ Platinum,400.0,No,,"['USD', '0.00']"
+Sparkle,R-SPI1000GCM,ATX,80+,1000.0,Semi,,"['USD', '0.00']"
+Sparkle,R-SPI600ACH5B,ATX,80+ Silver,600.0,No,,"['USD', '0.00']"
+Sparkle,R-SPI600GHN,ATX,80+,600.0,No,,"['USD', '171.30']"
+Sparkle,R-SPI650ACAG,ATX,80+ Gold,650.0,No,,"['USD', '0.00']"
+Sparkle,R-SPI700ACH5B,ATX,80+ Silver,700.0,No,,"['USD', '0.00']"
+Sparkle,R-SPI700GHN,ATX,80+,700.0,No,,"['USD', '0.00']"
+Sparkle,R-SPI750ACAG,ATX,80+ Gold,750.0,No,,"['USD', '0.00']"
+Sparkle,R-SPI900GCM,ATX,80+,900.0,Semi,,"['USD', '0.00']"
+Sparkle,SCC-750AF,ATX,80+ Gold,750.0,Full,,"['USD', '0.00']"
+Sparkle,SCC-850AF,ATX,80+ Gold,850.0,Semi,,"['USD', '0.00']"
+Sparkle,SPI300GLS-B204,SFX,,300.0,No,,"['USD', '0.00']"
+Sparkle,SPI300T8AB-B204,TFX,80+ Bronze,300.0,No,,"['USD', '0.00']"
+Sparkle,SPI460PFB2-MC2,ATX,80+,460.0,No,,"['USD', '0.00']"
+StarTech,ATX2POW400HS,ATX,,400.0,No,,"['USD', '0.00']"
+StarTech,ATX2POW450HS,ATX,,450.0,No,,"['USD', '0.00']"
+StarTech,ATX2POW500HS,ATX,,500.0,No,,"['USD', '0.00']"
+StarTech,ATX2POWER350,ATX,,350.0,No,,"['USD', '51.49']"
+StarTech,ATX2POWER400,ATX,,400.0,No,,"['USD', '140.46']"
+StarTech,ATX2POWER430,ATX,80+,430.0,No,,"['USD', '145.59']"
+StarTech,ATX2POWER450,ATX,,450.0,No,,"['USD', '0.00']"
+StarTech,ATX2POWER530,ATX,80+ Bronze,530.0,No,,"['USD', '0.00']"
+StarTech,ATX2PW400PRO,ATX,,400.0,No,,"['USD', '0.00']"
+StarTech,ATX2PW430PRO,ATX,80+ Bronze,430.0,No,,"['USD', '0.00']"
+StarTech,ATX2PW450PRO,ATX,,450.0,No,,"['USD', '0.00']"
+StarTech,ATX2PW500PRO,ATX,,500.0,No,,"['USD', '0.00']"
+StarTech,ATX2PW530PRO,ATX,80+ Bronze,530.0,No,,"['USD', '0.00']"
+StarTech,ATX2PW550PRO,ATX,,550.0,No,,"['USD', '0.00']"
+StarTech,ATX2PW550WH,ATX,80+,550.0,No,,"['USD', '0.00']"
+StarTech,ATXPOW350PRO,ATX,,350.0,No,,"['USD', '137.28']"
+StarTech,ATXPW350DELL,ATX,,350.0,No,,"['USD', '0.00']"
+StarTech,ATXPW500PRO2,ATX,,500.0,No,,"['USD', '207.56']"
+StarTech,ATXPW550PRO2,ATX,,550.0,No,,"['USD', '176.59']"
+StarTech,MICATXPOW255,Micro ATX,,255.0,No,,"['USD', '0.00']"
+Sunbeam,IC-PSU-US-2545-DW,ATX,,450.0,No,,"['USD', '0.00']"
+Sunbeam,PSU-BKS580-US,ATX,,580.0,No,,"['USD', '0.00']"
+Sunbeam,PSU-COM680-BK-US,ATX,,680.0,Full,,"['USD', '0.00']"
+Sunbeam,PSU-COM780-BK-US,ATX,,780.0,Full,,"['USD', '0.00']"
+Sunbeam,PSU-ECO750-US-BL,ATX,80+,750.0,No,,"['USD', '0.00']"
+Sunbeam,PSU-H680-REV-US,ATX,,680.0,No,,"['USD', '0.00']"
+Sunbeam,PSU-H680-REV-US-BL,ATX,,680.0,No,,"['USD', '0.00']"
+Sunbeam,PSU-HUSH580-US,ATX,,580.0,No,,"['USD', '0.00']"
+Sunbeam,PSU-HUSH580-US-BL,ATX,,580.0,No,,"['USD', '0.00']"
+Super Flower,Amazon,ATX,80+ Bronze,550.0,No,,"['USD', '0.00']"
+Super Flower,Golden Green HX,ATX,80+ Gold,350.0,No,,"['USD', '0.00']"
+Super Flower,Golden Silent,ATX,80+ Gold,430.0,Semi,,"['USD', '0.00']"
+Super Flower,LEADEX Special Edition,ATX,80+ Platinum,1000.0,Full,Black,"['USD', '0.00']"
+Super Flower,Leadex,ATX,80+ Platinum,2000.0,Full,,"['USD', '0.00']"
+Super Flower,Leadex Gold,ATX,80+ Gold,1300.0,Full,,"['USD', '0.00']"
+Super Flower,Leadex III ARGB,ATX,80+ Gold,650.0,Full,White,"['USD', '159.99']"
+Super Flower,Leadex III ARGB Pro,ATX,80+ Gold,850.0,Full,Black,"['USD', '189.99']"
+Super Flower,Leadex III Gold,ATX,80+ Gold,750.0,Full,Black,"['USD', '0.00']"
+Super Flower,Leadex Platinum,ATX,80+ Platinum,1200.0,Full,,"['USD', '0.00']"
+Super Flower,Leadex Silver,ATX,80+ Silver,550.0,Full,,"['USD', '0.00']"
+Super Flower,Leadex Titanium,BTX,80+ Titanium,1000.0,Full,Black,"['USD', '0.00']"
+TUNIQ,PSU-POT750-BK,ATX,80+ Bronze,750.0,No,,"['USD', '0.00']"
+Tacens,AP II,ATX,,500.0,No,Black / Green,"['USD', '0.00']"
+Tacens,Radix VII AG,ATX,80+ Silver,600.0,No,Black,"['USD', '0.00']"
+Thermaltake,Black Widow,ATX,80+ Bronze,850.0,Semi,,"['USD', '0.00']"
+Thermaltake,EVO_Blue,ATX,80+ Gold,750.0,Semi,,"['USD', '0.00']"
+Thermaltake,German,ATX,80+,630.0,No,,"['USD', '173.00']"
+Thermaltake,Litepower,ATX,,450.0,No,,"['USD', '0.00']"
+Thermaltake,Smart,ATX,80+ Bronze,850.0,Semi,,"['USD', '0.00']"
+Thermaltake,Smart BX1,ATX,80+ Bronze,750.0,No,Black,"['USD', '79.99']"
+Thermaltake,Smart BX1 RGB,ATX,80+ Bronze,550.0,No,Black,"['USD', '91.90']"
+Thermaltake,Smart DPS G,ATX,80+ Gold,650.0,Semi,,"['USD', '0.00']"
+Thermaltake,Smart Pro RGB,ATX,80+ Bronze,650.0,Full,,"['USD', '171.98']"
+Thermaltake,Smart RGB,ATX,80+,600.0,No,,"['USD', '69.99']"
+Thermaltake,Smart RGB 230V,ATX,80+,500.0,No,Black,"['USD', '202.40']"
+Thermaltake,Smart SE,ATX,80+ Bronze,630.0,Semi,,"['USD', '0.00']"
+Thermaltake,Smart Series,ATX,80+,430.0,No,Black / White,"['USD', '38.98']"
+Thermaltake,TOUGHPOWER PF1 ARGB,ATX,80+ Platinum,1200.0,Full,,"['USD', '0.00']"
+Thermaltake,TR2,ATX,,430.0,No,,"['USD', '0.00']"
+Thermaltake,TR2 RX,ATX,80+ Bronze,850.0,Semi,,"['USD', '0.00']"
+Thermaltake,TR2 S,ATX,80+,650.0,No,,"['USD', '0.00']"
+Thermaltake,Toughpower,ATX,80+ Gold,550.0,Semi,,"['USD', '0.00']"
+Thermaltake,Toughpower DPS G,ATX,80+ Gold,550.0,Full,,"['USD', '0.00']"
+Thermaltake,Toughpower DPS G RGB,ATX,80+ Titanium,1250.0,Full,,"['USD', '739.00']"
+Thermaltake,Toughpower DPS G RGB Gold,ATX,80+ Gold,750.0,Full,,"['USD', '240.00']"
+Thermaltake,Toughpower DPS G RGB Titanium,ATX,80+ Titanium,850.0,Full,,"['USD', '0.00']"
+Thermaltake,Toughpower GF1,ATX,80+ Gold,650.0,Full,Black,"['USD', '109.99']"
+Thermaltake,Toughpower GF1 ARGB,ATX,80+ Gold,850.0,Full,,"['USD', '189.99']"
+Thermaltake,Toughpower GF1 PE,ATX,80+ Gold,650.0,Full,,"['USD', '106.98']"
+Thermaltake,Toughpower GOLD,ATX,80+ Gold,750.0,Semi,,"['USD', '152.99']"
+Thermaltake,Toughpower GX1,ATX,80+ Gold,600.0,No,Black,"['USD', '79.80']"
+Thermaltake,Toughpower GX1 RGB,ATX,80+ Gold,700.0,No,Black,"['USD', '0.00']"
+Thermaltake,Toughpower GX2,ATX,80+ Gold,600.0,No,Black,"['USD', '79.99']"
+Thermaltake,Toughpower Grand,ATX,80+ Platinum,1200.0,Full,,"['USD', '0.00']"
+Thermaltake,Toughpower Grand RGB,ATX,80+ Gold,750.0,Full,,"['USD', '119.99']"
+Thermaltake,Toughpower Grand RGB Platinum,ATX,80+ Platinum,1050.0,Full,Black,"['USD', '0.00']"
+Thermaltake,Toughpower Grand RGB Sync Edition,ATX,80+ Gold,850.0,Full,Black,"['USD', '0.00']"
+Thermaltake,Toughpower PF1,ATX,80+ Platinum,850.0,Full,Black,"['USD', '179.99']"
+Thermaltake,Toughpower SFX,SFX,80+ Gold,450.0,Full,Black,"['USD', '0.00']"
+Thermaltake,Toughpower XT,ATX,80+ Bronze,650.0,Full,,"['USD', '0.00']"
+Thermaltake,Toughpower iRGB PLUS,ATX,80+ Gold,1000.0,Full,Black,"['USD', '537.22']"
+Thermaltake,Toughpower iRGB PLUS Platinum,ATX,80+ Platinum,1000.0,Full,Black,"['USD', '0.00']"
+Thermaltake,W0328RU,ATX,,350.0,No,,"['USD', '0.00']"
+Thortech,Thunderbolt,ATX,80+ Gold,650.0,Full,,"['USD', '0.00']"
+Thortech,Thunderbolt PLUS,ATX,80+ Gold,800.0,Full,,"['USD', '0.00']"
+Topower,GAPS-500LX,ATX,,500.0,No,,"['USD', '0.00']"
+Topower,GAPS-500MX,ATX,,500.0,Full,,"['USD', '0.00']"
+Topower,TOP-1000P12-ADJ,ATX,,1000.0,Semi,,"['USD', '0.00']"
+Topower,TOP-1000WG,ATX,80+ Gold,1000.0,No,,"['USD', '0.00']"
+Topower,TOP-1200W,ATX,80+,1200.0,Full,,"['USD', '0.00']"
+Topower,TOP-400W80,ATX,80+,400.0,No,,"['USD', '0.00']"
+Topower,TOP-400W801,ATX,80+,400.0,No,,"['USD', '0.00']"
+Topower,TOP-500PM,ATX,,500.0,No,,"['USD', '0.00']"
+Topower,TOP-500WB,ATX,80+ Bronze,500.0,No,,"['USD', '0.00']"
+Topower,TOP-600WB,ATX,80+ Bronze,600.0,No,,"['USD', '0.00']"
+Topower,TOP-650PM,ATX,,650.0,No,,"['USD', '0.00']"
+Topower,TOP-800WB,ATX,80+ Bronze,800.0,No,,"['USD', '0.00']"
+Topower,TOP-900W,ATX,80+,900.0,Full,,"['USD', '0.00']"
+Topower,ZU-1050W,ATX,,1050.0,No,,"['USD', '0.00']"
+Topower,ZU-400W12,ATX,,400.0,No,,"['USD', '0.00']"
+Topower,ZU-450W,ATX,,450.0,No,,"['USD', '0.00']"
+Topower,ZU-500W,ATX,,500.0,No,,"['USD', '0.00']"
+Topower,ZU-550W,ATX,,550.0,No,,"['USD', '47.65']"
+Topower,ZU-650W,ATX,,650.0,No,,"['USD', '0.00']"
+Topower,ZU-750W,ATX,,750.0,No,,"['USD', '0.00']"
+Topower,ZU-950,ATX,,950.0,No,,"['USD', '0.00']"
+Ultra,LSP,ATX,,450.0,No,,"['USD', '0.00']"
+Ultra,LSP650,ATX,,650.0,No,,"['USD', '0.00']"
+Ultra,LSP750,ATX,,750.0,No,,"['USD', '0.00']"
+Ultra,U12-42466,ATX,80+ Bronze,650.0,Semi,,"['USD', '0.00']"
+Ultra,U12-42467,ATX,80+ Bronze,750.0,Semi,,"['USD', '0.00']"
+Ultra,ULT-LS500,ATX,,500.0,No,Silver,"['USD', '0.00']"
+Ultra,ULT-LSP550,ATX,,550.0,No,,"['USD', '0.00']"
+Ultra,X4,ATX,80+ Bronze,750.0,Full,,"['USD', '0.00']"
+Ultra,X4 Special Edition,ATX,80+ Bronze,850.0,Full,,"['USD', '0.00']"
+VIVO,24K,ATX,80+ Gold,650.0,Full,,"['USD', '0.00']"
+VisionTek,900346,ATX,,500.0,No,,"['USD', '0.00']"
+VisionTek,900347,ATX,,650.0,No,,"['USD', '0.00']"
+VisionTek,900349,ATX,80+ Bronze,800.0,No,,"['USD', '0.00']"
+VisionTek,900488,ATX,,550.0,Full,,"['USD', '0.00']"
+VisionTek,900489,ATX,80+ Bronze,700.0,Semi,,"['USD', '0.00']"
+VisionTek,900490,ATX,80+ Bronze,800.0,Semi,,"['USD', '0.00']"
+XClio,DIAMONDPOWER 1080W,ATX,,1080.0,No,,"['USD', '0.00']"
+XClio,DIAMONDPOWER 880W,ATX,,880.0,No,,"['USD', '0.00']"
+XClio,GOODPOWER 500W,ATX,,500.0,No,,"['USD', '0.00']"
+XClio,Goodpower 550W,ATX,80+ Bronze,550.0,Full,,"['USD', '0.00']"
+XClio,Goodpower 650W,ATX,80+ Bronze,650.0,Full,,"['USD', '0.00']"
+XClio,Goodpower 750W,ATX,80+ Bronze,750.0,Full,,"['USD', '0.00']"
+XClio,GreatPower,ATX,80+,600.0,Full,,"['USD', '0.00']"
+XClio,STABLEPOWER 1000W,ATX,,1000.0,No,,"['USD', '0.00']"
+XClio,STABLEPOWER 460W,ATX,,460.0,No,,"['USD', '0.00']"
+XClio,STABLEPOWER 500W,ATX,,500.0,No,,"['USD', '0.00']"
+XClio,STABLEPOWER 850W,ATX,,850.0,No,,"['USD', '0.00']"
+XClio,STABLEPOWER GOLD 1000W,ATX,80+ Gold,1000.0,Full,,"['USD', '0.00']"
+XClio,STABLEPOWER GOLD 750W,ATX,80+ Gold,750.0,Full,,"['USD', '0.00']"
+XFX,Black Edition,ATX,80+ Silver,750.0,Full,,"['USD', '0.00']"
+XFX,Core Edition,ATX,80+ Bronze,850.0,No,,"['USD', '0.00']"
+XFX,P1-450S-XXB9,ATX,80+ Bronze,450.0,No,,"['USD', '0.00']"
+XFX,P1-550S-XXB9,ATX,80+ Bronze,550.0,No,,"['USD', '0.00']"
+XFX,P1-550S-XXBA,ATX,80+ Bronze,550.0,No,,"['USD', '0.00']"
+XFX,P1-650S-CAB9,ATX,80+ Bronze,650.0,No,,"['USD', '0.00']"
+XFX,P1-650S-NLB9,ATX,80+ Bronze,650.0,No,,"['USD', '0.00']"
+XFX,P1-650X-CAG9,ATX,80+ Bronze,650.0,Full,,"['USD', '0.00']"
+XFX,P1-650X-CAH9,ATX,80+ Bronze,650.0,Full,,"['USD', '0.00']"
+XFX,P1-650X-XXB9,ATX,80+ Bronze,650.0,Semi,,"['USD', '0.00']"
+XFX,P1-750S-CAB9,ATX,80+ Bronze,750.0,No,,"['USD', '0.00']"
+XFX,P1-750S-NLB9,ATX,80+ Bronze,750.0,No,,"['USD', '165.00']"
+XFX,P1-750X-XXB9,ATX,80+ Bronze,750.0,Semi,,"['USD', '0.00']"
+XFX,P1-850S-CAB9,ATX,80+ Bronze,850.0,No,,"['USD', '0.00']"
+XFX,P1-850X-XXB9,ATX,80+ Bronze,850.0,Semi,,"['USD', '0.00']"
+XFX,P1850SNLB9,ATX,80+ Bronze,850.0,No,,"['USD', '171.94']"
+XFX,PRO Black Edition,ATX,80+ Gold,850.0,Full,,"['USD', '0.00']"
+XFX,ProSeries,ATX,80+ Silver,750.0,Semi,,"['USD', '0.00']"
+XFX,TS,ATX,80+ Gold,750.0,No,,"['USD', '0.00']"
+XFX,XT,ATX,80+ Bronze,400.0,No,,"['USD', '0.00']"
+XFX,XTR,ATX,80+ Gold,550.0,Full,,"['USD', '0.00']"
+Xigmatek,ACXTNRP-PC402,ATX,80+ Bronze,400.0,No,,"['USD', '0.00']"
+Xigmatek,ACXTNRP-PC502,ATX,80+ Bronze,500.0,No,,"['USD', '0.00']"
+Xigmatek,NRP-MC1002,ATX,80+ Bronze,1000.0,Full,,"['USD', '0.00']"
+Xigmatek,NRP-MC702,ATX,80+ Bronze,700.0,Full,,"['USD', '0.00']"
+Xigmatek,NRP-MC802,ATX,80+ Bronze,800.0,Full,,"['USD', '0.00']"
+Xigmatek,NRP-PC602,ATX,80+ Bronze,600.0,No,,"['USD', '0.00']"
+Xigmatek,NRP-PC702,ATX,80+ Bronze,700.0,No,,"['USD', '0.00']"
+Xigmatek,Vector,ATX,80+ Gold,650.0,Semi,,"['USD', '0.00']"
+Xilence,Performance A+,ATX,80+ Bronze,630.0,No,Black / Red,"['USD', '0.00']"
+Xilence,Performance A+ III,ATX,80+ Bronze,550.0,No,Black / Red,"['USD', '119.90']"
+Xilence,Performance C,ATX,,700.0,No,Black / Red,"['USD', '0.00']"
+Xilence,Performance X,ATX,80+ Gold,550.0,No,Black / Red,"['USD', '118.89']"
+Xion,AXP-1000K14XE,ATX,80+ Bronze,1000.0,Semi,,"['USD', '0.00']"
+Xion,AXP-1000R14HE,ATX,80+ Bronze,1000.0,Full,,"['USD', '0.00']"
+Xion,AXP-700K14XE,ATX,80+ Bronze,700.0,Semi,,"['USD', '0.00']"
+Xion,AXP-700W14FG,ATX,80+ Gold,700.0,Full,,"['USD', '0.00']"
+Xion,AXP-850K14XE,ATX,80+ Bronze,850.0,Semi,,"['USD', '0.00']"
+Xion,AXP-850R14N,ATX,,850.0,No,,"['USD', '0.00']"
+Xion,EN-450F12BK,ATX,,450.0,No,,"['USD', '0.00']"
+Xion,EN-600F12,ATX,,600.0,No,,"['USD', '0.00']"
+Xion,XON-1000P14F,ATX,,1000.0,No,,"['USD', '0.00']"
+Xion,XON-1100P14HE,ATX,,1100.0,No,,"['USD', '0.00']"
+Xion,XON-1250P14HE,ATX,,1250.0,No,,"['USD', '0.00']"
+Xion,XON-700P12F,ATX,,700.0,No,,"['USD', '0.00']"
+Xion,XON-800R14N,ATX,,800.0,Full,,"['USD', '0.00']"
+Xion,XON-850P14F,ATX,,850.0,No,,"['USD', '0.00']"
+Zalman,1000-HP Plus,ATX,80+ Silver,1000.0,Full,,"['USD', '0.00']"
+Zalman,1250 Platinum,ATX,80+ Platinum,1250.0,Semi,,"['USD', '0.00']"
+Zalman,850-HP Plus,ATX,80+ Silver,850.0,Semi,,"['USD', '0.00']"
+Zalman,LE,ATX,,400.0,No,,"['USD', '0.00']"
+Zalman,TX,ATX,,700.0,No,,"['USD', '0.00']"
+Zalman,ZM-600-GT,ATX,80+ Bronze,600.0,Semi,,"['USD', '0.00']"
+Zalman,ZM1000-HP,ATX,80+,1000.0,Full,,"['USD', '0.00']"
+Zalman,ZM460B-APS,ATX,,460.0,No,,"['USD', '0.00']"
+Zalman,ZM500-HP,ATX,,500.0,Semi,,"['USD', '0.00']"
+Zalman,ZM500-RS,ATX,80+,500.0,No,,"['USD', '0.00']"
+Zalman,ZM600-HP,ATX,,600.0,Full,,"['USD', '0.00']"
+Zalman,ZM600-ST,ATX,80+,600.0,No,,"['USD', '0.00']"
+Zalman,ZM660-XT,ATX,80+ Bronze,660.0,Full,,"['USD', '0.00']"
+Zalman,ZM770-XT,ATX,80+ Bronze,770.0,Full,,"['USD', '0.00']"
+Zalman,zm-400-LE,ATX,,400.0,No,,"['USD', '0.00']"
+Zalman,zm-500-LE,ATX,,500.0,No,,"['USD', '0.00']"
+Zalman,zm-550-XG,ATX,80+ Gold,550.0,Semi,,"['USD', '0.00']"
+Zalman,zm-650-XG,ATX,80+ Gold,650.0,Semi,,"['USD', '0.00']"
+Zalman,zm-750-XG,ATX,80+ Gold,750.0,Semi,,"['USD', '0.00']"
+be quiet!,BN623,ATX,80+ Bronze,500.0,No,,"['USD', '0.00']"
+be quiet!,Dark Power Pro 10,ATX,80+ Platinum,850.0,Semi,,"['USD', '0.00']"
+be quiet!,Dark Power Pro 11,ATX,80+ Platinum,650.0,Semi,,"['USD', '159.90']"
+be quiet!,Dark Power Pro 12,ATX,80+ Titanium,1200.0,Full,Black,"['USD', '0.00']"
+be quiet!,POWER 2,SFX,80+ Bronze,400.0,No,,"['USD', '0.00']"
+be quiet!,PURE POWER L7 | 300W,ATX,80+,300.0,No,,"['USD', '0.00']"
+be quiet!,PURE POWER L7 | 350W,ATX,80+,350.0,No,,"['USD', '0.00']"
+be quiet!,PURE POWER L7 | 530W,ATX,80+,530.0,No,,"['USD', '0.00']"
+be quiet!,PURE POWER L8,ATX,80+ Bronze,600.0,No,,"['USD', '0.00']"
+be quiet!,PURE POWER L8 300W,ATX,80+ Bronze,300.0,No,,"['USD', '0.00']"
+be quiet!,PURE POWER L8 350W,ATX,80+ Bronze,350.0,No,,"['USD', '0.00']"
+be quiet!,PURE POWER L8 400W,ATX,80+ Bronze,400.0,No,,"['USD', '0.00']"
+be quiet!,PURE POWER L8 500W,ATX,80+ Bronze,500.0,No,,"['USD', '0.00']"
+be quiet!,Power Zone,ATX,80+ Bronze,750.0,Full,,"['USD', '0.00']"
+be quiet!,Pure Power 10,ATX,80+ Bronze,300.0,No,,"['USD', '0.00']"
+be quiet!,Pure Power 10 CM,ATX,80+ Silver,600.0,Semi,,"['USD', '0.00']"
+be quiet!,Pure Power 11,ATX,80+ Gold,700.0,No,Black,"['USD', '99.90']"
+be quiet!,Pure Power 11 CM,ATX,80+ Gold,400.0,Semi,Black,"['USD', '173.00']"
+be quiet!,Pure Power 9,ATX,80+ Silver,400.0,No,,"['USD', '0.00']"
+be quiet!,Pure Power 9 CM,ATX,80+ Silver,600.0,Semi,,"['USD', '0.00']"
+be quiet!,SFX L Power,SFX,80+ Gold,500.0,Full,,"['USD', '0.00']"
+be quiet!,STRAIGHT POWER 10,ATX,80+ Gold,400.0,No,,"['USD', '0.00']"
+be quiet!,STRAIGHT POWER 10 CM,ATX,80+ Gold,600.0,Semi,,"['USD', '0.00']"
+be quiet!,STRAIGHT POWER E9 680W / CM,ATX,80+ Gold,680.0,Semi,,"['USD', '0.00']"
+be quiet!,STRAIGHT POWER E9 | 400W,ATX,80+ Gold,400.0,No,,"['USD', '0.00']"
+be quiet!,STRAIGHT POWER E9 | 450W,ATX,80+ Gold,450.0,No,,"['USD', '0.00']"
+be quiet!,STRAIGHT POWER E9 | 480W CM,ATX,80+ Gold,480.0,Full,,"['USD', '0.00']"
+be quiet!,STRAIGHT POWER E9 | 500W,ATX,80+ Gold,500.0,No,,"['USD', '0.00']"
+be quiet!,STRAIGHT POWER E9 | 580W CM,ATX,80+ Gold,580.0,Semi,,"['USD', '0.00']"
+be quiet!,Straight Power 11,ATX,80+ Platinum,1000.0,Full,Black,"['USD', '0.00']"
+be quiet!,Straight Power E9,ATX,80+ Gold,600.0,No,,"['USD', '0.00']"
+be quiet!,System Power 8,ATX,80+,500.0,No,,"['USD', '0.00']"
+be quiet!,System Power 9,ATX,80+ Bronze,400.0,No,Black,"['USD', '79.40']"
+be quiet!,System Power 9 CM,ATX,80+ Bronze,700.0,Semi,Black,"['USD', '208.65']"
+be quiet!,System Power U9,ATX,80+ Bronze,700.0,No,Black,"['USD', '0.00']"
+be quiet!,TFX Power 2,TFX,80+ Bronze,300.0,No,,"['USD', '0.00']"

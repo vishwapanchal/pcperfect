@@ -1,0 +1,576 @@
+brand,model,supported_protocols,interface,color,price
+aukey,wf-r12,wi-fi 5,usb 3.0,,0.0
+avm,fritz! wlan stick ac 430 mu-mimo,wi-fi 5,usb 2.0,white / red,0.0
+asus,pce-ac51,wi-fi 5,pcie x1,white / red,0.0
+asus,pce-ac55bt,wi-fi 5,pcie x1,white / red,0.0
+asus,pce-ac55bt b1,wi-fi 5,pcie x1,white / red,0.0
+asus,pce-ac56,wi-fi 5,pcie x1,white / red,0.0
+asus,pce-ac58bt,wi-fi 5,pcie x1,blue,0.0
+asus,pce-ac66,wi-fi 5,pcie x1,blue,0.0
+asus,pce-ac68,wi-fi 5,pcie x1,blue,0.0
+asus,pce-ac88,wi-fi 5,pcie x1,blue,0.0
+asus,pce-ax58bt,wi-fi 6,pcie x1,black,0.0
+asus,pce-n10,wi-fi 4,pcie x1,black,0.0
+asus,pce-n15,wi-fi 4,pcie x1,black,0.0
+asus,pce-n53,wi-fi 4,pcie x1,black,0.0
+asus,usb-ac51,wi-fi 5,usb 2.0,black,0.0
+asus,usb-ac53,wi-fi 5,usb 2.0,black,0.0
+asus,usb-ac53 nano,wi-fi 5,usb 2.0,black,0.0
+asus,usb-ac55,wi-fi 5,usb 3.0,black,0.0
+asus,usb-ac55 b1,wi-fi 5,usb 3.0,black,0.0
+asus,usb-ac56,wi-fi 5,usb 3.0,black,0.0
+asus,usb-ac68,wi-fi 5,usb 3.0,black,0.0
+asus,usb-n10,wi-fi 4,usb 2.0,black,0.0
+asus,usb-n13,wi-fi 4,usb 2.0,black,0.0
+asus,usb-n53,wi-fi 4,usb 2.0,black,0.0
+asus,usb-n66,wi-fi 4,usb 2.0,black,0.0
+athenatech,ne-wn3201d,wi-fi 4,usb 2.0,black,0.0
+belkin,b2n002,wi-fi 4,usb 2.0,black,0.0
+belkin,e9l1500,wi-fi 4,usb 2.0,black,0.0
+belkin,e9l3000,wi-fi 4,usb 2.0,black,0.0
+belkin,e9l6000,wi-fi 4,usb 2.0,black,0.0
+belkin,e9l7500,wi-fi 4,usb 2.0,black,0.0
+belkin,f7d1102,wi-fi 4,usb 1.0,black,0.0
+belkin,f7d2102,wi-fi 4,usb 2.0,black,0.0
+belkin,f7d2102tt,wi-fi 4,usb 2.0,black,0.0
+belkin,f9l1001,wi-fi 4,usb 2.0,black,0.0
+belkin,f9l1002,wi-fi 4,usb 2.0,black,0.0
+belkin,f9l1101,wi-fi 4,usb 2.0,black,0.0
+belkin,f9l1103,wi-fi 4,usb 1.0,black,0.0
+belkin,f9l1109-om,wi-fi 5,usb 3.0,black,0.0
+belkin,linksys ae1200-np,wi-fi 4,usb 3.0,black,0.0
+benq,wdrt8192,wi-fi 4,usb 1.0,black,0.0
+brostrend,ac1,wi-fi 5,usb 3.0,black,0.0
+brostrend,ac1l,wi-fi 5,usb 3.0,black,0.0
+brostrend,ac3,wi-fi 5,usb 3.0,black,0.0
+brostrend,ac3l linux wi-fi adapter,wi-fi 5,usb 3.0,black,0.0
+brostrend,ac5,wi-fi 5,usb 2.0,black,0.0
+brostrend,ac6,wi-fi 5,pcie x1,red / black,0.0
+buffalo technology,wi-u2-300d,wi-fi 4,usb 2.0,red / black,0.0
+buffalo technology,wi-u2-433dm,wi-fi 5,usb 2.0,red / black,0.0
+cisco,air-pi21ag-a-k9,wi-fi 3,pci,red / black,0.0
+cisco,am10,wi-fi 4,usb 2.0,red / black,0.0
+d-link,dwa-121,wi-fi 4,usb 2.0,red / black,0.0
+d-link,dwa-125,wi-fi 4,usb 2.0,red / black,0.0
+d-link,dwa-130,wi-fi 4,usb 2.0,red / black,0.0
+d-link,dwa-131,wi-fi 4,usb 2.0,red / black,0.0
+d-link,dwa-140,wi-fi 4,usb 2.0,red / black,0.0
+d-link,dwa-160,wi-fi 4,usb 2.0,red / black,0.0
+d-link,dwa-162,wi-fi 4,usb 2.0,red / black,0.0
+d-link,dwa-171,wi-fi 5,usb 2.0,red / black,0.0
+d-link,dwa-180,wi-fi 5,usb 2.0,red / black,0.0
+d-link,dwa-182,wi-fi 5,usb 2.0,red / black,0.0
+d-link,dwa-192,wi-fi 5,usb 3.0,red / black,0.0
+d-link,dwa-525,wi-fi 4,pci,red / black,0.0
+d-link,dwa-548,wi-fi 4,pcie x1,red / black,0.0
+d-link,dwa-552,wi-fi 4,pci,red / black,0.0
+d-link,dwa-566,wi-fi 4,pcie x1,red / black,0.0
+d-link,dwa-582,wi-fi 5,pcie x1,red / black,0.0
+d-link,n69506,wi-fi 4,usb 2.0,red / black,0.0
+diamond,wl700nxs,wi-fi 4,usb 2.0,red / black,0.0
+edimax,ew-7128gn,wi-fi 4,pci,red / black,0.0
+edimax,ew-7612pin v2,wi-fi 4,pcie x1,green,0.0
+edimax,ew-7612pin,wi-fi 4,pcie x1,green,0.0
+edimax,ew-7711mac,wi-fi 5,usb 2.0,green,0.0
+edimax,ew-7711usn,wi-fi 4,usb 2.0,green,0.0
+edimax,ew-7722in,wi-fi 4,pci,green,0.0
+edimax,ew-7722pnd,wi-fi 4,pcie x1,green,0.0
+edimax,ew-7722utn,wi-fi 4,usb 2.0,green,0.0
+edimax,ew-7722und,wi-fi 4,usb 2.0,green,0.0
+edimax,ew-7811dac,wi-fi 5,usb 2.0,green,0.0
+edimax,ew-7811uac,wi-fi 5,usb 2.0,green,0.0
+edimax,ew-7811utc,wi-fi 5,usb 2.0,green,0.0
+edimax,ew-7811un,wi-fi 4,usb 2.0,green,0.0
+edimax,ew-7822pic,wi-fi 5,pcie x1,green,0.0
+edimax,ew-7822uac,wi-fi 5,usb 3.0,green,0.0
+edimax,ew-7822utc,wi-fi 5,usb 3.0,black,0.0
+encore,enewi-1xn42,wi-fi 4,pcie x1,black,0.0
+encore,enewi-1xn45,wi-fi 4,pcie x1,black,0.0
+encore,enewi-2xn42,wi-fi 4,pcie x1,black,0.0
+encore,enewi-2xn45,wi-fi 4,pcie x1,black,0.0
+encore,enlwi-n3,wi-fi 4,pci,black,0.0
+encore,enuwi-1xn42,wi-fi 4,usb 2.0,black,0.0
+encore,enuwi-1xn45,wi-fi 4,usb 2.0,black,0.0
+encore,enuwi-1xn4m,wi-fi 4,usb 2.0,black,0.0
+encore,enuwi-2xn42,wi-fi 4,usb 2.0,black,0.0
+encore,enuwi-2xn45,wi-fi 4,usb 2.0,black,0.0
+encore,enuwi-g2,wi-fi 3,usb 2.0,black,0.0
+feb smart,fs-n600 basic edition,wi-fi 5,pcie x1,black,0.0
+gigabyte,gc-wb1733d-i,wi-fi 5,pcie x1,black,0.0
+gigabyte,gc-wb867d-i,wi-fi 5,pcie x1,black,0.0
+gigabyte,gc-wb867d-i rev 4.2,wi-fi 5,pcie x1,black,0.0
+gigabyte,gc-wbax200,wi-fi 6,pcie x1,black / silver,0.0
+hp,fh971aa,wi-fi 4,pcie x1,green / black,0.0
+hawking technology,hawnu1,wi-fi 4,usb 2.0,green / black,0.0
+hawking technology,hawnu2,wi-fi 4,usb 2.0,green / black,0.0
+hawking technology,hd45u,wi-fi 4,usb 2.0,green / black,0.0
+hawking technology,hd65u,wi-fi 5,usb 2.0,green / black,0.0
+hawking technology,hw12acu,wi-fi 5,usb 2.0,black,0.0
+hawking technology,hw17acu,wi-fi 5,usb 2.0,black,0.0
+hawking technology,hw7acu,wi-fi 5,usb 2.0,black,0.0
+hawking technology,hwdn3,wi-fi 4,usb 2.0,black,0.0
+hawking technology,hwug1,wi-fi 3,usb 2.0,black,0.0
+hawking technology,hwun4,wi-fi 4,usb 2.0,black,0.0
+iogear,gwu523,wi-fi 3,usb 2.0,black,0.0
+iogear,gwu625,wi-fi 4,usb 2.0,black,0.0
+iogear,gwu627w6,wi-fi 4,usb 2.0,black,0.0
+iogear,gwu735,wi-fi 5,usb 3.0,black,0.0
+infocus,ina-wifiusb-4,wi-fi 5,usb 2.0,black,0.0
+intel,2200bnhmw,wi-fi 4,mini-pcie,black,0.0
+intel,2200bnhmwdtx1,wi-fi 4,pcie x1,black,0.0
+intel,2200bnhmwdtx1g,wi-fi 4,pcie x1,black,0.0
+intel,3160.ngwg,wi-fi 5,mini-pcie,black,0.0
+intel,62205an.hmwwb,wi-fi 4,half mini-pcie,black,0.0
+intel,62205anhmwdtx1,wi-fi 4,pcie x1,black,0.0
+intel,6235an.hmwwb,wi-fi 4,half mini-pcie,black,0.0
+intel,6235anhmw,wi-fi 4,mini-pcie,black,0.0
+intel,633an.hmwwb,wi-fi 4,half mini-pcie,black,0.0
+intel,7260hmw,wi-fi 5 (5 ghz only),mini-pcie,black,0.0
+intel,7260hmw bn,wi-fi 4,mini-pcie,black,0.0
+intel,7260hmwdtx1,wi-fi 5,pcie x1,black,0.0
+linksys,ae1200,wi-fi 4,usb 2.0,black,0.0
+linksys,ae1200-np,wi-fi 4,usb 2.0,black,0.0
+linksys,ae2500,wi-fi 4,usb 2.0,black,0.0
+linksys,ae2500-ca,wi-fi 4,usb 2.0,black,0.0
+linksys,ae2500-np,wi-fi 4,usb 2.0,black,0.0
+linksys,ae3000,wi-fi 4,usb 2.0,black,0.0
+linksys,ae3000-ca,wi-fi 4,usb 2.0,black,0.0
+linksys,ae3000-np,wi-fi 4,usb 2.0,black,0.0
+linksys,ae6000,wi-fi 5,usb 2.0,black,0.0
+linksys,wmp600n,wi-fi 4,pci,black,0.0
+linksys,wusb600n,wi-fi 4,usb 2.0,black,0.0
+linksys,wusb6100m,wi-fi 5,usb 3.0,black,0.0
+linksys,wusb6300,wi-fi 5,usb 3.0,black,0.0
+msi,ac905c,wi-fi 5,pcie x1,black,0.0
+msi,ax905c,wi-fi 6,pcie x1,black,0.0
+netgear,a6100-10000s,wi-fi 5,usb 2.0,black,0.0
+netgear,a6100-100pas,wi-fi 5,usb 2.0,black,0.0
+netgear,a6150-100pas,wi-fi 5,usb 2.0,black,0.0
+netgear,a6200-100nas,wi-fi 5,usb 2.0,black,0.0
+netgear,a6210-100pas,wi-fi 5,usb 3.0,black,0.0
+netgear,nighthawk ac1900 a7000-10000s,wi-fi 5,usb 3.0,black,0.0
+netgear,wf2190,wi-fi 5,usb 3.0,black,0.0
+netgear,wn311b-100nas,wi-fi 4,pci,black,0.0
+netgear,wna1000m-100ens,wi-fi 4,usb 2.0,black,0.0
+netgear,wna1100-100ens,wi-fi 4,usb 2.0,black,0.0
+netgear,wna3100-100ens,wi-fi 4,usb 2.0,black,0.0
+netgear,wna3100m-100ens,wi-fi 4,usb 2.0,black,0.0
+netgear,wnda3100-100nas,wi-fi 4,usb 2.0,black,0.0
+netgear,wnda4100-100nas,wi-fi 4,usb 2.0,black,0.0
+orico,orico wra150,wi-fi 4,usb 2.0,black,0.0
+orico,orico wrb150,wi-fi 4,usb 2.0,black,0.0
+orico,orico wrd150,wi-fi 4,usb 2.0,black,0.0
+orico,wrd150blk,wi-fi 4,usb 2.0,black,0.0
+patriot,pcbowau2-n,wi-fi 4,usb 2.0,black,0.0
+patriot,pcusbw1150,wi-fi 4,usb 2.0,black,0.0
+rosewill,ac1200ube,wi-fi 5,usb 3.0,black,0.0
+rosewill,n600pce,wi-fi 4,pcie x1,black,0.0
+rosewill,n900pce,wi-fi 4,pcie x1,black,0.0
+rosewill,n900ube,wi-fi 4,usb 2.0,black,0.0
+rosewill,rnwd-n1501ub,wi-fi 4,usb 2.0,black,0.0
+rosewill,rnwd-n1502ube,wi-fi 4,usb 2.0,black,0.0
+rosewill,rnx-ac1200pce,wi-fi 5,pcie x1,black,0.0
+rosewill,rnx-ac1200pcev2,wi-fi 5,pcie x1,green,0.0
+rosewill,rnx-ac1200ube2,wi-fi 5,usb 3.0,green,0.0
+rosewill,rnx-ac1200ubv2,wi-fi 5,usb 3.0,black,0.0
+rosewill,rnx-ac1900pce,wi-fi 5,pcie x1,black,0.0
+rosewill,rnx-ac1900pcev2,wi-fi 5,pcie x1,red / black,0.0
+rosewill,rnx-ac1900ub,wi-fi 5,usb 3.0,black,0.0
+rosewill,rnx-ac2030pce,wi-fi 5,pcie x1,red / black,0.0
+rosewill,rnx-ac600hgubev2,wi-fi 5,usb 2.0,black,0.0
+rosewill,rnx-ac600nubv2,wi-fi 5,usb 2.0,black,0.0
+rosewill,rnx-ac600pcev3,wi-fi 5,pcie x1,black,0.0
+rosewill,rnx-g300ex,wi-fi 3,pci,black,0.0
+rosewill,rnx-g300lx,wi-fi 3,pci,black,0.0
+rosewill,rnx-minin2(rwld-11002),wi-fi 4,usb 2.0,black,0.0
+rosewill,rnx-n150hg,wi-fi 4,usb 2.0,black,0.0
+rosewill,rnx-n150nub,wi-fi 4,usb 2.0,black,0.0
+rosewill,rnx-n150pce,wi-fi 4,pcie x1,black,0.0
+rosewill,rnx-n150pcx,wi-fi 4,pci,black,0.0
+rosewill,rnx-n150ube,wi-fi 4,usb 2.0,black,0.0
+rosewill,rnx-n180ub,wi-fi 4,usb 2.0,black,0.0
+rosewill,rnx-n180ube,wi-fi 4,usb 2.0,black,0.0
+rosewill,rnx-n250pc2,wi-fi 4,pci,black,0.0
+rosewill,rnx-n250pce,wi-fi 4,pcie x1,black,0.0
+rosewill,rnx-n250ube,wi-fi 4,usb 2.0,black,0.0
+rosewill,rnx-n300ub,wi-fi 4,usb 2.0,black,0.0
+rosewill,rnx-n300x,wi-fi 4,pci,black,0.0
+rosewill,rnx-n600pce_v2.0,wi-fi 4,pcie x1,black,0.0
+rosewill,rnx-n600ub,wi-fi 4,usb 2.0,black,0.0
+rosewill,rnx-n600ube,wi-fi 4,usb 2.0,black,0.0
+siig,cn-wr0811-s1,wi-fi 4,pcie x1,black,0.0
+siig,ju-wr0012-s1,wi-fi 4,usb 2.0,black,0.0
+siig,ju-wr0112-s1,wi-fi 4,usb 2.0,black,0.0
+siig,ju-wr0212-s1,wi-fi 4,usb 2.0,black,0.0
+sabrent,usb-802n,wi-fi 4,usb 2.0,black,0.0
+sabrent,usbg802,wi-fi 3,usb 2.0,black,0.0
+samsung,wis12abgnx/xaa,wi-fi 4,usb 2.0,black,0.0
+startech,pci300wn2x2,wi-fi 4,pci,black,0.0
+startech,pex300wn2x2,wi-fi 4,pcie x1,black,0.0
+startech,pex867wac22,wi-fi 5,pcie x1,black,0.0
+startech,usb150wn1x1,wi-fi 4,usb 2.0,black,0.0
+startech,usb150wn1x1w,wi-fi 4,usb 1.0,black,0.0
+startech,usb300wn2x2c,wi-fi 4,usb 2.0,black,0.0
+startech,usb300wn2x2d,wi-fi 4,usb 1.0,black,0.0
+startech,usb433acd1x1,wi-fi 5,usb 2.0,black,0.0
+startech,usb433wacdb,wi-fi 5,usb 2.0,black,0.0
+startech,usb867wac22,wi-fi 5,usb 3.0,black,0.0
+syba,cl-ada23032,wi-fi 4,usb 2.0,black,0.0
+syba,cl-ada24004,wi-fi 4,usb 2.0,black,0.0
+syba,sy-ada23026,wi-fi 4,usb 2.0,black,0.0
+syba,sy-pex23059,wi-fi 4,pcie x1,green / black,0.0
+syba,sy-pex23063,wi-fi 4,pcie x1,green / black,0.0
+tp-link,archer t2u plus,wi-fi 5,usb 2.0,black,0.0
+tp-link,archer t4uhp,wi-fi 5,usb 3.0,black,0.0
+tp-link,archer t1u,wi-fi 5,usb 2.0,black,0.0
+tp-link,archer t2u,wi-fi 5,usb 2.0,black,0.0
+tp-link,archer t2u nano,wi-fi 4,usb 2.0,black / gold,0.0
+tp-link,archer t2uh,wi-fi 5,usb 2.0,black / gold,0.0
+tp-link,archer t3u,wi-fi 5,usb 3.0,black,0.0
+tp-link,archer t4e,wi-fi 5,pcie x1,black,0.0
+tp-link,archer t4u,wi-fi 5,usb 3.0,black,0.0
+tp-link,archer t4u v2,wi-fi 5,usb 3.0,black,0.0
+tp-link,archer t4uh,wi-fi 5,usb 3.0,black,0.0
+tp-link,archer t5e,wi-fi 5,pcie x1,black,0.0
+tp-link,archer t6e ac1300,wi-fi 5,pcie x1,black,0.0
+tp-link,archer t8e,wi-fi 5,pcie x1,black,0.0
+tp-link,archer t9e,wi-fi 5,pcie x1,black,0.0
+tp-link,archer t9uh,wi-fi 5,usb 3.0,black,0.0
+tp-link,archer tx3000e,wi-fi 6,pcie x1,red / black,0.0
+tp-link,archer tx50e,wi-fi 6,pcie x1,black,0.0
+tp-link,tl-wdn3200,wi-fi 4,usb 2.0,black,0.0
+tp-link,tl-wdn3800,wi-fi 4,pcie x1,black,0.0
+tp-link,tl-wdn4200,wi-fi 4,usb 2.0,black,0.0
+tp-link,tl-wdn4800,wi-fi 4,pcie x1,black,0.0
+tp-link,tl-wn350gd,wi-fi 3,pci,black,0.0
+tp-link,tl-wn7200nd,wi-fi 4,usb 2.0,black,0.0
+tp-link,tl-wn721n,wi-fi 4,usb 2.0,black,0.0
+tp-link,tl-wn722n,wi-fi 4,usb 2.0,black,0.0
+tp-link,tl-wn723n,wi-fi 4,usb 2.0,black,0.0
+tp-link,tl-wn725n,wi-fi 4,usb 2.0,black,0.0
+tp-link,tl-wn727n,wi-fi 4,usb 2.0,black,0.0
+tp-link,tl-wn751nd,wi-fi 4,pci,black,0.0
+tp-link,tl-wn781nd,wi-fi 4,pcie x1,black,0.0
+tp-link,tl-wn8200nd,wi-fi 4,usb 2.0,black,0.0
+tp-link,tl-wn821n,wi-fi 4,usb 2.0,black,0.0
+tp-link,tl-wn822n,wi-fi 4,usb 2.0,black,0.0
+tp-link,tl-wn823n,wi-fi 4,usb 2.0,black,0.0
+tp-link,tl-wn851nd,wi-fi 4,pci,black,0.0
+tp-link,tl-wn881nd,wi-fi 4,pcie x1,black,0.0
+tp-link,tl-wn951n,wi-fi 4,pci,black,0.0
+trendnet,tbw-108ub,wi-fi 4,usb 2.0,black,0.0
+trendnet,tew-424ub,wi-fi 3,usb 2.0,black,0.0
+trendnet,tew-623pi,wi-fi 4,pci,black,0.0
+trendnet,tew-624ub,wi-fi 4,usb 2.0,black,0.0
+trendnet,tew-643pi,wi-fi 4,pci,black,0.0
+trendnet,tew-646ubh,wi-fi 4,usb 2.0,black,0.0
+trendnet,tew-648ub,wi-fi 4,usb 2.0,black,0.0
+trendnet,tew-648ubm,wi-fi 4,usb 2.0,black,0.0
+trendnet,tew-649ub,wi-fi 4,usb 2.0,black,0.0
+trendnet,tew-664ub,wi-fi 4,usb 2.0,black,0.0
+trendnet,tew-684ub,wi-fi 4,usb 2.0,black,0.0
+trendnet,tew-703pi,wi-fi 4,pci,black,0.0
+trendnet,tew-703pil,wi-fi 4,pci,black,0.0
+trendnet,tew-726ec,wi-fi 4,pcie x1,black,0.0
+trendnet,tew-804ub,wi-fi 5,usb 2.0,black,0.0
+trendnet,tew-805ub,wi-fi 5,usb 3.0,black,0.0
+trendnet,tew-806ubh,wi-fi 5,usb 2.0,black,0.0
+trendnet,tew-807ech,wi-fi 5,pcie x1,black,0.0
+trendnet,tew-808ubm,wi-fi 5,usb 2.0,black,0.0
+ziyituod,zyt-7265,wi-fi 5,pcie x1,green,0.0
+ziyituod,zyt-ax200,wi-fi 6,pcie x1,green,0.0
+fenvi,fv-8802,wi-fi 5,pcie x1,black / orange,0.0
+fenvi,fv-t919,wi-fi 5,pcie x1,black / gold,0.0
+fenvi,fv8303,wi-fi 4,pcie x1,black / gold,0.0
+3M,78-6972-0104-0,Wi-Fi 3,USB 2.0,,"['USD', '0.00']"
+AUKEY,WF-R12,Wi-Fi 5,USB 3.0,,"['USD', '0.00']"
+AVM,FRITZ! WLAN Stick AC 430 MU-MIMO,Wi-Fi 5,USB 2.0,White / Red,"['USD', '0.00']"
+Asus,PCE-AC51,Wi-Fi 5,PCIe x1,,"['USD', '12.99']"
+Asus,PCE-AC55BT,Wi-Fi 5,PCIe x1,,"['USD', '0.00']"
+Asus,PCE-AC55BT B1,Wi-Fi 5,PCIe x1,,"['USD', '34.21']"
+Asus,PCE-AC56,Wi-Fi 5,PCIe x1,,"['USD', '49.50']"
+Asus,PCE-AC58BT,Wi-Fi 5,PCIe x1,Blue,"['USD', '32.00']"
+Asus,PCE-AC66,Wi-Fi 5,PCIe x1,,"['USD', '0.00']"
+Asus,PCE-AC68,Wi-Fi 5,PCIe x1,,"['USD', '81.45']"
+Asus,PCE-AC88,Wi-Fi 5,PCIe x1,,"['USD', '97.00']"
+Asus,PCE-AX58BT,Wi-Fi 6,PCIe x1,Black,"['USD', '57.99']"
+Asus,PCE-N10,Wi-Fi 4,PCIe x1,,"['USD', '0.00']"
+Asus,PCE-N15,Wi-Fi 4,PCIe x1,,"['USD', '0.00']"
+Asus,PCE-N53,Wi-Fi 4,PCIe x1,,"['USD', '0.00']"
+Asus,USB-AC51,Wi-Fi 5,USB 2.0,,"['USD', '35.52']"
+Asus,USB-AC53,Wi-Fi 5,USB 2.0,,"['USD', '0.00']"
+Asus,USB-AC53 NANO,Wi-Fi 5,USB 2.0,,"['USD', '36.52']"
+Asus,USB-AC55,Wi-Fi 5,USB 3.0,,"['USD', '0.00']"
+Asus,USB-AC55 B1,Wi-Fi 5,USB 3.0,Black,"['USD', '0.00']"
+Asus,USB-AC56,Wi-Fi 5,USB 3.0,,"['USD', '46.40']"
+Asus,USB-AC68,Wi-Fi 5,USB 3.0,,"['USD', '89.99']"
+Asus,USB-N10,Wi-Fi 4,USB 2.0,,"['USD', '99.95']"
+Asus,USB-N13,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Asus,USB-N53,Wi-Fi 4,USB 2.0,,"['USD', '120.00']"
+Asus,USB-N66,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Athenatech,NE-WN3201D,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Belkin,B2N002,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Belkin,E9L1500,Wi-Fi 4,USB 2.0,,"['USD', '80.59']"
+Belkin,E9L3000,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Belkin,E9L6000,Wi-Fi 4,USB 2.0,,"['USD', '119.59']"
+Belkin,E9L7500,Wi-Fi 4,USB 2.0,,"['USD', '151.59']"
+Belkin,F7D1102,Wi-Fi 4,USB 1.0,,"['USD', '34.99']"
+Belkin,F7D2102,Wi-Fi 4,USB 2.0,,"['USD', '24.99']"
+Belkin,F7D2102TT,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Belkin,F9L1001,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Belkin,F9L1002,Wi-Fi 4,USB 2.0,,"['USD', '44.99']"
+Belkin,F9L1101,Wi-Fi 4,USB 2.0,,"['USD', '94.94']"
+Belkin,F9L1103,Wi-Fi 4,USB 1.0,,"['USD', '24.99']"
+Belkin,F9L1109-OM,Wi-Fi 5,USB 3.0,,"['USD', '0.00']"
+Belkin,Linksys AE1200-NP,Wi-Fi 4,USB 3.0,Black,"['USD', '0.00']"
+BenQ,WDRT8192,Wi-Fi 4,USB 1.0,,"['USD', '0.00']"
+BrosTrend,AC1,Wi-Fi 5,USB 3.0,Black,"['USD', '19.98']"
+BrosTrend,AC1L,Wi-Fi 5,USB 3.0,Black,"['USD', '27.99']"
+BrosTrend,AC3,Wi-Fi 5,USB 3.0,Black,"['USD', '29.99']"
+BrosTrend,AC3L Linux Wi-Fi Adapter,Wi-Fi 5,USB 3.0,Black,"['USD', '35.99']"
+BrosTrend,AC5,Wi-Fi 5,USB 2.0,Black,"['USD', '14.99']"
+BrosTrend,AC6,Wi-Fi 5,PCIe x1,Red / Black,"['USD', '0.00']"
+Buffalo Technology,WI-U2-300D,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Buffalo Technology,WI-U2-433DM,Wi-Fi 5,USB 2.0,,"['USD', '0.00']"
+Cisco,AIR-PI21AG-A-K9,Wi-Fi 3,PCI,,"['USD', '39.99']"
+Cisco,AM10,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+D-Link,DWA-121,Wi-Fi 4,USB 2.0,,"['USD', '12.58']"
+D-Link,DWA-125,Wi-Fi 4,USB 2.0,,"['USD', '94.30']"
+D-Link,DWA-130,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+D-Link,DWA-131,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+D-Link,DWA-140,Wi-Fi 4,USB 2.0,,"['USD', '39.82']"
+D-Link,DWA-160,Wi-Fi 4,USB 2.0,,"['USD', '22.99']"
+D-Link,DWA-162,Wi-Fi 4,USB 2.0,,"['USD', '30.99']"
+D-Link,DWA-171,Wi-Fi 5,USB 2.0,,"['USD', '22.47']"
+D-Link,DWA-180,Wi-Fi 5,USB 2.0,,"['USD', '0.00']"
+D-Link,DWA-182,Wi-Fi 5,USB 2.0,,"['USD', '59.99']"
+D-Link,DWA-192,Wi-Fi 5,USB 3.0,,"['USD', '103.77']"
+D-Link,DWA-525,Wi-Fi 4,PCI,,"['USD', '0.00']"
+D-Link,DWA-548,Wi-Fi 4,PCIe x1,,"['USD', '115.59']"
+D-Link,DWA-552,Wi-Fi 4,PCI,,"['USD', '158.99']"
+D-Link,DWA-566,Wi-Fi 4,PCIe x1,,"['USD', '68.44']"
+D-Link,DWA-582,Wi-Fi 5,PCIe x1,,"['USD', '58.99']"
+D-Link,N69506,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Diamond,WL700NXS,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Edimax,EW-7128Gn,Wi-Fi 4,PCI,,"['USD', '0.00']"
+Edimax,EW-7612PIN V2,Wi-Fi 4,PCIe x1,Green,"['USD', '20.50']"
+Edimax,EW-7612PIn,Wi-Fi 4,PCIe x1,,"['USD', '0.00']"
+Edimax,EW-7711MAC,Wi-Fi 5,USB 2.0,,"['USD', '0.00']"
+Edimax,EW-7711USN,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Edimax,EW-7722In,Wi-Fi 4,PCI,,"['USD', '0.00']"
+Edimax,EW-7722PnD,Wi-Fi 4,PCIe x1,,"['USD', '0.00']"
+Edimax,EW-7722UTn,Wi-Fi 4,USB 2.0,,"['USD', '24.99']"
+Edimax,EW-7722UnD,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Edimax,EW-7811DAC,Wi-Fi 5,USB 2.0,,"['USD', '0.00']"
+Edimax,EW-7811UAC,Wi-Fi 5,USB 2.0,,"['USD', '18.98']"
+Edimax,EW-7811UTC,Wi-Fi 5,USB 2.0,,"['USD', '15.10']"
+Edimax,EW-7811Un,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Edimax,EW-7822PIC,Wi-Fi 5,PCIe x1,,"['USD', '0.00']"
+Edimax,EW-7822UAC,Wi-Fi 5,USB 3.0,,"['USD', '28.49']"
+Edimax,EW-7822UTC,Wi-Fi 5,USB 3.0,Black,"['USD', '25.88']"
+Encore,ENEWI-1XN42,Wi-Fi 4,PCIe x1,,"['USD', '29.93']"
+Encore,ENEWI-1XN45,Wi-Fi 4,PCIe x1,,"['USD', '22.99']"
+Encore,ENEWI-2XN42,Wi-Fi 4,PCIe x1,,"['USD', '0.00']"
+Encore,ENEWI-2XN45,Wi-Fi 4,PCIe x1,,"['USD', '0.00']"
+Encore,ENLWI-N3,Wi-Fi 4,PCI,,"['USD', '0.00']"
+Encore,ENUWI-1XN42,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Encore,ENUWI-1XN45,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Encore,ENUWI-1XN4M,Wi-Fi 4,USB 2.0,,"['USD', '21.00']"
+Encore,ENUWI-2XN42,Wi-Fi 4,USB 2.0,,"['USD', '14.99']"
+Encore,ENUWI-2XN45,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Encore,ENUWI-G2,Wi-Fi 3,USB 2.0,,"['USD', '0.00']"
+Feb Smart,FS-N600 Basic Edition,Wi-Fi 5,PCIe x1,,"['USD', '0.00']"
+Gigabyte,GC-WB1733D-I,Wi-Fi 5,PCIe x1,Black,"['USD', '33.49']"
+Gigabyte,GC-WB867D-I,Wi-Fi 5,PCIe x1,,"['USD', '34.99']"
+Gigabyte,GC-WB867D-I REV 4.2,Wi-Fi 5,PCIe x1,,"['USD', '0.00']"
+Gigabyte,GC-WBAX200,Wi-Fi 6,PCIe x1,Black / Silver,"['USD', '0.00']"
+HP,8265,Wi-Fi 5,PCIe x1,Green / Black,"['USD', '57.99']"
+HP,9260,Wi-Fi 5,PCIe x1,Green / Black,"['USD', '50.27']"
+HP,FH971AA,Wi-Fi 4,PCIe x1,,"['USD', '0.00']"
+Hawking Technology,HAWNU1,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Hawking Technology,HAWNU2,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Hawking Technology,HD45U,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Hawking Technology,HD65U,Wi-Fi 5,USB 2.0,,"['USD', '58.99']"
+Hawking Technology,HW12ACU,Wi-Fi 5,USB 2.0,Black,"['USD', '29.99']"
+Hawking Technology,HW17ACU,Wi-Fi 5,USB 2.0,Black,"['USD', '39.99']"
+Hawking Technology,HW7ACU,Wi-Fi 5,USB 2.0,,"['USD', '0.00']"
+Hawking Technology,HWDN3,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Hawking Technology,HWUG1,Wi-Fi 3,USB 2.0,,"['USD', '0.00']"
+Hawking Technology,HWUN4,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+IOGEAR,GWU523,Wi-Fi 3,USB 2.0,,"['USD', '0.00']"
+IOGEAR,GWU625,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+IOGEAR,GWU627W6,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+IOGEAR,GWU735,Wi-Fi 5,USB 3.0,,"['USD', '0.00']"
+InFocus,INA-WIFIUSB-4,Wi-Fi 5,USB 2.0,Black,"['USD', '0.00']"
+Inamax,4332804407,Wi-Fi 5,USB 3.0,Black,"['USD', '19.98']"
+Intel,105,Wi-Fi 4,Mini-PCIe,,"['USD', '0.00']"
+Intel,135,Wi-Fi 4,Mini-PCIe,,"['USD', '0.00']"
+Intel,2200BNHMW,Wi-Fi 4,Mini-PCIe,,"['USD', '0.00']"
+Intel,2200BNHMWDTX1,Wi-Fi 4,PCIe x1,,"['USD', '81.59']"
+Intel,2200BNHMWDTX1G,Wi-Fi 4,PCIe x1,,"['USD', '0.00']"
+Intel,3160.NGWG,Wi-Fi 5,Mini-PCIe,,"['USD', '0.00']"
+Intel,6205,Wi-Fi 4,Mini-PCIe,,"['USD', '0.00']"
+Intel,62205AN.HMWWB,Wi-Fi 4,Half Mini-PCIe,,"['USD', '0.00']"
+Intel,62205ANHMWDTX1,Wi-Fi 4,PCIe x1,,"['USD', '249.95']"
+Intel,6235AN.HMWWB,Wi-Fi 4,Half Mini-PCIe,,"['USD', '14.98']"
+Intel,6235ANHMW,Wi-Fi 4,Mini-PCIe,,"['USD', '0.00']"
+Intel,6300,Wi-Fi 4,Mini-PCIe,,"['USD', '0.00']"
+Intel,633AN.HMWWB,Wi-Fi 4,Half Mini-PCIe,,"['USD', '19.48']"
+Intel,7260,Wi-Fi 5,Mini-PCIe,,"['USD', '29.99']"
+Intel,7260HMW,Wi-Fi 5 (5 GHz only),Mini-PCIe,,"['USD', '0.00']"
+Intel,7260HMW BN,Wi-Fi 4,Mini-PCIe,,"['USD', '0.00']"
+Intel,7260HMWDTX1,Wi-Fi 5,PCIe x1,,"['USD', '0.00']"
+Linksys,AE1200,Wi-Fi 4,USB 2.0,,"['USD', '19.99']"
+Linksys,AE1200-NP,Wi-Fi 4,USB 2.0,,"['USD', '19.99']"
+Linksys,AE2500,Wi-Fi 4,USB 2.0,,"['USD', '54.99']"
+Linksys,AE2500-CA,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Linksys,AE2500-NP,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Linksys,AE3000,Wi-Fi 4,USB 2.0,,"['USD', '79.95']"
+Linksys,AE3000-CA,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Linksys,AE3000-NP,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Linksys,AE6000,Wi-Fi 5,USB 2.0,,"['USD', '34.99']"
+Linksys,WMP600N,Wi-Fi 4,PCI,,"['USD', '54.27']"
+Linksys,WUSB600N,Wi-Fi 4,USB 2.0,,"['USD', '49.99']"
+Linksys,WUSB6100M,Wi-Fi 5,USB 3.0,Black,"['USD', '34.74']"
+Linksys,WUSB6300,Wi-Fi 5,USB 3.0,,"['USD', '45.87']"
+MSI,AC905C,Wi-Fi 5,PCIe x1,Black,"['USD', '34.49']"
+MSI,AX905C,Wi-Fi 6,PCIe x1,Black,"['USD', '0.00']"
+Netgear,A6100-10000S,Wi-Fi 5,USB 2.0,Black,"['USD', '39.77']"
+Netgear,A6100-100PAS,Wi-Fi 5,USB 2.0,,"['USD', '39.99']"
+Netgear,A6150-100PAS,Wi-Fi 5,USB 2.0,Black,"['USD', '44.77']"
+Netgear,A6200-100NAS,Wi-Fi 5,USB 2.0,,"['USD', '64.71']"
+Netgear,A6210-100PAS,Wi-Fi 5,USB 3.0,,"['USD', '54.99']"
+Netgear,Nighthawk AC1900 A7000-10000S,Wi-Fi 5,USB 3.0,Black,"['USD', '64.99']"
+Netgear,WF2190,Wi-Fi 5,USB 3.0,,"['USD', '0.00']"
+Netgear,WN311B-100NAS,Wi-Fi 4,PCI,,"['USD', '29.98']"
+Netgear,WNA1000M-100ENS,Wi-Fi 4,USB 2.0,,"['USD', '99.16']"
+Netgear,WNA1100-100ENS,Wi-Fi 4,USB 2.0,,"['USD', '61.05']"
+Netgear,WNA3100-100ENS,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Netgear,WNA3100M-100ENS,Wi-Fi 4,USB 2.0,,"['USD', '111.21']"
+Netgear,WNDA3100-100NAS,Wi-Fi 4,USB 2.0,,"['USD', '39.94']"
+Netgear,WNDA4100-100NAS,Wi-Fi 4,USB 2.0,,"['USD', '167.09']"
+Orico,ORICO WRA150,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Orico,ORICO WRB150,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Orico,ORICO WRD150,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Orico,WRD150BLK,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Patriot,PCBOWAU2-N,Wi-Fi 4,USB 2.0,,"['USD', '45.00']"
+Patriot,PCUSBW1150,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Rosewill,AC1200UBE,Wi-Fi 5,USB 3.0,,"['USD', '0.00']"
+Rosewill,N600PCE,Wi-Fi 4,PCIe x1,,"['USD', '69.98']"
+Rosewill,N900PCE,Wi-Fi 4,PCIe x1,,"['USD', '0.00']"
+Rosewill,N900UBE,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Rosewill,RNWD-N1501UB,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Rosewill,RNWD-N1502UBE,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Rosewill,RNX-AC1200PCE,Wi-Fi 5,PCIe x1,,"['USD', '43.94']"
+Rosewill,RNX-AC1200PCEv2,Wi-Fi 5,PCIe x1,Green,"['USD', '0.00']"
+Rosewill,RNX-AC1200UBE2,Wi-Fi 5,USB 3.0,,"['USD', '0.00']"
+Rosewill,RNX-AC1200UBv2,Wi-Fi 5,USB 3.0,Black,"['USD', '25.40']"
+Rosewill,RNX-AC1900PCE,Wi-Fi 5,PCIe x1,,"['USD', '50.00']"
+Rosewill,RNX-AC1900PCEv2,Wi-Fi 5,PCIe x1,Red / Black,"['USD', '62.19']"
+Rosewill,RNX-AC1900UB,Wi-Fi 5,USB 3.0,Black,"['USD', '34.99']"
+Rosewill,RNX-AC2030PCE,Wi-Fi 5,PCIe x1,Red / Black,"['USD', '39.99']"
+Rosewill,RNX-AC600HGUBEv2,Wi-Fi 5,USB 2.0,Black,"['USD', '20.25']"
+Rosewill,RNX-AC600NUBv2,Wi-Fi 5,USB 2.0,Black,"['USD', '14.99']"
+Rosewill,RNX-AC600PCEv3,Wi-Fi 5,PCIe x1,Black,"['USD', '23.99']"
+Rosewill,RNX-G300EX,Wi-Fi 3,PCI,,"['USD', '29.77']"
+Rosewill,RNX-G300LX,Wi-Fi 3,PCI,,"['USD', '0.00']"
+Rosewill,RNX-MiniN2(RWLD-11002),Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Rosewill,RNX-N150HG,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Rosewill,RNX-N150NUB,Wi-Fi 4,USB 2.0,,"['USD', '10.99']"
+Rosewill,RNX-N150PCe,Wi-Fi 4,PCIe x1,,"['USD', '0.00']"
+Rosewill,RNX-N150PCx,Wi-Fi 4,PCI,,"['USD', '19.99']"
+Rosewill,RNX-N150UBE,Wi-Fi 4,USB 2.0,,"['USD', '14.99']"
+Rosewill,RNX-N180UB,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Rosewill,RNX-N180UBE,Wi-Fi 4,USB 2.0,,"['USD', '17.99']"
+Rosewill,RNX-N250PC2,Wi-Fi 4,PCI,,"['USD', '0.00']"
+Rosewill,RNX-N250PCe,Wi-Fi 4,PCIe x1,,"['USD', '19.73']"
+Rosewill,RNX-N250UBE,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Rosewill,RNX-N300UB,Wi-Fi 4,USB 2.0,,"['USD', '14.99']"
+Rosewill,RNX-N300X,Wi-Fi 4,PCI,,"['USD', '39.90']"
+Rosewill,RNX-N600PCE_v2.0,Wi-Fi 4,PCIe x1,,"['USD', '23.99']"
+Rosewill,RNX-N600UB,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Rosewill,RNX-N600UBE,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+SIIG,CN-WR0811-S1,Wi-Fi 4,PCIe x1,,"['USD', '0.00']"
+SIIG,JU-WR0012-S1,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+SIIG,JU-WR0112-S1,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+SIIG,JU-WR0212-S1,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Sabrent,USB-802N,Wi-Fi 4,USB 2.0,Black,"['USD', '12.99']"
+Sabrent,USBG802,Wi-Fi 3,USB 2.0,Black,"['USD', '12.12']"
+Samsung,WIS12ABGNX/XAA,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+StarTech,PCI300WN2X2,Wi-Fi 4,PCI,,"['USD', '0.00']"
+StarTech,PEX300WN2X2,Wi-Fi 4,PCIe x1,,"['USD', '24.99']"
+StarTech,PEX867WAC22,Wi-Fi 5,PCIe x1,,"['USD', '66.98']"
+StarTech,USB150WN1X1,Wi-Fi 4,USB 2.0,,"['USD', '16.54']"
+StarTech,USB150WN1X1W,Wi-Fi 4,USB 1.0,,"['USD', '17.65']"
+StarTech,USB300WN2X2C,Wi-Fi 4,USB 2.0,,"['USD', '16.79']"
+StarTech,USB300WN2X2D,Wi-Fi 4,USB 1.0,,"['USD', '0.00']"
+StarTech,USB433ACD1X1,Wi-Fi 5,USB 2.0,Black,"['USD', '22.99']"
+StarTech,USB433WACDB,Wi-Fi 5,USB 2.0,,"['USD', '32.90']"
+StarTech,USB867WAC22,Wi-Fi 5,USB 3.0,,"['USD', '45.84']"
+Syba,CL-ADA23032,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Syba,CL-ADA24004,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+Syba,SY-ADA23026,Wi-Fi 4,USB 2.0,,"['USD', '11.78']"
+Syba,SY-PEX23059,Wi-Fi 4,PCIe x1,Green / Black,"['USD', '0.00']"
+Syba,SY-PEX23063,Wi-Fi 4,PCIe x1,,"['USD', '0.00']"
+TP-Link,ARCHER T2U PLUS,Wi-Fi 5,USB 2.0,Black,"['USD', '19.98']"
+TP-Link,ARCHER T4UHP,Wi-Fi 5,USB 3.0,Black,"['USD', '0.00']"
+TP-Link,Archer T1U,Wi-Fi 5,USB 2.0,,"['USD', '0.00']"
+TP-Link,Archer T2U,Wi-Fi 5,USB 2.0,,"['USD', '22.49']"
+TP-Link,Archer T2U Nano,Wi-Fi 4,USB 2.0,Black / Gold,"['USD', '12.99']"
+TP-Link,Archer T2UH,Wi-Fi 5,USB 2.0,,"['USD', '144.73']"
+TP-Link,Archer T3U,Wi-Fi 5,USB 3.0,Black,"['USD', '24.99']"
+TP-Link,Archer T4E,Wi-Fi 5,PCIe x1,,"['USD', '29.99']"
+TP-Link,Archer T4U,Wi-Fi 5,USB 3.0,,"['USD', '32.65']"
+TP-Link,Archer T4U V2,Wi-Fi 5,USB 3.0,Black,"['USD', '33.99']"
+TP-Link,Archer T4UH,Wi-Fi 5,USB 3.0,,"['USD', '99.95']"
+TP-Link,Archer T5E,Wi-Fi 5,PCIe x1,Black,"['USD', '39.99']"
+TP-Link,Archer T6E AC1300,Wi-Fi 5,PCIe x1,,"['USD', '34.99']"
+TP-Link,Archer T8E,Wi-Fi 5,PCIe x1,,"['USD', '0.00']"
+TP-Link,Archer T9E,Wi-Fi 5,PCIe x1,,"['USD', '139.99']"
+TP-Link,Archer T9UH,Wi-Fi 5,USB 3.0,Black,"['USD', '59.99']"
+TP-Link,Archer TX3000E,Wi-Fi 6,PCIe x1,Red / Black,"['USD', '44.99']"
+TP-Link,Archer TX50E,Wi-Fi 6,PCIe x1,Black,"['USD', '37.99']"
+TP-Link,TL-WDN3200,Wi-Fi 4,USB 2.0,,"['USD', '89.00']"
+TP-Link,TL-WDN3800,Wi-Fi 4,PCIe x1,,"['USD', '0.00']"
+TP-Link,TL-WDN4200,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+TP-Link,TL-WDN4800,Wi-Fi 4,PCIe x1,,"['USD', '140.00']"
+TP-Link,TL-WN350GD,Wi-Fi 3,PCI,,"['USD', '66.00']"
+TP-Link,TL-WN7200ND,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+TP-Link,TL-WN721N,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+TP-Link,TL-WN722N,Wi-Fi 4,USB 2.0,,"['USD', '15.99']"
+TP-Link,TL-WN723N,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+TP-Link,TL-WN725N,Wi-Fi 4,USB 2.0,,"['USD', '9.99']"
+TP-Link,TL-WN727N,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+TP-Link,TL-WN751ND,Wi-Fi 4,PCI,,"['USD', '0.00']"
+TP-Link,TL-WN781ND,Wi-Fi 4,PCIe x1,,"['USD', '0.00']"
+TP-Link,TL-WN8200ND,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+TP-Link,TL-WN821N,Wi-Fi 4,USB 2.0,,"['USD', '13.83']"
+TP-Link,TL-WN822N,Wi-Fi 4,USB 2.0,,"['USD', '20.22']"
+TP-Link,TL-WN823N,Wi-Fi 4,USB 2.0,,"['USD', '13.79']"
+TP-Link,TL-WN851ND,Wi-Fi 4,PCI,,"['USD', '34.99']"
+TP-Link,TL-WN881ND,Wi-Fi 4,PCIe x1,,"['USD', '17.98']"
+TP-Link,TL-WN951N,Wi-Fi 4,PCI,,"['USD', '0.00']"
+TRENDnet,TBW-108UB,Wi-Fi 4,USB 2.0,Black,"['USD', '13.99']"
+TRENDnet,TEW-424UB,Wi-Fi 3,USB 2.0,,"['USD', '30.59']"
+TRENDnet,TEW-623PI,Wi-Fi 4,PCI,,"['USD', '55.10']"
+TRENDnet,TEW-624UB,Wi-Fi 4,USB 2.0,,"['USD', '60.91']"
+TRENDnet,TEW-643PI,Wi-Fi 4,PCI,,"['USD', '29.10']"
+TRENDnet,TEW-646UBH,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+TRENDnet,TEW-648UB,Wi-Fi 4,USB 2.0,,"['USD', '29.98']"
+TRENDnet,TEW-648UBM,Wi-Fi 4,USB 2.0,,"['USD', '49.95']"
+TRENDnet,TEW-649UB,Wi-Fi 4,USB 2.0,,"['USD', '79.95']"
+TRENDnet,TEW-664UB,Wi-Fi 4,USB 2.0,,"['USD', '0.00']"
+TRENDnet,TEW-684UB,Wi-Fi 4,USB 2.0,,"['USD', '15.98']"
+TRENDnet,TEW-703PI,Wi-Fi 4,PCI,,"['USD', '52.28']"
+TRENDnet,TEW-703PIL,Wi-Fi 4,PCI,,"['USD', '15.99']"
+TRENDnet,TEW-726EC,Wi-Fi 4,PCIe x1,,"['USD', '88.95']"
+TRENDnet,TEW-804UB,Wi-Fi 5,USB 2.0,,"['USD', '0.00']"
+TRENDnet,TEW-805UB,Wi-Fi 5,USB 3.0,,"['USD', '0.00']"
+TRENDnet,TEW-806UBH,Wi-Fi 5,USB 2.0,,"['USD', '0.00']"
+TRENDnet,TEW-807ECH,Wi-Fi 5,PCIe x1,,"['USD', '39.99']"
+TRENDnet,TEW-808UBM,Wi-Fi 5,USB 2.0,Black,"['USD', '21.99']"
+Ziyituod,ZYT-7265,Wi-Fi 5,PCIe x1,Green,"['USD', '0.00']"
+Ziyituod,ZYT-AX200,Wi-Fi 6,PCIe x1,Green,"['USD', '29.99']"
+fenvi,FV-8802,Wi-Fi 5,PCIe x1,Black / Orange,"['USD', '27.99']"
+fenvi,FV-T919,Wi-Fi 5,PCIe x1,Black / Gold,"['USD', '59.99']"
+fenvi,FV8303,Wi-Fi 4,PCIe x1,,"['USD', '0.00']"

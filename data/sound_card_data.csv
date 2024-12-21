@@ -1,0 +1,138 @@
+brand,model,channels,bitrate,snr,sample_rate,chipset,interface,price
+asus,essence stx ii,0.0,0.5,0.9180327868852458,0.4351279788172992,asus av100,pcie x1,0.0
+asus,essence stx ii 7.1,1.0,0.5,0.9180327868852458,0.4351279788172992,asus av100,pcie x1,0.0
+asus,strix raid dlx,1.0,0.5,0.9180327868852458,0.4351279788172992,asus av100,pcie x1,0.0
+asus,strix raid pro,1.0,0.5,0.7868852459016393,0.4351279788172992,asus av100,pcie x1,0.0
+asus,strix soar,1.0,0.5,0.7868852459016393,0.4351279788172992,asus av100,pcie x1,0.0
+asus,xonar ae,1.0,0.5,0.6885245901639343,0.4351279788172992,asus av100,pcie x1,0.0
+asus,xonar d1,1.0,0.5,0.7868852459016393,0.4351279788172992,asus av100,pci,0.0
+asus,xonar dg,0.6078431372549019,0.5,0.6065573770491803,0.1526919682259488,c-media cmi8786,pci,0.0
+asus,xonar dgx,0.6078431372549019,0.5,0.6065573770491803,0.1526919682259488,c-media cmi8786,pcie x1,0.0
+asus,xonar ds,1.0,0.5,0.639344262295082,0.4351279788172992,asus av200,pci,0.0
+asus,xonar dsx,1.0,0.5,0.639344262295082,0.4351279788172992,asus av66,pcie x1,0.0
+asus,xonar dx,1.0,0.5,0.7868852459016393,0.4351279788172992,asus av100,pcie x1,0.0
+asus,xonar essence,1.0,0.5,0.9180327868852458,0.4351279788172992,asus av100,pci,0.0
+asus,xonar essence st,1.0,0.5,0.9180327868852458,0.4351279788172992,asus av100,pci,0.0
+asus,xonar essence stx,1.0,0.5,0.9180327868852458,0.4351279788172992,asus av100,pcie x1,0.0
+asus,xonar phoebus,1.0,0.5,0.819672131147541,0.1526919682259488,c-media cmi8888dht,pcie x1,0.0
+asus,xonar se,0.6078431372549019,0.5,0.8524590163934427,0.4351279788172992,c-media cmi8888dht,pcie x1,0.0
+creative labs,70sb135a00002,0.6078431372549019,0.5,0.5573770491803278,0.1526919682259488,sound core3d,pcie x1,0.0
+creative labs,70sb157000000,0.6078431372549019,0.5,0.6229508196721312,0.1526919682259488,sound core3d,pcie x1,0.0
+creative labs,audigy rx,1.0,0.5,0.6229508196721312,0.4351279788172992,sound core3d,pcie x1,0.0
+creative labs,audigy se,1.0,0.5,0.5245901639344261,0.1526919682259488,audigy se,pci,0.0
+creative labs,recon3d fatal1ty champion,0.6078431372549019,0.5,0.5573770491803278,0.1526919682259488,sound core3d,pcie x1,0.0
+creative labs,recon3d fatal1ty professional,0.6078431372549019,0.5,0.5573770491803278,0.1526919682259488,sound core3d,pcie x1,0.0
+creative labs,recon3d pcie,0.6078431372549019,0.5,0.5573770491803278,0.1526919682259488,sound core3d,pcie x1,0.0
+creative labs,sb x-fi xtreme audio,1.0,0.5,0.5245901639344261,0.1526919682259488,sound core3d,pcie x1,0.0
+creative labs,sound blaster ae-7,0.0,1.0,0.9672131147540984,1.0,sound core3d,pcie x1,0.0
+creative labs,sound blaster ae-9,1.0,1.0,0.9999999999999998,1.0,sound core3d,pcie x1,0.0
+creative labs,sound blaster audigy fx,0.6078431372549019,1.0,0.6229508196721312,0.4351279788172992,sound core3d,pcie x1,0.0
+creative labs,sound blaster audigy rx,1.0,0.5,0.6229508196721312,0.4351279788172992,sound core3d,pcie x1,0.0
+creative labs,sound blaster audigy2 zs,0.6078431372549019,0.5,0.6229508196721312,0.4351279788172992,audigy2,pci,0.0
+creative labs,sound blaster x-fi sb0670,1.0,0.5,0.6721311475409835,0.4351279788172992,audigy2,pci,0.0
+creative labs,sound blaster x-fi titanium hd,1.0,0.5,0.8852459016393441,0.1526919682259488,x-fi,pcie x1,0.0
+creative labs,sound blaster x-fi xtreme audio,1.0,0.5,0.6557377049180328,0.1526919682259488,x-fi,pci,0.0
+creative labs,sound blaster z 30sb150200000 oem,0.6078431372549019,0.5,0.7868852459016393,0.4351279788172992,x-fi,pcie x1,0.0
+creative labs,sound blaster z 70sb150200000,0.6078431372549019,0.5,0.7868852459016393,0.4351279788172992,x-fi,pcie x1,0.0
+creative labs,sound blaster zx,0.6078431372549019,0.5,0.7868852459016393,0.4351279788172992,x-fi,pcie x1,0.0
+creative labs,sound blasterx ae-5 plus,0.0,0.5,0.7868852459016393,0.4351279788172992,x-fi,pcie x1,0.0
+creative labs,z pcie,0.6078431372549019,0.5,0.7868852459016393,0.1526919682259488,x-fi,pcie x1,0.0
+creative labs,zxr,0.6078431372549019,0.5,0.9180327868852458,0.4351279788172992,x-fi,pcie x1,0.0
+diamond,xtremesound xs51,0.6078431372549019,0.0,0.9180327868852458,0.0114739629302736,x-fi,pci,0.0
+diamond,xtremesound xs71,1.0,0.0,0.9180327868852458,0.1526919682259488,x-fi,pci,0.0
+evga,nu,0.6078431372549019,0.5,0.9016393442622952,0.4351279788172992,x-fi,pcie x1,0.0
+evga,nu audio pro,0.0,1.0,0.9016393442622952,1.0,x-fi,pcie x1,0.0
+encore,enm232-6via,0.6078431372549019,0.5,0.9016393442622952,0.1526919682259488,via vt1723,pci,0.0
+encore,enm232-8via,1.0,0.5,0.9016393442622952,0.1526919682259488,via vt1723,pci,0.0
+ht omega,claro ii,1.0,0.5,0.8524590163934427,0.4351279788172992,c-media cmi8788,pci,0.0
+ht omega,claro halo,0.6078431372549019,0.5,0.8524590163934427,0.4351279788172992,c-media cmi8788,pci,0.0
+ht omega,claro halo xt,1.0,0.5,0.8524590163934427,0.4351279788172992,c-media cmi8788,pci,0.0
+ht omega,fenix,1.0,0.5,0.8524590163934427,0.4351279788172992,c-media cmi8788,pcie x1,0.0
+ht omega,striker,1.0,0.5,0.8524590163934427,0.4351279788172992,c-media cmi8770,pci,0.0
+ht omega,eclaro,1.0,0.5,0.8524590163934427,0.4351279788172992,c-media cmi8788,pcie x1,0.0
+m-audio,audiophile 192,0.3921568627450981,0.5,0.8524590163934427,0.4351279788172992,c-media cmi8788,pci,0.0
+m-audio,us41500c,0.0,0.5,0.5901639344262295,0.1526919682259488,c-media cmi8788,pci,0.0
+powercolor,devil hdx 7.1,1.0,0.0,0.9180327868852458,0.4351279788172992,c-media cmi8788,pcie x1,0.0
+rosewill,rc-701,0.6078431372549019,0.0,0.9180327868852458,0.4351279788172992,c-media cmi8738,pci,0.0
+rosewill,rc-702,1.0,0.0,0.9180327868852458,0.1526919682259488,c-media cmi8768,pci,0.0
+rosewill,rc-703,1.0,0.0,0.9180327868852458,0.0,c-media cmi8768,pcie x1,0.0
+siig,dp soundwave,0.6078431372549019,0.5,0.9180327868852458,0.0,c-media cmi8768,pcie x1,0.0
+siig,ic-510012-s2,0.6078431372549019,0.0,0.0,0.0,c-media cmi8768,pci,0.0
+siig,ic-510111-s2,0.6078431372549019,0.5,0.360655737704918,0.1526919682259488,via vt1723,pcie x1,0.0
+siig,ic-710012-s2,1.0,0.5,0.3934426229508196,0.1526919682259488,via vt1723,pci,0.0
+siig,lp-000022-s2,0.6078431372549019,0.5,0.360655737704918,0.1526919682259488,via vt1723,pci,0.0
+startech,pcisound4ch,0.3921568627450981,0.0,0.360655737704918,0.0114739629302736,c-media cmi8738,pci,0.0
+startech,pcisound4lp,0.3921568627450981,0.0,0.360655737704918,0.0114739629302736,c-media cmi8738,pci,0.0
+startech,pcisound5ch,0.6078431372549019,0.5,0.360655737704918,0.0114739629302736,c-media cmi8738,pci,0.0
+syba,sd-pex63034,1.0,0.5,0.360655737704918,0.0114739629302736,c-media cmi8738,pcie x1,0.0
+turtle beach,tbs-3429,0.6078431372549019,0.5,0.360655737704918,0.0114739629302736,c-media cmi8738,pci,0.0
+vantec,ugt-s100,1.0,0.5,0.360655737704918,0.0114739629302736,c-media cmi8738,pci,0.0
+Asus,Essence STX II,2.0,24.0,124.0,192.0,ASUS AV100,PCIe x1,"['USD', '590.75']"
+Asus,Essence STX II 7.1,7.1,24.0,124.0,192.0,ASUS AV100,PCIe x1,"['USD', '0.00']"
+Asus,STRIX RAID DLX,7.1,24.0,124.0,192.0,,PCIe x1,"['USD', '219.99']"
+Asus,STRIX RAID PRO,7.1,24.0,116.0,192.0,,PCIe x1,"['USD', '0.00']"
+Asus,STRIX SOAR,7.1,24.0,116.0,192.0,,PCIe x1,"['USD', '109.94']"
+Asus,Xonar AE,7.1,24.0,110.0,192.0,,PCIe x1,"['USD', '69.99']"
+Asus,Xonar D1,7.1,24.0,116.0,192.0,ASUS AV100,PCI,"['USD', '0.00']"
+Asus,Xonar DG,5.1,24.0,105.0,96.0,C-Media CMI8786,PCI,"['USD', '0.00']"
+Asus,Xonar DGX,5.1,24.0,105.0,96.0,C-Media CMI8786,PCIe x1,"['USD', '0.00']"
+Asus,Xonar DS,7.1,24.0,107.0,192.0,ASUS AV200,PCI,"['USD', '0.00']"
+Asus,Xonar DSX,7.1,24.0,107.0,192.0,ASUS AV66,PCIe x1,"['USD', '0.00']"
+Asus,Xonar DX,7.1,24.0,116.0,192.0,ASUS AV100,PCIe x1,"['USD', '0.00']"
+Asus,Xonar Essence,7.1,24.0,124.0,192.0,ASUS AV100,PCI,"['USD', '0.00']"
+Asus,Xonar Essence ST,7.1,24.0,124.0,192.0,ASUS AV100,PCI,"['USD', '0.00']"
+Asus,Xonar Essence STX,7.1,24.0,124.0,192.0,ASUS AV100,PCIe x1,"['USD', '0.00']"
+Asus,Xonar Phoebus,7.1,24.0,118.0,96.0,C-Media CMI8888DHT,PCIe x1,"['USD', '0.00']"
+Asus,Xonar SE,5.1,24.0,120.0,192.0,,PCIe x1,"['USD', '39.99']"
+Creative Labs,70SB135A00002,5.1,24.0,102.0,96.0,Sound Core3D,PCIe x1,"['USD', '0.00']"
+Creative Labs,70SB157000000,5.1,,106.0,,,PCIe x1,"['USD', '36.99']"
+Creative Labs,AUDIGY RX,7.1,24.0,,192.0,,PCIe x1,"['USD', '0.00']"
+Creative Labs,Audigy SE,7.1,24.0,,96.0,Audigy SE,PCI,"['USD', '0.00']"
+Creative Labs,Recon3D Fatal1ty Champion,5.1,24.0,102.0,96.0,Sound Core3D,PCIe x1,"['USD', '0.00']"
+Creative Labs,Recon3D Fatal1ty Professional,5.1,24.0,102.0,96.0,Sound Core3D,PCIe x1,"['USD', '0.00']"
+Creative Labs,Recon3D PCIe,5.1,24.0,102.0,96.0,Sound Core3D,PCIe x1,"['USD', '0.00']"
+Creative Labs,SB X-Fi Xtreme Audio,7.1,24.0,100.0,96.0,,PCIe x1,"['USD', '0.00']"
+Creative Labs,Sound Blaster AE-7,2.0,32.0,127.0,384.0,Sound Core3D,PCIe x1,"['USD', '195.35']"
+Creative Labs,Sound Blaster AE-9,7.1,32.0,129.0,384.0,Sound Core3D,PCIe x1,"['USD', '329.99']"
+Creative Labs,Sound Blaster Audigy Fx,5.1,,106.0,192.0,,PCIe x1,"['USD', '52.33']"
+Creative Labs,Sound Blaster Audigy Rx,7.1,24.0,106.0,192.0,,PCIe x1,"['USD', '56.99']"
+Creative Labs,Sound Blaster Audigy2 ZS,5.1,24.0,,192.0,Audigy2,PCI,"['USD', '175.27']"
+Creative Labs,Sound Blaster X-Fi SB0670,7.1,24.0,109.0,192.0,,PCI,"['USD', '0.00']"
+Creative Labs,Sound Blaster X-Fi Titanium HD,7.1,24.0,122.0,96.0,X-Fi,PCIe x1,"['USD', '0.00']"
+Creative Labs,Sound Blaster X-Fi Xtreme Audio,7.1,24.0,108.0,96.0,,PCI,"['USD', '0.00']"
+Creative Labs,Sound Blaster Z 30SB150200000 OEM,5.1,24.0,116.0,192.0,,PCIe x1,"['USD', '0.00']"
+Creative Labs,Sound Blaster Z 70SB150200000,5.1,24.0,116.0,192.0,,PCIe x1,"['USD', '0.00']"
+Creative Labs,Sound Blaster Zx,5.1,24.0,116.0,192.0,,PCIe x1,"['USD', '0.00']"
+Creative Labs,Sound BlasterX AE-5 Plus,2.0,,,,,PCIe x1,"['USD', '127.99']"
+Creative Labs,Z PCIe,5.1,24.0,116.0,96.0,,PCIe x1,"['USD', '79.98']"
+Creative Labs,ZXR,5.1,24.0,124.0,192.0,,PCIe x1,"['USD', '0.00']"
+Diamond,XtremeSound XS51,5.1,16.0,,48.0,,PCI,"['USD', '0.00']"
+Diamond,XtremeSound XS71,7.1,16.0,,96.0,,PCI,"['USD', '53.99']"
+EVGA,NU,5.1,24.0,123.0,192.0,,PCIe x1,"['USD', '172.98']"
+EVGA,NU AUDIO PRO,2.0,32.0,123.0,384.0,,PCIe x1,"['USD', '0.00']"
+Encore,ENM232-6VIA,5.1,24.0,,96.0,VIA VT1723,PCI,"['USD', '28.00']"
+Encore,ENM232-8VIA,7.1,24.0,,96.0,VIA VT1723,PCI,"['USD', '0.00']"
+HT Omega,CLARO II,7.1,24.0,120.0,192.0,C-Media CMI8788,PCI,"['USD', '0.00']"
+HT Omega,Claro Halo,5.1,24.0,,192.0,C-Media CMI8788,PCI,"['USD', '0.00']"
+HT Omega,Claro Halo XT,7.1,24.0,,192.0,C-Media CMI8788,PCI,"['USD', '0.00']"
+HT Omega,FENIX,7.1,24.0,,192.0,,PCIe x1,"['USD', '0.00']"
+HT Omega,STRIKER,7.1,,,,C-Media CMI8770,PCI,"['USD', '0.00']"
+HT Omega,eClaro,7.1,24.0,,192.0,C-Media CMI8788,PCIe x1,"['USD', '184.99']"
+M-Audio,Audiophile 192,4.0,24.0,,192.0,,PCI,"['USD', '0.00']"
+M-Audio,US41500C,2.0,24.0,104.0,96.0,,PCI,"['USD', '0.00']"
+PPA International,1431v,5.1,16.0,,,,PCI,"['USD', '0.00']"
+PowerColor,DEVIL HDX 7.1,7.1,,124.0,192.0,,PCIe x1,"['USD', '0.00']"
+Rosewill,RC-701,5.1,,,,C-Media CMI8738,PCI,"['USD', '0.00']"
+Rosewill,RC-702,7.1,16.0,,96.0,C-Media CMI8768,PCI,"['USD', '0.00']"
+Rosewill,RC-703,7.1,,,44.1,,PCIe x1,"['USD', '0.00']"
+SIIG,DP SoundWave,5.1,24.0,,,,PCIe x1,"['USD', '0.00']"
+SIIG,IC-510012-S2,5.1,16.0,68.0,,,PCI,"['USD', '0.00']"
+SIIG,IC-510111-S2,5.1,24.0,90.0,96.0,VIA VT1723,PCIe x1,"['USD', '0.00']"
+SIIG,IC-710012-S2,7.1,24.0,92.0,96.0,,PCI,"['USD', '0.00']"
+SIIG,LP-000022-S2,5.1,24.0,90.0,96.0,VIA VT1723,PCI,"['USD', '0.00']"
+StarTech,PCISOUND4CH,4.0,16.0,,48.0,C-Media CMI8738,PCI,"['USD', '61.59']"
+StarTech,PCISOUND4LP,4.0,16.0,,48.0,C-Media CMI8738,PCI,"['USD', '61.59']"
+StarTech,PCISOUND5CH,5.1,24.0,,48.0,C-Media CMI8738,PCI,"['USD', '0.00']"
+Syba,SD-PEX63034,7.1,24.0,,48.0,,PCIe x1,"['USD', '0.00']"
+Turtle Beach,TBS-3429,5.1,24.0,,48.0,,PCI,"['USD', '0.00']"
+Vantec,UGT-S100,7.1,,,48.0,,PCI,"['USD', '0.00']"

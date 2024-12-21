@@ -1,4 +1,4 @@
-import parts_fetch as pf
+import src.data_processing.parts_fetch as pf
 
 def update_all_components():
     """
